@@ -1,0 +1,5000 @@
+.cont{
+    background-color:  #3084fc;   
+    height: 35vh;
+    max-width: 2000px;
+
+}
+
+.contheader{
+   padding-top: 5rem;
+   padding-left: 1rem;
+   font-size: 45px;
+   font-weight: 500;
+   color: #fff;
+   font-family: sans-serif;
+}
+.contimg{
+    width: 80px;
+    height: 135px;
+    margin-top: 9em;
+    margin-left: 19rem;
+}
+.emailimg{
+    width: 190px;
+    height: 135px;
+    margin-top: 9em;
+    margin-left: 2rem;
+    
+}
+.callbali{
+    padding-top: 1rem;
+    font-size: 18px;
+    padding-left: 16rem;
+    color:#3084fc;
+    text-decoration: underline;
+    cursor: pointer;
+}
+.emailh{
+    padding-top: 1rem;
+    font-size: 18px;
+    padding-left: 6rem;
+    color:#3084fc;
+    text-decoration: underline;
+    cursor: pointer;
+}
+.callpbali{
+  padding-left: 18rem;
+  color: #616161;
+  font-size: 15px;
+  opacity: .88;
+
+
+}
+.chath{
+    padding-top: 1rem;
+    font-size: 18px;
+    padding-left: 6rem;
+    color:#3084fc;
+    text-decoration: underline;
+    cursor: pointer;
+}
+.touchheader20{
+    font-weight: 600;
+    color: #616161;
+    padding-left: 23rem;
+    padding-top: 31rem;
+    font-size: 52px;
+    
+    font-family: 'Open Sans', sans-serif;
+}
+.touchheader21{
+    font-weight: 600;
+    color: #616161;
+    padding-left: 23rem;
+    padding-top:4rem;
+    font-size: 52px;
+    margin-top: -2rem;
+    font-family: 'Open Sans', sans-serif;
+}
+.modlheader{
+    font-size: 35px;
+    padding-top: 2rem;
+    font-family: 'Poppins', sans-serif;
+    color: #616161;
+}
+.whatppheader{
+    padding-left: 1rem;
+    font-size: 25px;
+    padding-top: 2rem;
+    font-family: 'Poppins', sans-serif;
+    color: #616161;
+}
+.Emailheader{
+    padding-left: 1rem;
+    font-size: 25px;
+    padding-top: 2rem;
+    font-family: 'Poppins', sans-serif;
+    color: #616161;
+}
+.Emailheader:hover{
+    cursor: pointer;
+    color: blue;
+}
+.redanswer{
+ background-color: red;
+}
+.whatpp{
+    font-size: 18px;
+    padding-left: 1rem;
+}
+.whatpp:hover{
+    color: red;
+    cursor: pointer;
+}
+.modalp{
+    padding-left: 1rem;
+    padding-top: 1rem;
+    font-family: 'Open Sans', sans-serif;
+    color: #616161;
+    font-size: 23px;
+    
+}
+.questions{
+    margin-top: 18rem;
+    background-color: #f5f5f5;
+    height: 120vh;
+    max-width: 2000px;
+}
+.questions1{
+    position: static;
+    max-width: 1285px;
+    background-color: #fff;
+    padding-top: 2rem;
+    margin-left: 2rem;
+    margin-top: 2.2rem;
+    height: 100vh;
+    
+}
+.basicheader{
+  cursor: default;  
+  padding-left: 2rem;
+  padding-top: 1.7rem;
+  font-family: 'Open Sans',sans-serif;
+  font-size: 20px;
+  font-weight: 400px;
+  color: #3084fc;
+}
+.basicheader2{
+    padding-top: 1rem;
+    cursor: default;  
+   padding-left: 2rem;
+   margin-top: -32rem;
+   font-family: 'Open Sans',sans-serif;
+   font-size: 20px;
+   font-weight: 400px;
+   color: #3084fc;
+}
+
+.questimg{
+    color: #3084fc;
+    margin-top: -0.5rem;
+    margin-left: 1rem;
+    cursor: pointer;
+}
+.questimgpadd{
+    color: #3084fc;
+    margin-top: 1.4rem;
+    margin-left: 13.8rem;
+    cursor: pointer;
+}
+.techimg{
+    color: #3084fc;
+    margin-top: 1rem;
+    margin-left: 13.8rem;
+    cursor: pointer;
+}
+.questimgpadd1{
+    color: #3084fc;
+    margin-top: 1rem;
+    margin-left: 13.9rem;
+    cursor: pointer;
+}
+.quesheader{
+    padding-left: 0.9rem;
+    font-family: 'Open Sans',sans-serif;
+    font-weight: 400;
+    font-size: 22px;
+    color: #444444;
+    margin-top: -0.3rem;
+    
+}
+.quesheader1{
+    cursor: pointer;
+    margin-top: -1.8rem;
+    padding-left: 17rem;
+    font-family: 'Open Sans',sans-serif;
+    font-weight: 400;
+    font-size: 22px;
+    color: #444444;
+
+    
+}
+.quesheader:hover{
+    color: #3084fc;
+    cursor: pointer;
+}
+.quesheader1:hover{
+    color: #3084fc;
+}
+.vl2{
+    margin-top: -2rem;
+    margin-left: 0rem;
+    border-left: 4px solid #3084fc;
+    height: 60px;
+}
+.vl3{
+    margin-top: -7rem;
+    margin-left: 2rem;
+    border-left: 4px solid #3084fc;
+    height: 60px;
+}
+.basic1ans{
+ color: #616161;
+  padding-top: 0.5rem;
+  font-size: 15px;
+  font-family: 'Open Sans',sans-serif;
+  padding-left: 18.1rem;
+}
+.basic2ans{
+    color: #616161;
+     padding-top: -1rem;
+     font-size: 15px;
+     font-family: 'Open Sans',sans-serif;
+     padding-left: 17rem;
+   }
+   .basic3ans{
+    color: #616161;
+     font-size: 15px;
+     font-family: 'Open Sans',sans-serif;
+     padding-left: 17rem;
+   }
+.technicalfaq{
+   margin-top: -11rem;
+    max-width: 1285px;
+    background-color:lightblue;
+    margin-left: 2rem;
+    height: 100vh;
+}
+.signp{
+    color: #5F6368;
+    padding-left: 31rem;
+    margin-top: 5rem;
+
+}
+.signp2{
+    color: #5F6368;
+    padding-left: 32rem;
+}
+.signp3{
+    color: #5F6368;
+    padding-left: 34rem;
+
+}
+.signp4{
+    color: #5F6368;
+    margin-top: -1rem;
+    margin-left: 35rem;
+    font-size: 15px;
+
+}
+.signp5{
+    color: #5F6368;
+    margin-top: -1rem;
+    text-align-last: center;
+    
+}
+.fbk{
+    color: #fff;
+    background-color: #80868b;
+    border-radius: 50%;
+    cursor: pointer;
+    margin-top: 3rem;
+   margin-left: 30rem;
+   padding-top: 0.5rem;
+   padding-bottom: 0.5rem;
+   padding-left: 0.5rem;
+   padding-right: 0.5rem;
+   height: 40px;
+   width: 40px;
+}
+.fbk:hover{
+  background-color:#2c3e50;
+}
+
+
+.ut{
+    color: #fff;
+    background-color: #80868b;
+    border-radius: 50%;
+    cursor: pointer;
+   padding-left: 0.5rem;
+   padding-right: 0.5rem;
+   padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+   height: 40px;
+   width: 40px;
+    margin-top: 3rem;
+    margin-left: 11rem;
+
+}
+.fa-facebook-f{
+    transform: scale(1.1,1); 
+}
+.fa-youtube 
+{ transform: scale(0.8,1); 
+}
+.ut:hover{
+    background-color: #2c3e50;
+}
+.twtter{
+    color: #fff;
+    background-color: #80868b;
+    border-radius: 50%;
+    cursor: pointer;
+   padding-left: 0.5rem;
+   padding-right: 0.5rem;
+   padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+   height: 40px;
+   width: 40px;
+    
+    margin-top: 3rem;
+    
+}
+.twtter:hover{
+    background-color: #2c3e50;
+}
+#footer{
+    background-color: #f5f5f5;
+    height: 50vh;
+    max-width: 2000px;
+    margin-top: 8rem;
+    
+}
+.chkavail{
+    color:#5f6368;
+    font-size: 12px;
+    padding-left: 15rem;
+    padding-top: 3rem;
+    font-family: "Google Sans","Roboto",Arial,Helvetica,sans-serif;    
+    font-weight: 600;
+
+}
+.chkavail2{
+    color:#616161;
+    font-size: 12px;
+    padding-left: 18.5rem;
+    margin-top: -2.1rem;
+    font-family: "Google Sans","Roboto",Arial,Helvetica,sans-serif;    
+    font-weight: 600;
+
+}
+.explore{
+    color:#616161;
+    font-size: 12px;
+    padding-left: 6rem;
+    padding-top: 3rem;
+    font-family: "Google Sans","Roboto",Arial,Helvetica,sans-serif;    
+    font-weight: 600;
+}
+
+
+
+.resident{
+    padding-left: 10rem;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    color: #616161;
+    opacity: .48;
+    font-weight: 400;
+    cursor: pointer;
+}
+
+
+.bit{
+    font-family: 'Open Sans', sans-serif;
+    padding-left: 0.8rem;
+    font-size: 14px;
+    color: #616161;
+    opacity: .48;
+    font-weight: 400;
+}
+@media screen and (min-width:639px) and (max-width:768px){
+    .logo{
+        width: 150px;
+        height: 50px;
+        padding-left: 1rem;
+        margin-top: -2rem;
+    
+        
+    }
+    .cont{
+        background-color:  #3084fc;   
+        height: 23vh;
+        max-width: 2000px;
+    
+    }
+    .contheader{
+       padding-top: 3rem;
+       padding-left: 1rem;
+       font-size: 32px;
+       font-weight: 600;
+       color: #fff;
+       font-family: 'Open Sans',sans-serif;
+    
+    }
+    .contimg{
+        width: 60px;
+        height: 100px;
+        margin-top: 5.5em;
+        margin-left: 5rem;
+    }
+    .emailimg{
+        width: 150px;
+        height: 100px;
+        margin-top: 5.5em;
+        margin-left: -2rem;
+        
+    }
+    .chatimg{
+        width: 117px;
+        height: 100px;
+        margin-top: 5.5em;
+        margin-left: 2rem;
+        
+    }
+    .callbali{
+        padding-top: 1rem;
+        font-size: 18px;
+        padding-left: 2rem;
+        color:#3084fc;
+        text-decoration: underline;
+        cursor: pointer;
+    }
+    .emailh{
+        padding-top: 1rem;
+        font-size: 18px;
+        padding-left: 1rem;
+        color:#3084fc;
+        text-decoration: underline;
+        cursor: pointer;
+    }
+    .chath{
+        padding-top: 1rem;
+        font-size: 18px;
+        padding-left: 2.5rem;
+        color:#3084fc;
+        text-decoration: underline;
+        cursor: pointer;
+    }
+    .callpbali{
+      padding-left: 3rem;
+      color: #616161;
+      font-size: 15px;
+      opacity: .88;
+    
+    
+    }
+    .touchheader20{
+        font-weight: 600;
+        color: #616161;
+        padding-left: 23rem;
+        padding-top: 31rem;
+        font-size: 52px;
+        
+        font-family: 'Open Sans', sans-serif;
+    }
+    .touchheader21{
+        font-weight: 600;
+        color: #616161;
+        padding-left: 23rem;
+        padding-top:4rem;
+        font-size: 52px;
+        margin-top: -2rem;
+        font-family: 'Open Sans', sans-serif;
+    }
+    .modlheader{
+        font-size: 35px;
+        padding-top: 2rem;
+        font-family: 'Poppins', sans-serif;
+        color: #616161;
+    }
+    .whatppheader{
+        padding-left: 1rem;
+        font-size: 25px;
+        padding-top: 2rem;
+        font-family: 'Poppins', sans-serif;
+        color: #616161;
+    }
+    .redanswer{
+     background-color: red;
+    }
+    .whatpp{
+        font-size: 18px;
+        padding-left: 1rem;
+    }
+    .pp1{
+        font-size: 18px;
+        padding-left: 2rem;
+        margin-top: -2rem;
+    }
+    .whatpp:hover{
+        color: red;
+        cursor: pointer;
+    }
+    .pp1:hover{
+        color: red;
+        cursor: pointer;
+    }
+    .modalp{
+        padding-left: 1rem;
+        padding-top: 1rem;
+        font-family: 'Open Sans', sans-serif;
+        color: #616161;
+        font-size: 23px;
+        
+    }
+    .questions{
+        margin-top: 18rem;
+        background-color: #f5f5f5;
+        height: 130vh;
+        max-width: 2000px;
+    }
+    .questions1{
+        position: static;
+        max-width: 1285px;
+        background-color: #fff;
+        padding-top: 2rem;
+        margin-left: 2rem;
+        margin-top: 2.2rem;
+        height: 110vh;
+        
+    }
+    .basicheader{
+      cursor: default;  
+      padding-left: 1.5rem;
+      padding-top: 1rem;
+      font-family: 'Open Sans',sans-serif;
+      font-size: 18px;
+      color: black;
+
+    }
+    .basicheader2{
+        padding-top: 1rem;
+        cursor: default;  
+       padding-left: 2rem;
+       margin-top: -32rem;
+       font-family: 'Open Sans',sans-serif;
+       font-size: 20px;
+       font-weight: 400px;
+       color: #3084fc;
+    }
+    
+    .questimg{
+        color: #3084fc;
+        margin-top: 3.9rem;
+        margin-left: -4rem;
+        cursor: pointer;
+        width: 1.3em;
+        height: 1.3em;
+    }
+    .questimgpadd{
+        color: #3084fc;
+        margin-top: 1.3rem;
+        margin-left: 1.6rem;
+        cursor: pointer;
+        width: 1.3em;
+        height: 1.3em;
+    }
+    
+    .techimg{
+        color: #3084fc;
+        margin-top: 1rem;
+        margin-left: 13.8rem;
+        cursor: pointer;
+    }
+    .questimgpadd1{
+        color: #3084fc;
+        margin-top: -1rem;
+        margin-left: 13.9rem;
+        cursor: pointer;
+        width: 1.3em;
+        height: 1.3em;
+        margin-left: 1.6rem;
+    }
+    .questimgpadd3{
+        color: #3084fc;
+        margin-top: 1rem;
+        margin-left: 13.9rem;
+        cursor: pointer;
+        width: 1.3em;
+        height: 1.3em;
+        margin-left: 1.6rem;
+    }
+    .quesheader{
+        margin-left: -3rem;
+        font-family: 'Open Sans',sans-serif;
+        font-weight: 400;
+        font-size: 16px;
+        color: #616161;
+        margin-top: 4rem;
+        
+    }
+    .quesheader1{
+        cursor: pointer;
+        margin-top: -1rem;
+        margin-left: -12.5rem;
+        font-family: 'Open Sans',sans-serif;
+        font-weight: 400;
+        font-size: 16px;
+        color: #616161;
+    
+        
+    }
+    .quesheader2{
+        cursor: pointer;
+        margin-top: -1.4rem;
+        margin-left: -12.5rem;
+        font-family: 'Open Sans',sans-serif;
+        font-weight: 400;
+        font-size: 16px;
+        color: #616161;
+    
+        
+    }
+    .quesheader:hover{
+        color: #3084fc;
+        cursor: pointer;
+    }
+    .quesheader1:hover{
+        color: #3084fc;
+    }
+    .vl2{
+        margin-top: -2rem;
+        margin-left: 0rem;
+        border-left: none;
+        height: 60px;
+    }
+    .vl23{
+        margin-top: -2rem;
+        margin-left: 0rem;
+        border-bottom: 2px solid #616161;
+        width: 610px;
+        height: 60px;
+    
+    }
+    .vl3{
+        margin-top: -7rem;
+        margin-left: 2rem;
+        border-left: 4px solid #3084fc;
+        height: 60px;
+    }
+    .basic1ans{
+     color: #616161;
+      padding-top: 0.5rem;
+      font-size: 14px;
+      font-family: 'Open Sans',sans-serif;
+      padding-left: 5.5rem;
+    }
+    .basic2ans{
+        color: #616161;
+         padding-top: -1rem;
+         font-size: 14px;
+         font-family: 'Open Sans',sans-serif;
+         padding-left: 4.6rem;
+       }
+       .basic3ans{
+        color: #616161;
+         font-size: 14px;
+         font-family: 'Open Sans',sans-serif;
+         padding-left: 4.6rem;
+       }
+    .technicalfaq{
+       margin-top: -11rem;
+        max-width: 1285px;
+        background-color:lightblue;
+        margin-left: 2rem;
+        height: 100vh;
+    }
+    .giga3{
+        padding-left: 8.5rem;
+        padding-top: 3rem;
+        font-size: 30px;
+        font-weight: 600;
+        font-family: 'Open Sans', sans-serif;
+        color: #616161;
+    }
+    .emladd{
+        margin-top: 2rem;
+        margin-left: 8.2rem;
+        padding-left: 7rem;
+        border-radius: 4px;
+        border: 1px solid #9aa0a6;
+        height: 48px;
+        color: #5f6368;
+    }
+    input[type="email"]{  
+        text-align: center; 
+        padding-right: 7rem;
+    }
+    .btsign{
+       margin-left: 12.5rem;
+       margin-top: 1rem;
+       font-family: 'Open Sans', sans-serif;
+       width: 250px;
+       height: 45px;
+       background-color: #1E8E3E;
+    } 
+    .signp{
+        color: #5F6368;
+        padding-left: 8rem;
+        margin-top: 2rem;
+        font-size: 15px;
+        font-family: 'Open Sans',sans-serif;
+        font-weight: 400;
+    
+    
+    }
+    .signp2{
+        color: #5F6368;
+        padding-left: 19rem;
+    }
+    .signp3{
+        color: #5F6368;
+        padding-left: 34rem;
+    
+    }
+    .fbk{
+        background-color: #fff;
+        color: #fff;
+        cursor: pointer;
+        width: 47px;
+        margin-top: 2rem;
+       margin-left: 10rem;
+    }
+    
+    .ut{
+        cursor: pointer;
+        background-color: #fff;
+        color: #fff;
+        width: 65px;
+        margin-top: 2rem;
+        margin-left: -300px;
+    
+    }
+    .twtter{
+        cursor: pointer;
+        background-color: #fff;
+        color: #fff;
+        width: 48px;
+        margin-top: -4.5rem;
+        margin-left: 19rem;
+        
+    }
+    #footer{
+        background-color: #f5f5f5;
+        height: 65vh;
+        max-width: 768px;
+        margin-top: 8rem;
+        
+    }
+    .chkavail{
+        color:#616161;
+        font-size: 12px;
+        padding-left: 7rem;
+        padding-top: 3rem;
+        font-family: 'Open Sans', sans-serif;
+        font-weight: 600;
+    
+    }
+    .chkavail2{
+        color:#616161;
+        font-size: 12px;
+        padding-left: 11rem;
+        padding-top: 3rem;
+        font-family: 'Open Sans', sans-serif;
+        font-weight: 600;
+    
+    }
+    .explore{
+        color:#616161;
+        font-size: 12px;
+        padding-left: 5rem;
+        padding-top: 3rem;
+        font-family: 'Open Sans', sans-serif;
+        font-weight: 600;
+    }
+    .explore7{
+        color:#616161;
+        font-size: 12px;
+        padding-left: 36.5rem;
+        margin-top: -125px;
+        font-family: 'Open Sans', sans-serif;
+        font-weight: 600;
+
+    }
+    .explore1{
+        color:#616161;
+        padding-left: 10rem;
+        font-size: 12px;
+        padding-top: 3rem;
+        font-family: 'Open Sans', sans-serif;
+        font-weight: 600;
+    }
+    .explore6{
+        color:#616161;
+        padding-left: 10rem;
+        margin-left: -47px;
+        font-size: 12px;
+        padding-top: 3rem;
+        font-family: 'Open Sans', sans-serif;
+        font-weight: 600;
+    }
+    .explore2{
+        color:#616161;
+        font-size: 12px;
+        padding-left: 16rem;
+        padding-top: -0rem;
+        font-family: 'Open Sans', sans-serif;
+        font-weight: 600;
+        margin-left: 10rem;
+    }
+    .resident{
+        margin-left: -20px;
+        font-family: 'Open Sans', sans-serif;
+        font-size: 14px;
+        color: #616161;
+        opacity: .48;
+        font-weight: 400;
+    }
+    .bit{
+        font-family: 'Open Sans', sans-serif;
+        padding-left: 12rem;
+        font-size: 14px;
+        color: #616161;
+        opacity: .48;
+        font-weight: 400;
+    }
+    .bit7{
+        font-family: 'Open Sans', sans-serif;
+        padding-left: 5rem;
+        font-size: 14px;
+        color: #616161;
+    }
+    .bit1{
+        margin-left: -160px;
+        font-family: 'Open Sans', sans-serif;
+        font-size: 14px;
+        color: #616161;
+        opacity: .48;
+        font-weight: 400;
+    }
+    .bit6{
+        
+        font-family: 'Open Sans', sans-serif;
+        font-size: 14px;
+        background-color: #fff;
+        opacity: .48;
+        font-weight: 400;
+    }
+    .bit2{
+        font-family: 'Open Sans', sans-serif;
+        padding-left: 22.5rem;
+        font-size: 14px;
+        color: #616161;
+        opacity: .48;
+        font-weight: 400;
+    }
+    #link{
+       color: #616161;
+       text-decoration: none;
+    } 
+    #navbarlink{
+        color:#616161;
+    }
+  
+
+}
+
+@media screen and (min-width:723px) and (max-width:768px){
+    .giga3{
+        padding-left: 8.5rem;
+        padding-top: 4.5rem;
+        font-size: 38px;
+        font-weight: 500;
+        font-family: 'Open Sans', sans-serif;
+        color: black;
+    }
+    .emladd{
+        margin-top: 2rem;
+        margin-left: 10rem;
+        padding-left: 7rem;
+        border-radius: 4px;
+        border: 1px solid #9aa0a6;
+        height: 48px;
+        color: #5f6368;
+    }
+    input[type="email"]{  
+        text-align: center; 
+        padding-right: 7rem;
+    }
+    .btsign{
+       margin-left: 15rem;
+       margin-top: 1rem;
+       font-family: 'Open Sans', sans-serif;
+       width: 250px;
+       height: 45px;
+       background-color: #1E8E3E;
+    } 
+    .signp{
+        color: #5F6368;
+        padding-left: 10rem;
+        margin-top: 2rem;
+        font-size: 15px;
+        font-family: 'Open Sans',sans-serif;
+        font-weight: 400;
+    
+    
+    }
+    .signp2{
+        color: #5F6368;
+        padding-left: 19rem;
+    }
+    .signp3{
+        color: #5F6368;
+        padding-left: 34rem;
+    
+    }
+    .fbk{
+        background-color: #fff;
+        color: #fff;
+        cursor: pointer;
+        width: 43px;
+        margin-top: 2rem;
+       margin-left: 11.5rem;
+    }
+    
+    .ut{
+        cursor: pointer;
+        background-color: #fff;
+        color: #fff;
+        width: 60px;
+        margin-top: 2rem;
+        margin-left: -290px;
+    
+    }
+    .twtter{
+        cursor: pointer;
+        background-color: #fff;
+        color: #fff;
+        width: 43px;
+        margin-top: -4.5rem;
+        margin-left: 19rem;
+        
+    }
+    #footer{
+        background-color: #f5f5f5;
+        height: 65vh;
+        max-width: 768px;
+        margin-top: 8rem;
+        
+    }
+    .chkavail{
+        color:#616161;
+        font-size: 12px;
+        padding-left: 7rem;
+        padding-top: 3rem;
+        font-family: 'Open Sans', sans-serif;
+        font-weight: 600;
+    
+    }
+    .chkavail2{
+        color:#616161;
+        font-size: 12px;
+        padding-left: 11rem;
+        padding-top: 3rem;
+        font-family: 'Open Sans', sans-serif;
+        font-weight: 600;
+    
+    }
+    .explore{
+        color:#616161;
+        font-size: 12px;
+        padding-left: 5rem;
+        padding-top: 3rem;
+        font-family: 'Open Sans', sans-serif;
+        font-weight: 600;
+    }
+    .explore7{
+        color:#616161;
+        font-size: 12px;
+        padding-left: 36.5rem;
+        margin-top: -125px;
+        font-family: 'Open Sans', sans-serif;
+        font-weight: 600;
+
+    }
+    .explore1{
+        color:#616161;
+        padding-left: 10rem;
+        font-size: 12px;
+        padding-top: 3rem;
+        font-family: 'Open Sans', sans-serif;
+        font-weight: 600;
+    }
+    .explore6{
+        color:#616161;
+        padding-left: 10rem;
+        margin-left: -40px;
+        font-size: 12px;
+        padding-top: 3rem;
+        font-family: 'Open Sans', sans-serif;
+        font-weight: 600;
+    }
+    .explore2{
+        color:#616161;
+        font-size: 12px;
+        padding-left: 16rem;
+        padding-top: -0rem;
+        font-family: 'Open Sans', sans-serif;
+        font-weight: 600;
+        margin-left: 10rem;
+    }
+    .resident{
+        margin-left: -20px;
+        font-family: 'Open Sans', sans-serif;
+        font-size: 14px;
+        color: #616161;
+        opacity: .48;
+        font-weight: 400;
+    }
+    .bit{
+        font-family: 'Open Sans', sans-serif;
+        padding-left: 12rem;
+        font-size: 14px;
+        color: #616161;
+        opacity: .48;
+        font-weight: 400;
+    }
+    .bit7{
+        font-family: 'Open Sans', sans-serif;
+        padding-left: 5rem;
+        font-size: 14px;
+        color: #616161;
+    }
+    .bit1{
+        margin-left: -155px;
+        font-family: 'Open Sans', sans-serif;
+        font-size: 14px;
+        color: #616161;
+        opacity: .48;
+        font-weight: 400;
+    }
+    .bit6{
+        
+        font-family: 'Open Sans', sans-serif;
+        font-size: 14px;
+        background-color: #fff;
+        opacity: .48;
+        font-weight: 400;
+    }
+    .bit2{
+        font-family: 'Open Sans', sans-serif;
+        padding-left: 22.5rem;
+        font-size: 14px;
+        color: #616161;
+        opacity: .48;
+        font-weight: 400;
+    }
+    #link{
+       color: #616161;
+       text-decoration: none;
+    } 
+    #navbarlink{
+        color:#616161;
+    }
+}
+@media screen and (max-width:768px){
+    .giga3{
+        padding-left: 8.5rem;
+        padding-top: 4.5rem;
+        font-size: 38px;
+        font-weight: 500;
+        font-family: 'Open Sans', sans-serif;
+        color: black;
+    }
+    .emladd{
+        margin-top: 2rem;
+        margin-left: 10rem;
+        padding-left: 7rem;
+        border-radius: 4px;
+        border: 1px solid #9aa0a6;
+        height: 48px;
+        color: #5f6368;
+    }
+    input[type="email"]{  
+        text-align: center; 
+        padding-right: 7rem;
+    }
+    .btsign{
+       margin-left: 15rem;
+       margin-top: 1rem;
+       font-family: 'Open Sans', sans-serif;
+       width: 250px;
+       height: 45px;
+       background-color: #1E8E3E;
+    } 
+    .signp{
+        color: #5F6368;
+        padding-left: 10rem;
+        margin-top: 2rem;
+        font-size: 15px;
+        font-family: 'Open Sans',sans-serif;
+        font-weight: 400;
+    
+    
+    }
+    .fbk{
+        background-color: #fff;
+        color: #fff;
+        cursor: pointer;
+        width: 43px;
+        margin-top: 2rem;
+       margin-left: 11.5rem;
+    }
+    
+    .ut{
+        cursor: pointer;
+        background-color: #fff;
+        color: #fff;
+        width: 60px;
+        margin-top: 2rem;
+        margin-left: -290px;
+    
+    }
+    .twtter{
+        cursor: pointer;
+        background-color: #fff;
+        color: #fff;
+        width: 43px;
+        margin-top: -4.5rem;
+        margin-left: 19rem;
+        
+    }
+    
+  
+  .explore{
+        color:#616161;
+        font-size: 12px;
+        padding-left: 5rem;
+        padding-top: 3rem;
+        font-family: 'Open Sans', sans-serif;
+        font-weight: 600;
+    }
+  
+    .explore1{
+        color:#616161;
+        padding-left: 10rem;
+        font-size: 12px;
+        padding-top: 3rem;
+        font-family: 'Open Sans', sans-serif;
+        font-weight: 600;
+    }
+    .explore6{
+        color:#616161;
+        padding-left: 10rem;
+        margin-left: -39px;
+        font-size: 12px;
+        padding-top: 3rem;
+        font-family: 'Open Sans', sans-serif;
+        font-weight: 600;
+    }
+    
+    .bit1{
+        margin-left: -155px;
+        font-family: 'Open Sans', sans-serif;
+        font-size: 14px;
+        color: #616161;
+        opacity: .48;
+        font-weight: 400;
+    }
+    
+}
+@media screen and (min-width:414px) and (max-width:425px){
+    .logo{
+        width: 150px;
+        height: 65px;
+        padding-left: 0.2rem;
+        margin-top: -4rem;
+    
+        
+    }
+    
+    .hr2{
+       margin-left: 1rem;
+       color: #616161
+    }
+    .abt{
+        margin-left: 1rem;
+        color: black;
+    }
+    .fnt{
+        font-size: 20px;
+        font-family: "Varela Round",Arial,Helvetica,sans-serif;
+    }
+    .li a{
+        display: inline-block;
+    }
+    .li nav-item dropdown a{
+        display: inline-block;
+    }
+    .cool-link::after{
+     content: '';
+     display: block;
+     width: 0;
+     height: 2px;
+     background: #3084fc;
+      transition: width .3s;
+     margin-top: 0.4rem;
+    
+    }
+    .cool-link1::after{
+        content: '';
+        display: block;
+        width: 0;
+        height: 2px;
+        transition: width .3s;
+        margin-left: 2rem;
+       background: #3084fc;
+    
+       }
+    
+       
+       
+    .cool-link:hover::after{
+        width: 100%;
+       transition: width .3s;
+       background-color: #3084fc;
+    }
+    
+    .cool-link1:hover::after{
+        background-color: #3084fc;
+        width: 80%;
+       transition: width .3s;
+    
+    }
+    .customerlogin{
+        margin-left: 1rem;
+        width: 170px;
+    
+    }
+    .customerloginimg{
+        width: 20px;
+    }
+    .icon{
+        width: 55px;
+    }
+    
+    .cont{
+        background-color:  #3084fc;   
+        height: 20vh;
+        max-width: 425px;
+    
+    }
+    .contheader{
+       padding-top: 3rem;
+       padding-left: 1rem;
+       font-size: 30px;
+       font-weight: 600;
+       color: #fff;
+       font-family: 'Open Sans',sans-serif;
+    
+    }
+    .contimg{
+        width: 60px;
+        height: 100px;
+        margin-top: 5.5em;
+        margin-left: 5rem;
+    }
+    .emailimg{
+        width: 150px;
+        height: 100px;
+        margin-top: -13rem;
+        margin-left: 15rem;
+    
+        
+    }
+    .chatimg{
+        width: 117px;
+        height: 100px;
+        margin-top: 1em;
+        margin-left: 9rem;
+        
+    }
+    .callbali{
+        padding-top: 1rem;
+        font-size: 16px;
+        padding-left: 2rem;
+        color:#3084fc;
+        text-decoration: underline;
+        cursor: pointer;
+        font-family: 'Poppins',sans-serif;
+    }
+    .emailh{
+        margin-top: -4.3rem;
+        font-size: 18px;
+        padding-left: 17.5rem;
+        color:#3084fc;
+        text-decoration: underline;
+        cursor: pointer;
+    }
+    .chath{
+        padding-top: 1rem;
+        font-size: 18px;
+        padding-left: 10rem;
+        color:#3084fc;
+        text-decoration: underline;
+        cursor: pointer;
+    }
+    .callpbali{
+      padding-left: 3rem;
+      color: #616161;
+      font-size: 13px;
+      opacity: .88;
+    
+    
+    }
+    .touchheader20{
+        font-weight: 600;
+        color: #616161;
+        padding-left: 23rem;
+        padding-top: 31rem;
+        font-size: 52px;
+        
+        font-family: 'Open Sans', sans-serif;
+    }
+    .touchheader21{
+        font-weight: 600;
+        color: #616161;
+        padding-left: 23rem;
+        padding-top:4rem;
+        font-size: 52px;
+        margin-top: -2rem;
+        font-family: 'Open Sans', sans-serif;
+    }
+    .modlheader{
+        font-size: 35px;
+        padding-top: 2rem;
+        font-family: 'Poppins', sans-serif;
+        color: #616161;
+    }
+    .whatppheader{
+        padding-left: 1rem;
+        font-size: 25px;
+        padding-top: 2rem;
+        font-family: 'Poppins', sans-serif;
+        color: #616161;
+    }
+    .redanswer{
+     background-color: red;
+    }
+    .whatpp{
+        font-size: 18px;
+        padding-left: 1rem;
+    }
+    .whatpp:hover{
+        color: red;
+        cursor: pointer;
+    }
+    .modalp{
+        padding-left: 1rem;
+        padding-top: 1rem;
+        font-family: 'Open Sans', sans-serif;
+        color: #616161;
+        font-size: 23px;
+        
+    }
+      .questions{
+        margin-top: 25rem;
+        background-color: #f5f5f5;
+        height:120vh;
+        width: 425px;
+        display: inline-block;
+    }
+    .questions1{
+        position: static;
+        width: 400px;
+        background-color: #fff;
+        padding-top: 2rem;
+        margin-left: 0.5rem;
+        margin-top: 2.2rem;
+        margin-right: 3rem;
+        height: 100%;
+        display: inline-block;
+
+        
+    }
+ 
+    .basicheader{
+      cursor: default;  
+      padding-left: 1.5rem;
+      padding-top: 1rem;
+      font-family: 'Open Sans',sans-serif;
+      font-size: 18px;
+      color: black;
+
+    }
+    .basicheader2{
+        padding-top: 1rem;
+        cursor: default;  
+       padding-left: 2rem;
+       margin-top: -32rem;
+       font-family: 'Open Sans',sans-serif;
+       font-size: 20px;
+       font-weight: 400px;
+       color: #3084fc;
+    }
+    
+    .questimg{
+        color: #3084fc;
+        margin-top: 3.9rem;
+        margin-left: -24.9rem;
+        cursor: pointer;
+        width: 1.3em;
+        height: 1.3em;
+    }
+    .questimgpadd{
+        color: #3084fc;
+        margin-top: 1.3rem;
+        margin-left: 1.6rem;
+        cursor: pointer;
+        width: 1.3em;
+        height: 1.3em;
+    }
+    
+    .techimg{
+        color: #3084fc;
+        margin-top: 1rem;
+        margin-left: 13.8rem;
+        cursor: pointer;
+    }
+    .questimgpadd1{
+        color: #3084fc;
+        margin-top: -1rem;
+        margin-left: 13.9rem;
+        cursor: pointer;
+        width: 1.3em;
+        height: 1.3em;
+        margin-left: 1.6rem;
+    }
+    .questimgpadd3{
+        color: #3084fc;
+        margin-top: 1rem;
+        margin-left: 13.9rem;
+        cursor: pointer;
+        width: 1.3em;
+        height: 1.3em;
+        margin-left: 1.6rem;
+    }
+    .quesheader{
+        padding-left: 4rem;
+        font-family: 'Open Sans',sans-serif;
+        font-weight: 400;
+        font-size: 16px;
+        color: #616161;
+        margin-top: -1.3rem;
+        
+    }
+    .quesheader1{
+        cursor: pointer;
+        margin-top: -1rem;
+        margin-left: -12.5rem;
+        font-family: 'Open Sans',sans-serif;
+        font-weight: 400;
+        font-size: 16px;
+        color: #616161;
+    
+        
+    }
+    .quesheader2{
+        cursor: pointer;
+        margin-top: -1.4rem;
+        margin-left: -13rem;
+        font-family: 'Open Sans',sans-serif;
+        font-weight: 400;
+        font-size: 16px;
+        color: #616161;
+    
+        
+    }
+    .quesheader:hover{
+        color: #3084fc;
+        cursor: pointer;
+    }
+    .quesheader1:hover{
+        color: #3084fc;
+    }
+    .vl2{
+        margin-top: -2rem;
+        margin-left: 0rem;
+        border-left: none;
+        height: 60px;
+    }
+    .vl23{
+        margin-top: -2rem;
+        margin-left: 0rem;
+        border-bottom: 2px solid #616161;
+        width: 382px;
+        height: 60px;
+    
+    }
+    .vl3{
+        margin-top: -7rem;
+        margin-left: 2rem;
+        border-left: 4px solid #3084fc;
+        height: 60px;
+    }
+    .basic1ans{
+     color: #616161;
+      padding-top: 0.5rem;
+      font-size: 14px;
+      font-family: 'Open Sans',sans-serif;
+      padding-left: 4.8rem;
+      overflow: scroll;
+    }
+    .basic2ans{
+        color: #616161;
+         padding-top: -1rem;
+         font-size: 14px;
+         font-family: 'Open Sans',sans-serif;
+         padding-left: 4rem;
+         overflow: scroll;
+
+       }
+       .basic3ans{
+        color: #616161;
+         font-size: 14px;
+         font-family: 'Open Sans',sans-serif;
+         padding-left: 4rem;
+         overflow: scroll;
+
+       }
+       .collapse{
+           overflow: scroll;
+       }
+    .technicalfaq{
+       margin-top: -11rem;
+        max-width: 1285px;
+        background-color:lightblue;
+        margin-left: 2rem;
+        height: 100vh;
+    }
+
+    
+}
+@media screen and (min-width:419px) and (max-width:425px){
+
+    .logo{
+        width: 130px;
+        height: 60px;
+        padding-left: 0rem;
+        margin-top: -3.9rem;
+    
+        
+    }
+    .cont{
+        background-color:  #3084fc;   
+        height: 20vh;
+        max-width: 425px;
+       
+        display: inline-block;
+    
+    }
+    .contheader{
+       padding-top: 3rem;
+       padding-left: 1rem;
+       font-size: 32px;
+       font-weight: 600;
+       color: #fff;
+       font-family: 'Open Sans',sans-serif;
+    
+    }
+    .contimg{
+        width: 60px;
+        height: 100px;
+        margin-top: 5.5em;
+        margin-left: 5rem;
+    }
+    .emailimg{
+        width: 150px;
+        height: 100px;
+        margin-top: -13rem;
+        margin-left: 15.5rem;
+        
+    }
+    .chatimg{
+        width: 117px;
+        height: 100px;
+        margin-top: 2rem;
+        margin-left: 10rem;
+        
+    }
+    .callbali{
+        padding-top: 1rem;
+        font-size: 18px;
+        padding-left: 2rem;
+        color:#3084fc;
+        text-decoration: underline;
+        cursor: pointer;
+    }
+    .emailh{
+        padding-top: 1rem;
+        font-size: 18px;
+        padding-left: 18rem;
+        color:#3084fc;
+        text-decoration: underline;
+        cursor: pointer;
+    }
+    .chath{
+        padding-top: 1rem;
+        font-size: 18px;
+        padding-left: 10.7rem;
+        color:#3084fc;
+        text-decoration: underline;
+        cursor: pointer;
+    }
+    .callpbali{
+      padding-left: 3rem;
+      color: #616161;
+      font-size: 15px;
+      opacity: .88;
+    
+    
+    }
+    .touchheader20{
+        font-weight: 600;
+        color: #616161;
+        padding-left: 23rem;
+        padding-top: 31rem;
+        font-size: 52px;
+        
+        font-family: 'Open Sans', sans-serif;
+    }
+    .touchheader21{
+        font-weight: 600;
+        color: #616161;
+        padding-left: 23rem;
+        padding-top:4rem;
+        font-size: 52px;
+        margin-top: -2rem;
+        font-family: 'Open Sans', sans-serif;
+    }
+    .modlheader{
+        font-size: 35px;
+        padding-top: 2rem;
+        font-family: 'Poppins', sans-serif;
+        color: #616161;
+    }
+    .whatppheader{
+        padding-left: 1rem;
+        font-size: 25px;
+        padding-top: 2rem;
+        font-family: 'Poppins', sans-serif;
+        color: #616161;
+    }
+    .redanswer{
+     background-color: red;
+    }
+    .whatpp{
+        font-size: 18px;
+        padding-left: 1rem;
+    }
+    .pp1{
+        font-size: 18px;
+        padding-left: 2rem;
+        margin-top: -2rem;
+    }
+    .whatpp:hover{
+        color: red;
+        cursor: pointer;
+    }
+    .pp1:hover{
+        color: red;
+        cursor: pointer;
+    }
+    .modalp{
+        padding-left: 1rem;
+        padding-top: 1rem;
+        font-family: 'Open Sans', sans-serif;
+        color: #616161;
+        font-size: 23px;
+        
+    }
+  
+    .questions{
+        margin-top: 25rem;
+        background-color: #f5f5f5;
+        height:120vh;
+        width: 425px;
+        display: inline-block;
+    }
+    .questions1{
+        position: static;
+        width: 410px;
+        background-color: #fff;
+        padding-top: 2rem;
+        margin-left: 0.5rem;
+        margin-top: 2.2rem;
+        margin-right: 3rem;
+        height: 100%;
+        display: inline-block;
+
+        
+    }
+    .basicheader{
+      cursor: default;  
+      padding-left: 1.5rem;
+      padding-top: 1rem;
+      font-family: 'Open Sans',sans-serif;
+      font-size: 18px;
+      color: black;
+
+    }
+    .basicheader2{
+        padding-top: 1rem;
+        cursor: default;  
+       padding-left: 2rem;
+       margin-top: -32rem;
+       font-family: 'Open Sans',sans-serif;
+       font-size: 20px;
+       font-weight: 400px;
+       color: #3084fc;
+    }
+    
+    .questimg{
+        color: #3084fc;
+        margin-top: 3rem;
+        cursor: pointer;
+        width: 1.3em;
+        height: 1.3em;
+        margin-left: 2.6rem;
+    }
+    
+    
+    .quesheader{
+        padding-left: 4rem;
+        font-family: 'Open Sans',sans-serif;
+        font-weight: 400;
+        font-size: 16px;
+        color: #616161;
+        margin-top: -1.3rem;
+        
+    }
+    
+    
+    .vl2{
+        margin-top: -2rem;
+        margin-left: 0rem;
+        border-left: none;
+        height: 60px;
+    }
+    .vl23{
+        margin-top: -2rem;
+        margin-left: 0rem;
+        border-bottom: 2px solid #616161;
+        width: 390px;
+        height: 60px;
+    
+    }
+    .vl3{
+        margin-top: -7rem;
+        margin-left: 2rem;
+        border-left: 4px solid #3084fc;
+        height: 60px;
+    }
+    .basic1ans{
+     color: #616161;
+      padding-top: 0.5rem;
+      font-size: 14px;
+      font-family: 'Open Sans',sans-serif;
+      padding-left: 4.8rem;
+    }
+    
+    
+}
+@media screen and (min-width:386px) and (max-width:425px){
+    .giga3{
+        padding-left: 3rem;
+        margin-top: -1rem;
+        font-size: 28px;
+        font-family: 'Google Sans,Roboto,Arial,Helvetica',sans-serif;
+        color: #202124;
+    }
+    .emladd{
+        margin-top: 2rem;
+        margin-left: 3rem;
+    
+        border-radius: 4px;
+        border: 1px solid #9aa0a6;
+        width: 330px;
+        height: 48px;
+        color: #5f6368;
+    }
+    input[type="email"]{  
+        text-align: left; 
+        
+    }
+    .btsign{
+       margin-left: 5.8rem;
+       margin-top: 1rem;
+       font-family: 'Open Sans', sans-serif;
+       width: 240px;
+       height: 48px;
+       background-color: #1E8E3E;
+    } 
+    .signp{
+        color: #5F6368;
+        margin-left: -7rem;
+        margin-top: 5rem;
+        font-size: 14px;
+        font-family: "Roboto"; 
+        font-weight:400;
+    
+    }
+  
+    .signp4{
+        color: #5F6368;
+        margin-top: -1rem;
+        margin-left: 5rem;
+        font-size: 14px;
+        font-family: 'Roboto';
+        font-weight: 400;
+
+    
+    }
+    .signp5{
+        color: #5F6368;
+        margin-top: -1rem;
+        text-align-last: center;
+        font-size: 14px;
+        font-family: 'Roboto';
+        font-weight: 400;
+
+        
+    }
+    .fbk{
+        color: #fff;
+        background-color: #80868b;
+        border-radius: 50%;
+        cursor: pointer;
+        margin-top: 3.5rem;
+       margin-left: 7.5rem;
+       padding-top: 0.5rem;
+       padding-bottom: 0.5rem;
+       padding-left: 0.5rem;
+       padding-right: 0.5rem;
+       height: 40px;
+       width: 40px;
+    }
+    .fbk:hover{
+      background-color:#2c3e50;
+    }
+    
+    
+    .ut{
+        color: #fff;
+        background-color: #80868b;
+        border-radius: 50%;
+        cursor: pointer;
+       padding-left: 0.5rem;
+       padding-right: 0.5rem;
+       padding-top: 0.5rem;
+      padding-bottom: 0.5rem;
+       height: 40px;
+       width: 40px;
+       margin-top: -20rem;
+        margin-left: 11rem;
+    
+    }
+    .utk{
+        margin-top: -1.4rem;
+    }
+    .fa-facebook-f{
+        transform: scale(1.1,1); 
+    }
+    .fa-youtube 
+    {  
+        transform: scale(0.8,1); 
+    }
+    .ut:hover{
+        background-color: #2c3e50;
+    }
+    .twtter{
+        color: #fff;
+        background-color: #80868b;
+        border-radius: 50%;
+        cursor: pointer;
+       padding-left: 0.5rem;
+       padding-right: 0.5rem;
+       padding-top: 0.5rem;
+      padding-bottom: 0.5rem;
+       height: 40px;
+       width: 40px;
+        
+        margin-top: -9rem;
+        margin-left: 13rem;
+        
+    }
+    .twtter:hover{
+        background-color: #2c3e50;
+    }
+    .insta{
+        margin-left: 0.5rem;
+        margin-top: -1.5rem;
+    }
+    #footer{
+        background-color: #f5f5f5;
+        width :423px;
+        margin-top: 8rem;
+        height:100%;
+        display: inherit;
+        display: inline-block;
+        overflow: hidden;
+       
+           
+    }
+    .chkavail{
+        color:#5F6368;
+        font-size: 12px;
+        padding-left: 2rem;
+        padding-top: 3rem;
+        font-family: "Google Sans","Roboto",Arial,Helvetica,sans-serif;
+        word-break: break-all;
+        font-weight: 600;
+    
+    }
+    .chkavail2{
+        color:#5F6368;
+        font-size: 12px;
+        padding-left: 2rem;
+        margin-top: -1rem;
+        font-family: "Google Sans","Roboto",Arial,Helvetica,sans-serif;
+        font-weight: 600;
+        word-break: break-word;
+    }
+    .explore{
+        color:#616161;
+        font-size: 12px;
+        padding-left: 5rem;
+        padding-top: 3rem;
+        font-family: "Google Sans","Roboto",Arial,Helvetica,sans-serif;
+        font-weight: 600;
+    }
+  
+    .explore5{
+        color:#616161;
+        font-size: 12px;
+        padding-left: 2.5rem;
+        margin-top: -1rem;
+        font-family: "Google Sans","Roboto",Arial,Helvetica,sans-serif;
+        font-weight: 600;
+    }
+    .socialmediaexplore{
+        color:#5F6368;
+        font-size: 12px;
+        padding-left: 15.5rem;
+        margin-top: -10.7rem;
+        font-family: "Google Sans","Roboto",Arial,Helvetica,sans-serif;
+        font-weight: 600;
+    }
+    .socialmediabit{
+        font-family: 'Open Sans', sans-serif;
+        margin-left: 11rem;
+        font-size: 14px;
+        color: #616161;
+        opacity: .48;
+        font-weight: 400;
+    }
+    .resident{
+        margin-left: -15rem;
+        font-family: "Google Sans","Roboto",Arial,Helvetica,sans-serif;
+        font-size: 14px;
+        color: #616161;
+        opacity: .48;
+        font-weight: 400;
+        cursor: pointer;
+    }
+    .bit{
+        font-family: 'Open Sans', sans-serif;
+        padding-left: 0rem;
+        font-size: 14px;
+        color: #616161;
+        opacity: .48;
+        font-weight: 400;
+    }
+    .aboutbit{
+        font-family: 'Open Sans', sans-serif;
+        margin-left: -2.7rem;
+        font-size: 14px;
+        color: #616161;
+        opacity: .48;
+        font-weight: 400;
+    }
+    #link{
+       color: #616161;
+       text-decoration: none;
+    } 
+    #navbarlink{
+        color:#616161;
+    }
+
+}
+@media screen and (min-width:340px) and (max-width:375px){
+    .logo{
+        width: 150px;
+        height: 60px;
+        padding-left: 0rem;
+        margin-top: -3rem;
+    
+        
+    }  
+    .cont{
+        background-color:  #3084fc;   
+        height: 20vh;
+        width: 375px;
+    
+    }
+    .contheader{
+       padding-top: 3rem;
+       padding-left: 1rem;
+       font-size: 30px;
+       font-weight: 600;
+       color: #fff;
+       font-family: 'Open Sans',sans-serif;
+    
+    }
+    .contimg{
+        width: 60px;
+        height: 100px;
+        margin-top: 5.5em;
+        margin-left: 9.5rem;
+    }
+    .emailimg{
+        width: 150px;
+        height: 100px;
+        margin-top: 1rem;
+        margin-left: 7rem;
+    
+        
+    }
+    .chatimg{
+        width: 117px;
+        height: 100px;
+        margin-top: 2em;
+        margin-left: 8.5rem;
+        
+    }
+    .callbali{
+        padding-top: 1rem;
+        font-size: 16px;
+        padding-left: 7rem;
+        color:#3084fc;
+        cursor: pointer;
+        font-family: 'Open Sans',sans-serif;
+    }
+    .callbali:hover{
+        text-decoration: underline;
+    }
+    .emailh{
+        margin-top: -5px;
+        font-size: 18px;
+        padding-left: 9.7rem;
+        color:#3084fc;
+        font-family: 'Open Sans',sans-serif;
+        cursor: pointer;
+    }
+    .emailh:hover{
+        text-decoration: underline;
+    }
+    .chath{
+        padding-top: 1rem;
+        font-size: 18px;
+        padding-left: 9rem;
+        color:#3084fc;
+        cursor: pointer;
+        font-family: 'Open Sans',sans-serif;
+
+    }
+    .chath:hover{
+        text-decoration: underline;
+    }
+    .callpbali{
+      padding-left: 8rem;
+      color: #616161;
+      font-size: 13px;
+      opacity: .88;
+    
+    
+    }
+    .touchheader20{
+        font-weight: 600;
+        color: #616161;
+        padding-left: 23rem;
+        padding-top: 31rem;
+        font-size: 52px;
+        
+        font-family: 'Open Sans', sans-serif;
+    }
+    .touchheader21{
+        font-weight: 600;
+        color: #616161;
+        padding-left: 23rem;
+        padding-top:4rem;
+        font-size: 52px;
+        margin-top: -2rem;
+        font-family: 'Open Sans', sans-serif;
+    }
+    .modlheader{
+        font-size: 35px;
+        padding-top: 2rem;
+        font-family: 'Poppins', sans-serif;
+        color: #616161;
+    }
+    .whatppheader{
+        padding-left: 1rem;
+        font-size: 25px;
+        padding-top: 2rem;
+        font-family: 'Poppins', sans-serif;
+        color: #616161;
+    }
+    .redanswer{
+     background-color: red;
+    }
+    .whatpp{
+        font-size: 18px;
+        padding-left: 1rem;
+    }
+    .whatpp:hover{
+        color: red;
+        cursor: pointer;
+    }
+    .modalp{
+        padding-left: 1rem;
+        padding-top: 1rem;
+        font-family: 'Open Sans', sans-serif;
+        color: #616161;
+        font-size: 23px;
+        
+    }
+    .questions{
+        margin-top: 40rem;
+        background-color: #f5f5f5;
+        height:130vh;
+        width: 413px;
+    
+
+        
+    }
+    .questions1{
+        position: static;
+        width: 355px;
+        background-color: #fff;
+        padding-top: 2rem;
+        margin-left: 0.5rem;
+        margin-top: 2rem;
+        margin-right: 3rem;
+        height: 100%;
+        overflow: scroll;
+
+        
+    }
+    .basicheader{
+      cursor: default;  
+      padding-left: 1.5rem;
+      padding-top: 1rem;
+      font-family: 'Open Sans',sans-serif;
+      font-size: 18px;
+      color: black;
+
+    }
+    .basicheader2{
+        padding-top: 1rem;
+        cursor: default;  
+       padding-left: 2rem;
+       margin-top: -32rem;
+       font-family: 'Open Sans',sans-serif;
+       font-size: 20px;
+       font-weight: 400px;
+       color: #3084fc;
+    }
+    
+    .questimg{
+        color: #3084fc;
+        margin-top: 3.9rem;
+        margin-left: -21.8rem;
+        cursor: pointer;
+        width: 1.3em;
+        height: 1.3em;
+    }
+    .questimgpadd{
+        color: #3084fc;
+        margin-top: 1.3rem;
+        margin-left: 1.6rem;
+        cursor: pointer;
+        width: 1.3em;
+        height: 1.3em;
+    }
+    
+    .techimg{
+        color: #3084fc;
+        margin-top: 1rem;
+        margin-left: 13.8rem;
+        cursor: pointer;
+    }
+    .questimgpadd1{
+        color: #3084fc;
+        margin-top: -1rem;
+        margin-left: 13.9rem;
+        cursor: pointer;
+        width: 1.3em;
+        height: 1.3em;
+        margin-left: 1.6rem;
+    }
+    .questimgpadd3{
+        color: #3084fc;
+        margin-top: 1rem;
+        margin-left: 13.9rem;
+        cursor: pointer;
+        width: 1.3em;
+        height: 1.3em;
+        margin-left: 1.6rem;
+    }
+    .quesheader{
+        padding-left: 4rem;
+        font-family: 'Open Sans',sans-serif;
+        font-weight: 400;
+        font-size: 16px;
+        color: #616161;
+        margin-top: -1.3rem;
+        
+    }
+    .quesheader1{
+        cursor: pointer;
+        margin-top: -1rem;
+        margin-left: -12.5rem;
+        font-family: 'Open Sans',sans-serif;
+        font-weight: 400;
+        font-size: 16px;
+        color: #616161;
+    
+        
+    }
+    .quesheader2{
+        cursor: pointer;
+        margin-top: -1.4rem;
+        margin-left: -13rem;
+        font-family: 'Open Sans',sans-serif;
+        font-weight: 400;
+        font-size: 16px;
+        color: #616161;
+    
+        
+    }
+    .quesheader:hover{
+        color: #3084fc;
+        cursor: pointer;
+    }
+    .quesheader1:hover{
+        color: #3084fc;
+    }
+    .vl2{
+        margin-top: -2rem;
+        margin-left: 0rem;
+        border-left: none;
+        height: 60px;
+    }
+    .vl23{
+        margin-top: -2rem;
+        margin-left: 0rem;
+        border-bottom: 2px solid #616161;
+        width: 343px;
+        height: 60px;
+    
+    }
+    .vl3{
+        margin-top: -7rem;
+        margin-left: 2rem;
+        border-left: 4px solid #3084fc;
+        height: 60px;
+    }
+    .basic1ans{
+     color: #616161;
+      padding-top: 0.5rem;
+      font-size: 14px;
+      font-family: 'Open Sans',sans-serif;
+      padding-left: 4.8rem;
+    }
+    .basic5ans{
+        color: #616161;
+         padding-top: 0.5rem;
+         font-size: 16px;
+         font-family: 'Open Sans',sans-serif;
+       }
+    .basic2ans{
+        color: #616161;
+         padding-top: -1rem;
+         font-size: 14px;
+         font-family: 'Open Sans',sans-serif;
+         padding-left: 4rem;
+       }
+       .basic3ans{
+        color: #616161;
+         font-size: 14px;
+         font-family: 'Open Sans',sans-serif;
+         padding-left: 4rem;
+       }
+    .technicalfaq{
+       margin-top: -11rem;
+        max-width: 1285px;
+        background-color:lightblue;
+        margin-left: 2rem;
+        height: 100vh;
+    }
+    
+
+}
+@media screen and (min-width:320px) and (max-width:339px){
+    .logo{
+        width: 150px;
+        height: 60px;
+        padding-left: 0rem;
+        margin-top: -3rem;
+    
+        
+    }  
+    .cont{
+        background-color:  #3084fc;   
+        height: 15vh;
+        width: 413px;
+    
+    }
+    .contheader{
+       padding-top: 3rem;
+       padding-left: 1rem;
+       font-size: 30px;
+       font-weight: 600;
+       color: #fff;
+       font-family: 'Open Sans',sans-serif;
+    
+    }
+    .contimg{
+        width: 60px;
+        height: 100px;
+        margin-top: 5.5em;
+        margin-left: 8rem;
+    }
+    .emailimg{
+        width: 150px;
+        height: 100px;
+        margin-top: 1rem;
+        margin-left: 5.5rem;
+    
+        
+    }
+    .chatimg{
+        width: 117px;
+        height: 100px;
+        margin-top: 2em;
+        margin-left: 7rem;
+        
+    }
+    .callbali{
+        padding-top: 1rem;
+        font-size: 16px;
+        padding-left: 5rem;
+        color:#3084fc;
+        cursor: pointer;
+        font-family: 'Open Sans',sans-serif;
+    }
+    .callbali:hover{
+        text-decoration: underline;
+    }
+    .emailh{
+        margin-top: -5px;
+        font-size: 18px;
+        padding-left: 8.3rem;
+        color:#3084fc;
+        font-family: 'Open Sans',sans-serif;
+        cursor: pointer;
+    }
+    .emailh:hover{
+        text-decoration: underline;
+    }
+    .chath{
+        padding-top: 1rem;
+        font-size: 18px;
+        padding-left: 8rem;
+        color:#3084fc;
+        cursor: pointer;
+        font-family: 'Open Sans',sans-serif;
+
+    }
+    .chath:hover{
+        text-decoration: underline;
+    }
+    .callpbali{
+      padding-left: 8rem;
+      color: #616161;
+      font-size: 13px;
+      opacity: .88;
+    
+    
+    }
+    .touchheader20{
+        font-weight: 600;
+        color: #616161;
+        padding-left: 23rem;
+        padding-top: 31rem;
+        font-size: 52px;
+        
+        font-family: 'Open Sans', sans-serif;
+    }
+    .touchheader21{
+        font-weight: 600;
+        color: #616161;
+        padding-left: 23rem;
+        padding-top:4rem;
+        font-size: 52px;
+        margin-top: -2rem;
+        font-family: 'Open Sans', sans-serif;
+    }
+    .modlheader{
+        font-size: 35px;
+        padding-top: 2rem;
+        font-family: 'Poppins', sans-serif;
+        color: #616161;
+    }
+    .whatppheader{
+        padding-left: 1rem;
+        font-size: 25px;
+        padding-top: 2rem;
+        font-family: 'Poppins', sans-serif;
+        color: #616161;
+    }
+    .redanswer{
+     background-color: red;
+    }
+    .whatpp{
+        font-size: 18px;
+        padding-left: 1rem;
+    }
+    .whatpp:hover{
+        color: red;
+        cursor: pointer;
+    }
+    .modalp{
+        padding-left: 1rem;
+        padding-top: 1rem;
+        font-family: 'Open Sans', sans-serif;
+        color: #616161;
+        font-size: 23px;
+        
+    }
+    
+    .basicheader{
+      cursor: default;  
+      padding-left: 1.5rem;
+      padding-top: 1rem;
+      font-family: 'Open Sans',sans-serif;
+      font-size: 18px;
+      color: black;
+
+    }
+    .basicheader2{
+        padding-top: 1rem;
+        cursor: default;  
+       padding-left: 2rem;
+       margin-top: -32rem;
+       font-family: 'Open Sans',sans-serif;
+       font-size: 20px;
+       font-weight: 400px;
+       color: #3084fc;
+    }
+    
+    .questimg{
+        color: #3084fc;
+        margin-top: 3.9rem;
+        margin-left: -18rem;
+        cursor: pointer;
+        width: 1.3em;
+        height: 1.3em;
+    }
+    .questimgpadd{
+        color: #3084fc;
+        margin-top: 1.3rem;
+        margin-left: 1.6rem;
+        cursor: pointer;
+        width: 1.3em;
+        height: 1.3em;
+    }
+    
+    .techimg{
+        color: #3084fc;
+        margin-top: 1rem;
+        margin-left: 13.8rem;
+        cursor: pointer;
+    }
+    .questimgpadd1{
+        color: #3084fc;
+        margin-top: -1rem;
+        margin-left: 13.9rem;
+        cursor: pointer;
+        width: 1.3em;
+        height: 1.3em;
+        margin-left: 1.6rem;
+    }
+    .questimgpadd3{
+        color: #3084fc;
+        margin-top: 1rem;
+        margin-left: 13.9rem;
+        cursor: pointer;
+        width: 1.3em;
+        height: 1.3em;
+        margin-left: 1.6rem;
+    }
+    .quesheader{
+        padding-left: 4rem;
+        font-family: 'Open Sans',sans-serif;
+        font-weight: 400;
+        font-size: 16px;
+        color: #616161;
+        margin-top: -1.3rem;
+        
+    }
+    .quesheader1{
+        cursor: pointer;
+        margin-top: -1rem;
+        margin-left: -12.5rem;
+        font-family: 'Open Sans',sans-serif;
+        font-weight: 400;
+        font-size: 16px;
+        color: #616161;
+    
+        
+    }
+    .quesheader2{
+        cursor: pointer;
+        margin-top: -1.4rem;
+        margin-left: -13rem;
+        font-family: 'Open Sans',sans-serif;
+        font-weight: 400;
+        font-size: 16px;
+        color: #616161;
+    
+        
+    }
+    .quesheader:hover{
+        color: #3084fc;
+        cursor: pointer;
+    }
+    .quesheader1:hover{
+        color: #3084fc;
+    }
+    .vl2{
+        margin-top: -2rem;
+        margin-left: 0rem;
+        border-left: none;
+        height: 60px;
+    }
+    .vl23{
+        margin-top: -2rem;
+        margin-left: 0rem;
+        border-bottom: 2px solid #616161;
+        width: 300px;
+        height: 60px;
+    
+    }
+    .vl3{
+        margin-top: -7rem;
+        margin-left: 2rem;
+        border-left: 4px solid #3084fc;
+        height: 60px;
+    }
+    .basic1ans{
+     color: #616161;
+      padding-top: 0.5rem;
+      font-size: 14px;
+      font-family: 'Open Sans',sans-serif;
+      padding-left: 4.8rem;
+    }
+    .basic5ans{
+        color: #616161;
+         padding-top: 0.5rem;
+         font-size: 16px;
+         font-family: 'Open Sans',sans-serif;
+       }
+    .basic2ans{
+        color: #616161;
+         padding-top: -1rem;
+         font-size: 14px;
+         font-family: 'Open Sans',sans-serif;
+         padding-left: 4rem;
+       }
+       .basic3ans{
+        color: #616161;
+         font-size: 14px;
+         font-family: 'Open Sans',sans-serif;
+         padding-left: 4rem;
+       }
+    .technicalfaq{
+       margin-top: -11rem;
+        max-width: 1285px;
+        background-color:lightblue;
+        margin-left: 2rem;
+        height: 100vh;
+    }
+
+    .questions{
+        margin-top: 40rem;
+        background-color: #f5f5f5;
+        height:120%;
+        width: 339px;
+        display: inline-block;
+    }
+    .questions1{
+        position: static;
+        width: 300px;
+        background-color: #fff;
+        padding-top: 2rem;
+        margin-left: 1rem;
+        margin-top: 2rem;
+        margin-right: 3rem;
+        height: 100%;
+        display: inline-block;
+
+        
+    }
+}
+@media screen and (min-width:340px) and (max-width:359px){
+    .logo{
+        width: 150px;
+        height: 60px;
+        padding-left: 0rem;
+        margin-top: -3rem;
+    
+        
+    }  
+    .cont{
+        background-color:  #3084fc;   
+        height: 15vh;
+        width: 359px;
+    
+    }
+    .contheader{
+       padding-top: 3rem;
+       padding-left: 1rem;
+       font-size: 30px;
+       font-weight: 600;
+       color: #fff;
+       font-family: 'Open Sans',sans-serif;
+    
+    }
+    .contimg{
+        width: 60px;
+        height: 100px;
+        margin-top: 5.5em;
+        margin-left: 9.5rem;
+    }
+    .emailimg{
+        width: 150px;
+        height: 100px;
+        margin-top: 1rem;
+        margin-left: 7rem;
+    
+        
+    }
+    .chatimg{
+        width: 117px;
+        height: 100px;
+        margin-top: 2em;
+        margin-left: 8.5rem;
+        
+    }
+    .callbali{
+        padding-top: 1rem;
+        font-size: 16px;
+        padding-left: 7rem;
+        color:#3084fc;
+        cursor: pointer;
+        font-family: 'Open Sans',sans-serif;
+    }
+    .callbali:hover{
+        text-decoration: underline;
+    }
+    .emailh{
+        margin-top: -5px;
+        font-size: 18px;
+        padding-left: 9.7rem;
+        color:#3084fc;
+        font-family: 'Open Sans',sans-serif;
+        cursor: pointer;
+    }
+    .emailh:hover{
+        text-decoration: underline;
+    }
+    .chath{
+        padding-top: 1rem;
+        font-size: 18px;
+        padding-left: 9rem;
+        color:#3084fc;
+        cursor: pointer;
+        font-family: 'Open Sans',sans-serif;
+
+    }
+    .chath:hover{
+        text-decoration: underline;
+    }
+    .callpbali{
+      padding-left: 8rem;
+      color: #616161;
+      font-size: 13px;
+      opacity: .88;
+    
+    
+    }
+    .touchheader20{
+        font-weight: 600;
+        color: #616161;
+        padding-left: 23rem;
+        padding-top: 31rem;
+        font-size: 52px;
+        
+        font-family: 'Open Sans', sans-serif;
+    }
+    .touchheader21{
+        font-weight: 600;
+        color: #616161;
+        padding-left: 23rem;
+        padding-top:4rem;
+        font-size: 52px;
+        margin-top: -2rem;
+        font-family: 'Open Sans', sans-serif;
+    }
+    .modlheader{
+        font-size: 35px;
+        padding-top: 2rem;
+        font-family: 'Poppins', sans-serif;
+        color: #616161;
+    }
+    .whatppheader{
+        padding-left: 1rem;
+        font-size: 25px;
+        padding-top: 2rem;
+        font-family: 'Poppins', sans-serif;
+        color: #616161;
+    }
+    .redanswer{
+     background-color: red;
+    }
+    .whatpp{
+        font-size: 18px;
+        padding-left: 1rem;
+    }
+    .whatpp:hover{
+        color: red;
+        cursor: pointer;
+    }
+    .modalp{
+        padding-left: 1rem;
+        padding-top: 1rem;
+        font-family: 'Open Sans', sans-serif;
+        color: #616161;
+        font-size: 23px;
+        
+    }
+    
+    .basicheader{
+      cursor: default;  
+      padding-left: 1.5rem;
+      padding-top: 1rem;
+      font-family: 'Open Sans',sans-serif;
+      font-size: 18px;
+      color: black;
+
+    }
+    .basicheader2{
+        padding-top: 1rem;
+        cursor: default;  
+       padding-left: 2rem;
+       margin-top: -32rem;
+       font-family: 'Open Sans',sans-serif;
+       font-size: 20px;
+       font-weight: 400px;
+       color: #3084fc;
+    }
+    
+    .questimg{
+        color: #3084fc;
+        margin-top: 3.9rem;
+        margin-left: -19.7rem;
+        cursor: pointer;
+        width: 1.3em;
+        height: 1.3em;
+    }
+    .questimgpadd{
+        color: #3084fc;
+        margin-top: 1.3rem;
+        margin-left: 1.6rem;
+        cursor: pointer;
+        width: 1.3em;
+        height: 1.3em;
+    }
+    
+    .techimg{
+        color: #3084fc;
+        margin-top: 1rem;
+        margin-left: 13.8rem;
+        cursor: pointer;
+    }
+    .questimgpadd1{
+        color: #3084fc;
+        margin-top: -1rem;
+        margin-left: 13.9rem;
+        cursor: pointer;
+        width: 1.3em;
+        height: 1.3em;
+        margin-left: 1.6rem;
+    }
+    .questimgpadd3{
+        color: #3084fc;
+        margin-top: 1rem;
+        margin-left: 13.9rem;
+        cursor: pointer;
+        width: 1.3em;
+        height: 1.3em;
+        margin-left: 1.6rem;
+    }
+    .quesheader{
+        padding-left: 4rem;
+        font-family: 'Open Sans',sans-serif;
+        font-weight: 400;
+        font-size: 16px;
+        color: #616161;
+        margin-top: -1.3rem;
+        
+    }
+    .quesheader1{
+        cursor: pointer;
+        margin-top: -1rem;
+        margin-left: -12.5rem;
+        font-family: 'Open Sans',sans-serif;
+        font-weight: 400;
+        font-size: 16px;
+        color: #616161;
+    
+        
+    }
+    .quesheader2{
+        cursor: pointer;
+        margin-top: -1.4rem;
+        margin-left: -13rem;
+        font-family: 'Open Sans',sans-serif;
+        font-weight: 400;
+        font-size: 16px;
+        color: #616161;
+    
+        
+    }
+    .quesheader:hover{
+        color: #3084fc;
+        cursor: pointer;
+    }
+    .quesheader1:hover{
+        color: #3084fc;
+    }
+    .vl2{
+        margin-top: -2rem;
+        margin-left: 0rem;
+        border-left: none;
+        height: 60px;
+    }
+    .vl23{
+        margin-top: -2rem;
+        margin-left: 0rem;
+        border-bottom: 2px solid #616161;
+        width: 343px;
+        height: 60px;
+    
+    }
+    .vl3{
+        margin-top: -7rem;
+        margin-left: 2rem;
+        border-left: 4px solid #3084fc;
+        height: 60px;
+    }
+    .basic1ans{
+     color: #616161;
+      padding-top: 0.5rem;
+      font-size: 14px;
+      font-family: 'Open Sans',sans-serif;
+      padding-left: 4.8rem;
+    }
+    .basic5ans{
+        color: #616161;
+         padding-top: 0.5rem;
+         font-size: 16px;
+         font-family: 'Open Sans',sans-serif;
+       }
+    .basic2ans{
+        color: #616161;
+         padding-top: -1rem;
+         font-size: 14px;
+         font-family: 'Open Sans',sans-serif;
+         padding-left: 4rem;
+       }
+       .basic3ans{
+        color: #616161;
+         font-size: 14px;
+         font-family: 'Open Sans',sans-serif;
+         padding-left: 4rem;
+       }
+    .technicalfaq{
+       margin-top: -11rem;
+        max-width: 1285px;
+        background-color:lightblue;
+        margin-left: 2rem;
+        height: 100vh;
+    }
+
+    .questions{
+        margin-top: 40rem;
+        background-color: #f5f5f5;
+        height:120%;
+        width: 413px;
+        display: inline-block;
+    }
+    .questions1{
+        position: static;
+        width: 325px;
+        background-color: #fff;
+        padding-top: 2rem;
+        margin-left: 1rem;
+        margin-top: 2rem;
+        margin-right: 3rem;
+        height: 100%;
+        display: inline-block;
+
+        
+    }
+}
+@media screen and (min-width:375px) and (max-width:389px){
+    .logo{
+        width: 150px;
+        height: 60px;
+        padding-left: 0rem;
+        margin-top: -3rem;
+    
+        
+    }  
+    .cont{
+        background-color:  #3084fc;   
+        height: 14vh;
+        width: 389px;
+    
+    }
+    .contheader{
+       padding-top: 3rem;
+       padding-left: 1rem;
+       font-size: 30px;
+       font-weight: 600;
+       color: #fff;
+       font-family: 'Open Sans',sans-serif;
+    
+    }
+    .contimg{
+        width: 60px;
+        height: 100px;
+        margin-top: 5.5em;
+        margin-left: 9.5rem;
+    }
+    .emailimg{
+        width: 150px;
+        height: 100px;
+        margin-top: 1rem;
+        margin-left: 7rem;
+    
+        
+    }
+    .chatimg{
+        width: 117px;
+        height: 100px;
+        margin-top: 2em;
+        margin-left: 8.5rem;
+        
+    }
+    .callbali{
+        padding-top: 1rem;
+        font-size: 16px;
+        padding-left: 7rem;
+        color:#3084fc;
+        cursor: pointer;
+        font-family: 'Open Sans',sans-serif;
+    }
+    .callbali:hover{
+        text-decoration: underline;
+    }
+    .emailh{
+        margin-top: -5px;
+        font-size: 18px;
+        padding-left: 9.7rem;
+        color:#3084fc;
+        font-family: 'Open Sans',sans-serif;
+        cursor: pointer;
+    }
+    .emailh:hover{
+        text-decoration: underline;
+    }
+    .chath{
+        padding-top: 1rem;
+        font-size: 18px;
+        padding-left: 9rem;
+        color:#3084fc;
+        cursor: pointer;
+        font-family: 'Open Sans',sans-serif;
+
+    }
+    .chath:hover{
+        text-decoration: underline;
+    }
+    .callpbali{
+      padding-left: 8rem;
+      color: #616161;
+      font-size: 13px;
+      opacity: .88;
+    
+    
+    }
+    .touchheader20{
+        font-weight: 600;
+        color: #616161;
+        padding-left: 23rem;
+        padding-top: 31rem;
+        font-size: 52px;
+        
+        font-family: 'Open Sans', sans-serif;
+    }
+    .touchheader21{
+        font-weight: 600;
+        color: #616161;
+        padding-left: 23rem;
+        padding-top:4rem;
+        font-size: 52px;
+        margin-top: -2rem;
+        font-family: 'Open Sans', sans-serif;
+    }
+    .modlheader{
+        font-size: 35px;
+        padding-top: 2rem;
+        font-family: 'Poppins', sans-serif;
+        color: #616161;
+    }
+    .whatppheader{
+        padding-left: 1rem;
+        font-size: 25px;
+        padding-top: 2rem;
+        font-family: 'Poppins', sans-serif;
+        color: #616161;
+    }
+    .redanswer{
+     background-color: red;
+    }
+    .whatpp{
+        font-size: 18px;
+        padding-left: 1rem;
+    }
+    .whatpp:hover{
+        color: red;
+        cursor: pointer;
+    }
+    .modalp{
+        padding-left: 1rem;
+        padding-top: 1rem;
+        font-family: 'Open Sans', sans-serif;
+        color: #616161;
+        font-size: 23px;
+        
+    }
+    .questions{
+        margin-top: 40rem;
+        background-color: #f5f5f5;
+        height:100%;
+        width: 389px;
+        display: inline-block;
+        margin-bottom: 10rem;
+    }
+    .questions1{
+        position: static;
+        width: 365px;
+        background-color: #fff;
+        padding-top: 2rem;
+        margin-left: 1rem;
+        margin-top: 2rem;
+        margin-right: 3rem;
+        height: 100%;
+        display: inline-block;
+        overflow: scroll;
+
+        
+    }
+    .basicheader{
+      cursor: default;  
+      padding-left: 1.5rem;
+      padding-top: 1rem;
+      font-family: 'Open Sans',sans-serif;
+      font-size: 18px;
+      color: black;
+
+    }
+    .basicheader2{
+        padding-top: 1rem;
+        cursor: default;  
+       padding-left: 2rem;
+       margin-top: -32rem;
+       font-family: 'Open Sans',sans-serif;
+       font-size: 20px;
+       font-weight: 400px;
+       color: #3084fc;
+    }
+    
+    .questimg{
+        color: #3084fc;
+        margin-top: 3.9rem;
+        margin-left: -22.3rem;
+        cursor: pointer;
+        width: 1.3em;
+        height: 1.3em;
+    }
+    .questimgpadd{
+        color: #3084fc;
+        margin-top: 1.3rem;
+        margin-left: 1.6rem;
+        cursor: pointer;
+        width: 1.3em;
+        height: 1.3em;
+    }
+    
+    .techimg{
+        color: #3084fc;
+        margin-top: 1rem;
+        margin-left: 13.8rem;
+        cursor: pointer;
+    }
+    .questimgpadd1{
+        color: #3084fc;
+        margin-top: -1rem;
+        margin-left: 13.9rem;
+        cursor: pointer;
+        width: 1.3em;
+        height: 1.3em;
+        margin-left: 1.6rem;
+    }
+    .questimgpadd3{
+        color: #3084fc;
+        margin-top: 1rem;
+        margin-left: 13.9rem;
+        cursor: pointer;
+        width: 1.3em;
+        height: 1.3em;
+        margin-left: 1.6rem;
+    }
+    .quesheader{
+        padding-left: 4rem;
+        font-family: 'Open Sans',sans-serif;
+        font-weight: 400;
+        font-size: 16px;
+        color: #616161;
+        margin-top: -1.3rem;
+        
+    }
+    .quesheader1{
+        cursor: pointer;
+        margin-top: -1rem;
+        margin-left: -12.5rem;
+        font-family: 'Open Sans',sans-serif;
+        font-weight: 400;
+        font-size: 16px;
+        color: #616161;
+    
+        
+    }
+    .quesheader2{
+        cursor: pointer;
+        margin-top: -1.4rem;
+        margin-left: -13rem;
+        font-family: 'Open Sans',sans-serif;
+        font-weight: 400;
+        font-size: 16px;
+        color: #616161;
+    
+        
+    }
+    .quesheader:hover{
+        color: #3084fc;
+        cursor: pointer;
+    }
+    .quesheader1:hover{
+        color: #3084fc;
+    }
+    .vl2{
+        margin-top: -2rem;
+        margin-left: 0rem;
+        border-left: none;
+        height: 60px;
+    }
+    .vl23{
+        margin-top: -2rem;
+        margin-left: 0rem;
+        border-bottom: 2px solid #616161;
+        width: 365px;
+        height: 60px;
+    
+    }
+    .vl3{
+        margin-top: -7rem;
+        margin-left: 2rem;
+        border-left: 4px solid #3084fc;
+        height: 60px;
+    }
+    .basic1ans{
+     color: #616161;
+      padding-top: 0.5rem;
+      font-size: 14px;
+      font-family: 'Open Sans',sans-serif;
+      padding-left: 4.8rem;
+    }
+    .basic5ans{
+        color: #616161;
+         padding-top: 0.5rem;
+         font-size: 16px;
+         font-family: 'Open Sans',sans-serif;
+       }
+    .basic2ans{
+        color: #616161;
+         padding-top: -1rem;
+         font-size: 14px;
+         font-family: 'Open Sans',sans-serif;
+         padding-left: 4rem;
+       }
+       .basic3ans{
+        color: #616161;
+         font-size: 14px;
+         font-family: 'Open Sans',sans-serif;
+         padding-left: 4rem;
+       }
+    .technicalfaq{
+       margin-top: -11rem;
+        max-width: 1285px;
+        background-color:lightblue;
+        margin-left: 2rem;
+        height: 100vh;
+    }
+
+}
+@media screen and (min-width:390px) and (max-width:413px){
+    .logo{
+        width: 150px;
+        height: 60px;
+        padding-left: 0rem;
+        margin-top: -4rem;
+    
+        
+    }  
+    .cont{
+        background-color:  #3084fc;   
+        height: 15vh;
+        width: 413px;
+    
+    }
+    .contheader{
+       padding-top: 3rem;
+       padding-left: 1rem;
+       font-size: 30px;
+       font-weight: 600;
+       color: #fff;
+       font-family: 'Open Sans',sans-serif;
+    
+    }
+    .contimg{
+        width: 60px;
+        height: 100px;
+        margin-top: 5.5em;
+        margin-left: 9.5rem;
+    }
+    .emailimg{
+        width: 150px;
+        height: 100px;
+        margin-top: 1rem;
+        margin-left: 7rem;
+    
+        
+    }
+    .chatimg{
+        width: 117px;
+        height: 100px;
+        margin-top: 2em;
+        margin-left: 8.5rem;
+        
+    }
+    .callbali{
+        padding-top: 1rem;
+        font-size: 16px;
+        padding-left: 7rem;
+        color:#3084fc;
+        cursor: pointer;
+        font-family: 'Open Sans',sans-serif;
+    }
+    .callbali:hover{
+        text-decoration: underline;
+    }
+    .emailh{
+        margin-top: -5px;
+        font-size: 18px;
+        padding-left: 9.7rem;
+        color:#3084fc;
+        font-family: 'Open Sans',sans-serif;
+        cursor: pointer;
+    }
+    .emailh:hover{
+        text-decoration: underline;
+    }
+    .chath{
+        padding-top: 1rem;
+        font-size: 18px;
+        padding-left: 9rem;
+        color:#3084fc;
+        cursor: pointer;
+        font-family: 'Open Sans',sans-serif;
+
+    }
+    .chath:hover{
+        text-decoration: underline;
+    }
+    .callpbali{
+      padding-left: 8rem;
+      color: #616161;
+      font-size: 13px;
+      opacity: .88;
+    
+    
+    }
+    .touchheader20{
+        font-weight: 600;
+        color: #616161;
+        padding-left: 23rem;
+        padding-top: 31rem;
+        font-size: 52px;
+        
+        font-family: 'Open Sans', sans-serif;
+    }
+    .touchheader21{
+        font-weight: 600;
+        color: #616161;
+        padding-left: 23rem;
+        padding-top:4rem;
+        font-size: 52px;
+        margin-top: -2rem;
+        font-family: 'Open Sans', sans-serif;
+    }
+    .modlheader{
+        font-size: 35px;
+        padding-top: 2rem;
+        font-family: 'Poppins', sans-serif;
+        color: #616161;
+    }
+    .whatppheader{
+        padding-left: 1rem;
+        font-size: 25px;
+        padding-top: 2rem;
+        font-family: 'Poppins', sans-serif;
+        color: #616161;
+    }
+    .redanswer{
+     background-color: red;
+    }
+    .whatpp{
+        font-size: 18px;
+        padding-left: 1rem;
+    }
+    .whatpp:hover{
+        color: red;
+        cursor: pointer;
+    }
+    .modalp{
+        padding-left: 1rem;
+        padding-top: 1rem;
+        font-family: 'Open Sans', sans-serif;
+        color: #616161;
+        font-size: 23px;
+        
+    }
+    .questions{
+        margin-top: 40rem;
+        background-color: #f5f5f5;
+        height:120%;
+        width: 413px;
+        display: inline-block;
+    }
+    .questions1{
+        position: static;
+        width: 380px;
+        background-color: #fff;
+        padding-top: 2rem;
+        margin-left: 1rem;
+        margin-top: 2rem;
+        margin-right: 3rem;
+        height: 100%;
+        display: inline-block;
+        overflow: scroll;
+        
+    }
+    .basicheader{
+      cursor: default;  
+      padding-left: 1.5rem;
+      padding-top: 1rem;
+      font-family: 'Open Sans',sans-serif;
+      font-size: 18px;
+      color: black;
+
+    }
+    .basicheader2{
+        padding-top: 1rem;
+        cursor: default;  
+       padding-left: 2rem;
+       margin-top: -32rem;
+       font-family: 'Open Sans',sans-serif;
+       font-size: 20px;
+       font-weight: 400px;
+       color: #3084fc;
+    }
+    
+    .questimg{
+        color: #3084fc;
+        margin-top: 3.9rem;
+        margin-left: -21.8rem;
+        cursor: pointer;
+        width: 1.3em;
+        height: 1.3em;
+    }
+    .questimgpadd{
+        color: #3084fc;
+        margin-top: 1.3rem;
+        margin-left: 1.6rem;
+        cursor: pointer;
+        width: 1.3em;
+        height: 1.3em;
+    }
+    
+    .techimg{
+        color: #3084fc;
+        margin-top: 1rem;
+        margin-left: 13.8rem;
+        cursor: pointer;
+    }
+    .questimgpadd1{
+        color: #3084fc;
+        margin-top: -1rem;
+        margin-left: 13.9rem;
+        cursor: pointer;
+        width: 1.3em;
+        height: 1.3em;
+        margin-left: 1.6rem;
+    }
+    .questimgpadd3{
+        color: #3084fc;
+        margin-top: 1rem;
+        margin-left: 13.9rem;
+        cursor: pointer;
+        width: 1.3em;
+        height: 1.3em;
+        margin-left: 1.6rem;
+    }
+    .quesheader{
+        padding-left: 4rem;
+        font-family: 'Open Sans',sans-serif;
+        font-weight: 400;
+        font-size: 16px;
+        color: #616161;
+        margin-top: -1.3rem;
+        
+    }
+    .quesheader1{
+        cursor: pointer;
+        margin-top: -1rem;
+        margin-left: -12.5rem;
+        font-family: 'Open Sans',sans-serif;
+        font-weight: 400;
+        font-size: 16px;
+        color: #616161;
+    
+        
+    }
+    .quesheader2{
+        cursor: pointer;
+        margin-top: -1.4rem;
+        margin-left: -13rem;
+        font-family: 'Open Sans',sans-serif;
+        font-weight: 400;
+        font-size: 16px;
+        color: #616161;
+    
+        
+    }
+    .quesheader:hover{
+        color: #3084fc;
+        cursor: pointer;
+    }
+    .quesheader1:hover{
+        color: #3084fc;
+    }
+    .vl2{
+        margin-top: -2rem;
+        margin-left: 0rem;
+        border-left: none;
+        height: 60px;
+    }
+    .vl23{
+        margin-top: -2rem;
+        margin-left: 0rem;
+        border-bottom: 2px solid #616161;
+        width: 380px;
+        height: 60px;
+    
+    }
+    .vl3{
+        margin-top: -7rem;
+        margin-left: 2rem;
+        border-left: 4px solid #3084fc;
+        height: 60px;
+    }
+    .basic1ans{
+     color: #616161;
+      padding-top: 0.5rem;
+      font-size: 14px;
+      font-family: 'Open Sans',sans-serif;
+      padding-left: 4.8rem;
+    }
+    .basic5ans{
+        color: #616161;
+         padding-top: 0.5rem;
+         font-size: 16px;
+         font-family: 'Open Sans',sans-serif;
+       }
+    .basic2ans{
+        color: #616161;
+         padding-top: -1rem;
+         font-size: 14px;
+         font-family: 'Open Sans',sans-serif;
+         padding-left: 4rem;
+       }
+       .basic3ans{
+        color: #616161;
+         font-size: 14px;
+         font-family: 'Open Sans',sans-serif;
+         padding-left: 4rem;
+       }
+    .technicalfaq{
+       margin-top: -11rem;
+        max-width: 1285px;
+        background-color:lightblue;
+        margin-left: 2rem;
+        height: 100vh;
+    }
+
+    
+}
+
+
+@media screen and (min-width:401px) and (max-width:405px){
+    .cont{
+        background-color:  #3084fc;   
+        height: 15vh;
+        width: 405px;
+    
+    }
+    
+    .contimg{
+        width: 60px;
+        height: 100px;
+        margin-top: 5.5em;
+        margin-left: 10.3rem;
+    }
+    .emailimg{
+        width: 150px;
+        height: 100px;
+        margin-top: 1rem;
+        margin-left: 7.5rem;
+    
+        
+    }
+    .chatimg{
+        width: 117px;
+        height: 100px;
+        margin-top: 2em;
+        margin-left: 8.5rem;
+        
+    }
+    .callbali{
+        padding-top: 1rem;
+        font-size: 16px;
+        padding-left: 7.5rem;
+        color:#3084fc;
+        cursor: pointer;
+        font-family: 'Open Sans',sans-serif;
+    }
+    .callbali:hover{
+        text-decoration: underline;
+    }
+    .emailh{
+        margin-top: -5px;
+        font-size: 16px;
+        padding-left: 10.4rem;
+        color:#3084fc;
+        font-family: 'Open Sans',sans-serif;
+        cursor: pointer;
+    }
+    .emailh:hover{
+        text-decoration: underline;
+    }
+    .chath{
+        padding-top: 1rem;
+        font-size: 16px;
+        padding-left: 9.5rem;
+        color:#3084fc;
+        cursor: pointer;
+        font-family: 'Open Sans',sans-serif;
+
+    }
+    
+    .callpbali{
+      padding-left: 9rem;
+      color: #616161;
+      font-size: 13px;
+      opacity: .88;
+    
+    
+    }
+    
+    
+    .basicheader{
+      cursor: default;  
+      padding-left: 1.5rem;
+      padding-top: 1rem;
+      font-family: 'Open Sans',sans-serif;
+      font-size: 18px;
+      color: black;
+
+    }
+    
+    .questimg{
+        color: #3084fc;
+        margin-top: 3.9rem;
+        margin-left: -23rem;
+        cursor: pointer;
+        width: 1.3em;
+        height: 1.3em;
+    }
+    
+    .quesheader{
+        padding-left: 4rem;
+        font-family: 'Open Sans',sans-serif;
+        font-weight: 400;
+        font-size: 16px;
+        color: #616161;
+        margin-top: -1.3rem;
+        
+    }
+    
+    
+    
+    .vl23{
+        margin-top: -2rem;
+        margin-left: 0rem;
+        border-bottom: 2px solid #616161;
+        width: 370px;
+        height: 60px;
+    
+    }
+    
+        
+}
+@media screen and (min-width:406px) and (max-width:410px){
+    .cont{
+        background-color:  #3084fc;   
+        height: 15vh;
+        width: 410px;
+    
+    }
+    
+    .contimg{
+        width: 60px;
+        height: 100px;
+        margin-top: 5.5em;
+        margin-left: 10.3rem;
+    }
+    .emailimg{
+        width: 150px;
+        height: 100px;
+        margin-top: 1rem;
+        margin-left: 7.5rem;
+    
+        
+    }
+    .chatimg{
+        width: 117px;
+        height: 100px;
+        margin-top: 2em;
+        margin-left: 8.5rem;
+        
+    }
+    .callbali{
+        padding-top: 1rem;
+        font-size: 16px;
+        padding-left: 7.5rem;
+        color:#3084fc;
+        cursor: pointer;
+        font-family: 'Open Sans',sans-serif;
+    }
+    .callbali:hover{
+        text-decoration: underline;
+    }
+    .emailh{
+        margin-top: -5px;
+        font-size: 16px;
+        padding-left: 10.4rem;
+        color:#3084fc;
+        font-family: 'Open Sans',sans-serif;
+        cursor: pointer;
+    }
+    .emailh:hover{
+        text-decoration: underline;
+    }
+    .chath{
+        padding-top: 1rem;
+        font-size: 16px;
+        padding-left: 9.5rem;
+        color:#3084fc;
+        cursor: pointer;
+        font-family: 'Open Sans',sans-serif;
+
+    }
+    
+    .callpbali{
+      padding-left: 9rem;
+      color: #616161;
+      font-size: 13px;
+      opacity: .88;
+    
+    
+    }
+    
+    
+    .basicheader{
+      cursor: default;  
+      padding-left: 1.5rem;
+      padding-top: 1rem;
+      font-family: 'Open Sans',sans-serif;
+      font-size: 18px;
+      color: black;
+
+    }
+    
+    .questimg{
+        color: #3084fc;
+        margin-top: 3.9rem;
+        margin-left: -22.5rem;
+        cursor: pointer;
+        width: 1.3em;
+        height: 1.3em;
+    }
+    
+    .quesheader{
+        padding-left: 4rem;
+        font-family: 'Open Sans',sans-serif;
+        font-weight: 400;
+        font-size: 16px;
+        color: #616161;
+        margin-top: -1.3rem;
+        
+    }
+    
+    
+    
+    .vl23{
+        margin-top: -2rem;
+        margin-left: 0rem;
+        border-bottom: 2px solid #616161;
+        width: 370px;
+        height: 60px;
+    
+    }
+    .questimg{
+        color: #3084fc;
+        margin-top: 3.9rem;
+        margin-left: -23rem;
+        cursor: pointer;
+        width: 1.3em;
+        height: 1.3em;
+    }
+   
+        
+}
+@media screen and (min-width:409px) and (max-width:410px){
+    .questions{
+        margin-top: 40rem;
+        background-color: #f5f5f5;
+        height:120%;
+        width: 413px;
+        display: inline-block;
+    }
+    .questions1{
+        position: static;
+        width: 375px;
+        background-color: #fff;
+        padding-top: 2rem;
+        margin-left: 1rem;
+        margin-top: 2rem;
+        margin-right: 3rem;
+        height: 100%;
+        display: inline-block;
+
+        
+    }
+    
+    .cont{
+        background-color:  #3084fc;   
+        height: 15vh;
+        width: 410px;
+    
+    }
+    .questimg{
+        color: #3084fc;
+        margin-top: 3.9rem;
+        margin-left: -23rem;
+        cursor: pointer;
+        width: 1.3em;
+        height: 1.3em;
+    }
+   
+    
+}
+@media screen and (min-width:411px) and (max-width:413px){
+    .questions{
+        margin-top: 40rem;
+        background-color: #f5f5f5;
+        height:120%;
+        width: 413px;
+        display: inline-block;
+    }
+    .questions1{
+        position: static;
+        width: 380px;
+        background-color: #fff;
+        padding-top: 2rem;
+        margin-left: 1rem;
+        margin-top: 2rem;
+        margin-right: 3rem;
+        height: 100%;
+        display: inline-block;
+
+        
+    }
+    .contimg{
+        width: 60px;
+        height: 100px;
+        margin-top: 5.5em;
+        margin-left: 10.6rem;
+    }
+    .emailimg{
+        width: 150px;
+        height: 100px;
+        margin-top: 1rem;
+        margin-left: 7.8rem;
+    
+        
+    }
+    .chatimg{
+        width: 117px;
+        height: 100px;
+        margin-top: 2em;
+        margin-left: 8.9rem;
+        
+    }
+    .callbali{
+        padding-top: 1rem;
+        font-size: 16px;
+        padding-left: 7.7rem;
+        color:#3084fc;
+        cursor: pointer;
+        font-family: 'Open Sans',sans-serif;
+    }
+    .callbali:hover{
+        text-decoration: underline;
+    }
+    .emailh{
+        margin-top: -5px;
+        font-size: 16px;
+        padding-left: 10.7rem;
+        color:#3084fc;
+        font-family: 'Open Sans',sans-serif;
+        cursor: pointer;
+    }
+    .emailh:hover{
+        text-decoration: underline;
+    }
+    .chath{
+        padding-top: 1rem;
+        font-size: 16px;
+        padding-left: 9.9rem;
+        color:#3084fc;
+        cursor: pointer;
+        font-family: 'Open Sans',sans-serif;
+
+    }
+    
+    .callpbali{
+      padding-left: 9rem;
+      color: #616161;
+      font-size: 13px;
+      opacity: .88;
+    
+    
+    }
+     
+    .vl23{
+        margin-top: -2rem;
+        margin-left: 0rem;
+        border-bottom: 2px solid #616161;
+        width: 377px;
+        height: 60px;
+    
+    }
+ 
+    
+    .questimg{
+        color: #3084fc;
+        margin-top: 3.9rem;
+        margin-left: -23rem;
+        cursor: pointer;
+        width: 1.3em;
+        height: 1.3em;
+    }
+    .cont{
+        background-color:  #3084fc;   
+        height: 15vh;
+        width: 413px;
+    
+    }
+    
+}
+
+@media screen  and (min-width:375px) and (max-width:385px){
+    .giga3{
+        padding-left: 1rem;
+        margin-left: 0.8rem;
+        margin-top: -10rem;
+        font-size: 28px;
+        font-family: 'Google Sans,Roboto,Arial,Helvetica',sans-serif;
+        color: #202124;
+    }
+    .emladd{
+        margin-top: 2rem;
+        margin-left: 1.3rem;
+    
+        border-radius: 4px;
+        border: 1px solid #9aa0a6;
+        width: 330px;
+        height: 48px;
+        color: #5f6368;
+    }
+    input[type="email"]{  
+        text-align: left; 
+        
+    }
+    .btsign{
+       margin-left: 4.3rem;
+       margin-top: 1rem;
+       font-family: 'Open Sans', sans-serif;
+       width: 240px;
+       height: 48px;
+       background-color: #1E8E3E;
+    } 
+    .signp{
+        color: #5F6368;
+        margin-left: -7rem;
+        margin-top: 2rem;
+        font-size: 14px;
+        font-family: "Roboto"; 
+        font-weight:400;
+        
+    
+    }
+    .signp2{
+        color: #5F6368;
+        padding-left: 10rem;
+        font-size: 14px;
+    }
+    .signp3{
+        color: #5F6368;
+        padding-left: 34rem;
+    
+    }
+    .signp4{
+        color: #5F6368;
+        margin-top: -2.3rem;
+        margin-left: 8rem;
+        font-size: 14px;
+        font-family: 'Roboto';
+        font-weight: 400;
+        padding-right: 3rem;
+
+    
+    }
+    .signp5{
+        color: #5F6368;
+        margin-top: -2.3rem;
+        font-size: 14px;
+        font-family: 'Roboto';
+        font-weight: 400;
+        margin-left: 3rem;
+        
+    }
+    .fbk{
+        color: #fff;
+        background-color: #80868b;
+        border-radius: 50%;
+        cursor: pointer;
+        margin-top: 3.5rem;
+       margin-left: 6.5rem;
+       padding-top: 0.5rem;
+       padding-bottom: 0.5rem;
+       padding-left: 0.5rem;
+       padding-right: 0.5rem;
+       height: 40px;
+       width: 40px;
+    }
+    .fbk:hover{
+      background-color:#2c3e50;
+    }
+    
+    
+    .ut{
+        color: #fff;
+        background-color: #80868b;
+        border-radius: 50%;
+        cursor: pointer;
+       padding-left: 0.5rem;
+       padding-right: 0.5rem;
+       padding-top: 0.5rem;
+      padding-bottom: 0.5rem;
+       height: 40px;
+       width: 40px;
+       margin-top: -20rem;
+        margin-left: 10rem;
+    
+    }
+    .utk{
+        margin-top: -1.4rem;
+    }
+    .fa-facebook-f{
+        transform: scale(1.1,1); 
+    }
+    .fa-youtube 
+    {  
+        transform: scale(0.8,1); 
+    }
+    .ut:hover{
+        background-color: #2c3e50;
+    }
+    .twtter{
+        color: #fff;
+        background-color: #80868b;
+        border-radius: 50%;
+        cursor: pointer;
+       padding-left: 0.5rem;
+       padding-right: 0.5rem;
+       padding-top: 0.5rem;
+      padding-bottom: 0.5rem;
+       height: 40px;
+       width: 40px;
+        
+        margin-top: -9rem;
+        margin-left: 12rem;
+        
+    }
+    .twtter:hover{
+        background-color: #2c3e50;
+    }
+    .insta{
+        margin-left: 0.5rem;
+        margin-top: -1.5rem;
+    }
+    #footer{
+        background-color: #f5f5f5;
+        width :389px;
+        margin-top: 8rem;
+        height:100%;
+        display: inherit;
+        display: inline-block;
+        overflow: hidden;
+       
+           
+    }
+    .chkavail{
+        color:#5F6368;
+        font-size: 12px;
+        padding-left: 2rem;
+        padding-top: 3rem;
+        font-family: "Google Sans","Roboto",Arial,Helvetica,sans-serif;
+        word-break: break-all;
+        font-weight: 600;
+    
+    }
+    .chkavail2{
+        color:#5F6368;
+        font-size: 12px;
+        padding-left: 2rem;
+        margin-top: -1rem;
+        font-family: "Google Sans","Roboto",Arial,Helvetica,sans-serif;
+        font-weight: 600;
+        word-break: break-word;
+    }
+    .explore{
+        color:#616161;
+        font-size: 12px;
+        padding-left: 5rem;
+        padding-top: 3rem;
+        font-family: "Google Sans","Roboto",Arial,Helvetica,sans-serif;
+        font-weight: 600;
+    }
+  
+    .explore5{
+        color:#616161;
+        font-size: 12px;
+        padding-left: 2.5rem;
+        margin-top: -1rem;
+        font-family: "Google Sans","Roboto",Arial,Helvetica,sans-serif;
+        font-weight: 600;
+    }
+    .socialmediaexplore{
+        color:#5F6368;
+        font-size: 12px;
+        padding-left: 15.5rem;
+        margin-top: -10.7rem;
+        font-family: "Google Sans","Roboto",Arial,Helvetica,sans-serif;
+        font-weight: 600;
+    }
+    .socialmediabit{
+        font-family: 'Open Sans', sans-serif;
+        margin-left: 11rem;
+        font-size: 14px;
+        color: #616161;
+        opacity: .48;
+        font-weight: 400;
+    }
+    .resident{
+        margin-left: -15rem;
+        font-family: "Google Sans","Roboto",Arial,Helvetica,sans-serif;
+        font-size: 14px;
+        color: #616161;
+        opacity: .48;
+        font-weight: 400;
+        cursor: pointer;
+    }
+    .bit{
+        font-family: 'Open Sans', sans-serif;
+        padding-left: 0rem;
+        font-size: 14px;
+        color: #616161;
+        opacity: .48;
+        font-weight: 400;
+    }
+    .aboutbit{
+        font-family: 'Open Sans', sans-serif;
+        margin-left: -2.7rem;
+        font-size: 14px;
+        color: #616161;
+        opacity: .48;
+        font-weight: 400;
+    }
+    #link{
+       color: #616161;
+       text-decoration: none;
+    } 
+    #navbarlink{
+        color:#616161;
+    }
+}
+@media screen and (min-width:340px) and (max-width:374px){
+    .giga3{
+        padding-left: 0.7rem;
+        margin-left: 0.8rem;
+        margin-top: -2rem;
+        font-size: 28px;
+        font-family: 'Google Sans,Roboto,Arial,Helvetica',sans-serif;
+        color: #202124;
+    }
+    .emladd{
+        margin-top: 2rem;
+        margin-left: 1.3rem;
+    
+        border-radius: 4px;
+        border: 1px solid #9aa0a6;
+        width: 330px;
+        height: 48px;
+        color: #5f6368;
+    }
+    input[type="email"]{  
+        text-align: left; 
+        
+    }
+    .btsign{
+       margin-left: 4.3rem;
+       margin-top: 1rem;
+       font-family: 'Open Sans', sans-serif;
+       width: 240px;
+       height: 48px;
+       background-color: #1E8E3E;
+    } 
+    .signp{
+        color: #5F6368;
+        padding-left: 3rem;
+        margin-top: 2rem;
+        font-size: 14px;
+        font-family: "Roboto"; 
+        font-weight:400;
+        
+    
+    }
+    .signp2{
+        color: #5F6368;
+        padding-left: 10rem;
+        font-size: 14px;
+    }
+    .signp3{
+        color: #5F6368;
+        padding-left: 34rem;
+    
+    }
+    .signp4{
+        color: #5F6368;
+        margin-top: -2.3rem;
+        margin-left: 8rem;
+        font-size: 14px;
+        font-family: 'Roboto';
+        font-weight: 400;
+        padding-right: 3rem;
+
+    
+    }
+    .signp5{
+        color: #5F6368;
+        margin-top: -2.3rem;
+        font-size: 14px;
+        font-family: 'Roboto';
+        font-weight: 400;
+        margin-left: 10rem;
+        
+    }
+    .fbk{
+        color: #fff;
+        background-color: #80868b;
+        border-radius: 50%;
+        cursor: pointer;
+        margin-top: 3.5rem;
+       margin-left: 6.5rem;
+       padding-top: 0.5rem;
+       padding-bottom: 0.5rem;
+       padding-left: 0.5rem;
+       padding-right: 0.5rem;
+       height: 40px;
+       width: 40px;
+    }
+    .fbk:hover{
+      background-color:#2c3e50;
+    }
+    
+    
+    .ut{
+        color: #fff;
+        background-color: #80868b;
+        border-radius: 50%;
+        cursor: pointer;
+       padding-left: 0.5rem;
+       padding-right: 0.5rem;
+       padding-top: 0.5rem;
+      padding-bottom: 0.5rem;
+       height: 40px;
+       width: 40px;
+       margin-top: -20rem;
+        margin-left: 10rem;
+    
+    }
+    .utk{
+        margin-top: -1.4rem;
+    }
+    .fa-facebook-f{
+        transform: scale(1.1,1); 
+    }
+    .fa-youtube 
+    {  
+        transform: scale(0.8,1); 
+    }
+    .ut:hover{
+        background-color: #2c3e50;
+    }
+    .twtter{
+        color: #fff;
+        background-color: #80868b;
+        border-radius: 50%;
+        cursor: pointer;
+       padding-left: 0.5rem;
+       padding-right: 0.5rem;
+       padding-top: 0.5rem;
+      padding-bottom: 0.5rem;
+       height: 40px;
+       width: 40px;
+        
+        margin-top: -9rem;
+        margin-left: 12rem;
+        
+    }
+    .twtter:hover{
+        background-color: #2c3e50;
+    }
+    .insta{
+        margin-left: 0.5rem;
+        margin-top: -1.5rem;
+    }
+    #footer{
+        background-color: #f5f5f5;
+        width :374px;
+        margin-top: 8rem;
+        height:100%;
+        display: inherit;
+        display: inline-block;
+        overflow: hidden;
+       
+           
+    }
+    .chkavail{
+        color:#5F6368;
+        font-size: 12px;
+        padding-left: 2rem;
+        padding-top: 3rem;
+        font-family: "Google Sans","Roboto",Arial,Helvetica,sans-serif;
+        word-break: break-all;
+        font-weight: 600;
+    
+    }
+    .chkavail2{
+        color:#5F6368;
+        font-size: 12px;
+        padding-left: 2rem;
+        margin-top: -1rem;
+        font-family: "Google Sans","Roboto",Arial,Helvetica,sans-serif;
+        font-weight: 600;
+        word-break: break-word;
+    }
+    .explore{
+        color:#616161;
+        font-size: 12px;
+        padding-left: 6rem;
+        padding-top: 3rem;
+        font-family: "Google Sans","Roboto",Arial,Helvetica,sans-serif;
+        font-weight: 600;
+    }
+  
+    .explore5{
+        color:#616161;
+        font-size: 12px;
+        padding-left: 2.5rem;
+        margin-top: -1rem;
+        font-family: "Google Sans","Roboto",Arial,Helvetica,sans-serif;
+        font-weight: 600;
+    }
+    .socialmediaexplore{
+        color:#5F6368;
+        font-size: 12px;
+        padding-left: 14.5rem;
+        margin-top: -10.7rem;
+        font-family: "Google Sans","Roboto",Arial,Helvetica,sans-serif;
+        font-weight: 600;
+    }
+    .socialmediabit{
+        font-family: 'Open Sans', sans-serif;
+        margin-left: 8.3rem;
+        font-size: 14px;
+        color: #616161;
+        opacity: .48;
+        font-weight: 400;
+    }
+    .resident{
+        margin-left: -15rem;
+        font-family: "Google Sans","Roboto",Arial,Helvetica,sans-serif;
+        font-size: 14px;
+        color: #616161;
+        opacity: .48;
+        font-weight: 400;
+        cursor: pointer;
+    }
+    .bit{
+        font-family: 'Open Sans', sans-serif;
+        padding-left: 1rem;
+        font-size: 14px;
+        color: #616161;
+        opacity: .48;
+        font-weight: 400;
+    }
+    .aboutbit{
+        font-family: 'Open Sans', sans-serif;
+        margin-left: -3.8rem;
+        font-size: 14px;
+        color: #616161;
+        opacity: .48;
+        font-weight: 400;
+    }
+    #link{
+       color: #616161;
+       text-decoration: none;
+    } 
+    #navbarlink{
+        color:#616161;
+    }
+}
+@media screen and (min-width:357px) and (max-width:374px){
+    .signp5{
+        color: #5F6368;
+        margin-top: -2.4rem;
+        font-size: 14px;
+        font-family: 'Roboto';
+        font-weight: 400;
+        margin-left: 7rem;
+        
+    }
+}
+@media screen and (min-width:372px) and (max-width:374px){
+    .signp5{
+        color: #5F6368;
+        margin-top: -2.4rem;
+        font-size: 14px;
+        font-family: 'Roboto';
+        font-weight: 400;
+        margin-left: 5rem;
+        
+    }
+}
+
+@media screen and (min-width:340px) and (max-width:353px){
+    .giga3{
+        padding-left: 2.3rem;
+        text-align-last:center ;
+        margin-top: -2rem;
+        font-size: 28px;
+        font-family: 'Google Sans,Roboto,Arial,Helvetica',sans-serif;
+        color: #202124;
+    }
+}
+@media screen and (min-width:386px) and (max-width:425px){
+    #footer{
+        background-color: #f5f5f5;
+        width :423px;
+        margin-top: 8rem;
+        height:100%;
+        display: inherit;
+        display: inline-block;
+        overflow: hidden;
+       
+           
+    }
+    .chkavail{
+        color:#5F6368;
+        font-size: 12px;
+        padding-left: 2rem;
+        padding-top: 3rem;
+        font-family: "Google Sans","Roboto",Arial,Helvetica,sans-serif;
+        word-break: break-all;
+        font-weight: 600;
+    
+    }
+    .chkavail2{
+        color:#5F6368;
+        font-size: 12px;
+        padding-left: 2rem;
+        margin-top: -1rem;
+        font-family: "Google Sans","Roboto",Arial,Helvetica,sans-serif;
+        font-weight: 600;
+        word-break: break-word;
+    }
+    .explore{
+        color:#616161;
+        font-size: 12px;
+        padding-left: 5rem;
+        padding-top: 3rem;
+        font-family: "Google Sans","Roboto",Arial,Helvetica,sans-serif;
+        font-weight: 600;
+    }
+  
+    .explore5{
+        color:#616161;
+        font-size: 12px;
+        padding-left: 2.5rem;
+        margin-top: -1rem;
+        font-family: "Google Sans","Roboto",Arial,Helvetica,sans-serif;
+        font-weight: 600;
+    }
+    .socialmediaexplore{
+        color:#5F6368;
+        font-size: 12px;
+        padding-left: 15.5rem;
+        margin-top: -10.7rem;
+        font-family: "Google Sans","Roboto",Arial,Helvetica,sans-serif;
+        font-weight: 600;
+    }
+    .socialmediabit{
+        font-family: 'Open Sans', sans-serif;
+        margin-left: 11rem;
+        font-size: 14px;
+        color: #616161;
+        opacity: .48;
+        font-weight: 400;
+    }
+    .resident{
+        margin-left: -13rem;
+        font-family: "Google Sans","Roboto",Arial,Helvetica,sans-serif;
+        font-size: 14px;
+        color: #616161;
+        opacity: .48;
+        font-weight: 400;
+        cursor: pointer;
+    }
+    .bit{
+        font-family: 'Open Sans', sans-serif;
+        padding-left: 0rem;
+        font-size: 14px;
+        color: #616161;
+        opacity: .48;
+        font-weight: 400;
+    }
+    .aboutbit{
+        font-family: 'Open Sans', sans-serif;
+        margin-left: -2.7rem;
+        font-size: 14px;
+        color: #616161;
+        opacity: .48;
+        font-weight: 400;
+    }
+    #link{
+       color: #616161;
+       text-decoration: none;
+    } 
+    #navbarlink{
+        color:#616161;
+    }
+}
+@media screen and (min-width:375px) and (max-width:385px){
+    #footer{
+        background-color: #f5f5f5;
+        width :389px;
+        margin-top: 8rem;
+        height:100%;
+        display: inherit;
+        display: inline-block;
+        overflow: hidden;
+       
+           
+    }
+    .chkavail{
+        color:#5F6368;
+        font-size: 12px;
+        padding-left: 2rem;
+        padding-top: 3rem;
+        font-family: "Google Sans","Roboto",Arial,Helvetica,sans-serif;
+        word-break: break-all;
+        font-weight: 600;
+    
+    }
+    .chkavail2{
+        color:#5F6368;
+        font-size: 12px;
+        padding-left: 2rem;
+        margin-top: -1rem;
+        font-family: "Google Sans","Roboto",Arial,Helvetica,sans-serif;
+        font-weight: 600;
+        word-break: break-word;
+    }
+    .explore{
+        color:#616161;
+        font-size: 12px;
+        padding-left: 5rem;
+        padding-top: 3rem;
+        font-family: "Google Sans","Roboto",Arial,Helvetica,sans-serif;
+        font-weight: 600;
+    }
+  
+    .explore5{
+        color:#616161;
+        font-size: 12px;
+        padding-left: 2.5rem;
+        margin-top: -1rem;
+        font-family: "Google Sans","Roboto",Arial,Helvetica,sans-serif;
+        font-weight: 600;
+    }
+    .socialmediaexplore{
+        color:#5F6368;
+        font-size: 12px;
+        padding-left: 15.5rem;
+        margin-top: -10.7rem;
+        font-family: "Google Sans","Roboto",Arial,Helvetica,sans-serif;
+        font-weight: 600;
+    }
+    .socialmediabit{
+        font-family: 'Open Sans', sans-serif;
+        margin-left: 11rem;
+        font-size: 14px;
+        color: #616161;
+        opacity: .48;
+        font-weight: 400;
+    }
+    .resident{
+        margin-left: -13rem;
+        font-family: "Google Sans","Roboto",Arial,Helvetica,sans-serif;
+        font-size: 14px;
+        color: #616161;
+        opacity: .48;
+        font-weight: 400;
+        cursor: pointer;
+    }
+    .bit{
+        font-family: 'Open Sans', sans-serif;
+        padding-left: 0rem;
+        font-size: 14px;
+        color: #616161;
+        opacity: .48;
+        font-weight: 400;
+    }
+    .aboutbit{
+        font-family: 'Open Sans', sans-serif;
+        margin-left: -2.7rem;
+        font-size: 14px;
+        color: #616161;
+        opacity: .48;
+        font-weight: 400;
+    }
+    #link{
+       color: #616161;
+       text-decoration: none;
+    } 
+    #navbarlink{
+        color:#616161;
+    }
+}
+@media screen and (min-width:340px) and (max-width:374px){
+    .giga3{
+        padding-left: 0.7rem;
+        margin-left: 0.8rem;
+        padding-top: 8rem;
+        font-size: 28px;
+        font-family: 'Google Sans,Roboto,Arial,Helvetica',sans-serif;
+        color: #202124;
+    }
+    .emladd{
+        margin-top: 2rem;
+        margin-left: 1.3rem;
+    
+        border-radius: 4px;
+        border: 1px solid #9aa0a6;
+        width: 330px;
+        height: 48px;
+        color: #5f6368;
+    }
+    input[type="email"]{  
+        text-align: left; 
+        
+    }
+    .btsign{
+       margin-left: 4.3rem;
+       margin-top: 1rem;
+       font-family: 'Open Sans', sans-serif;
+       width: 240px;
+       height: 48px;
+       background-color: #1E8E3E;
+    } 
+    .signp{
+        color: #5F6368;
+        padding-left: 3rem;
+        margin-top: 2rem;
+        font-size: 14px;
+        font-family: "Roboto"; 
+        font-weight:400;
+        
+    
+    }
+    .signp2{
+        color: #5F6368;
+        padding-left: 10rem;
+        font-size: 14px;
+    }
+    .signp3{
+        color: #5F6368;
+        padding-left: 34rem;
+    
+    }
+    .signp4{
+        color: #5F6368;
+        margin-top: -2.3rem;
+        margin-left: 8rem;
+        font-size: 14px;
+        font-family: 'Roboto';
+        font-weight: 400;
+        padding-right: 3rem;
+
+    
+    }
+    .signp5{
+        color: #5F6368;
+        margin-top: -2.3rem;
+        font-size: 14px;
+        font-family: 'Roboto';
+        font-weight: 400;
+        margin-left: 10rem;
+        
+    }
+    .fbk{
+        color: #fff;
+        background-color: #80868b;
+        border-radius: 50%;
+        cursor: pointer;
+        margin-top: 3.5rem;
+       margin-left: 6.5rem;
+       padding-top: 0.5rem;
+       padding-bottom: 0.5rem;
+       padding-left: 0.5rem;
+       padding-right: 0.5rem;
+       height: 40px;
+       width: 40px;
+    }
+    .fbk:hover{
+      background-color:#2c3e50;
+    }
+    
+    
+    .ut{
+        color: #fff;
+        background-color: #80868b;
+        border-radius: 50%;
+        cursor: pointer;
+       padding-left: 0.5rem;
+       padding-right: 0.5rem;
+       padding-top: 0.5rem;
+      padding-bottom: 0.5rem;
+       height: 40px;
+       width: 40px;
+       margin-top: -20rem;
+        margin-left: 10rem;
+    
+    }
+    .utk{
+        margin-top: -1.4rem;
+    }
+    .fa-facebook-f{
+        transform: scale(1.1,1); 
+    }
+    .fa-youtube 
+    {  
+        transform: scale(0.8,1); 
+    }
+    .ut:hover{
+        background-color: #2c3e50;
+    }
+    .twtter{
+        color: #fff;
+        background-color: #80868b;
+        border-radius: 50%;
+        cursor: pointer;
+       padding-left: 0.5rem;
+       padding-right: 0.5rem;
+       padding-top: 0.5rem;
+      padding-bottom: 0.5rem;
+       height: 40px;
+       width: 40px;
+        
+        margin-top: -9rem;
+        margin-left: 12rem;
+        
+    }
+    .twtter:hover{
+        background-color: #2c3e50;
+    }
+    .insta{
+        margin-left: 0.5rem;
+        margin-top: -1.5rem;
+    }
+    #footer{
+        background-color: #f5f5f5;
+        width :374px;
+        margin-top: 8rem;
+        height:100%;
+        display: inherit;
+        display: inline-block;
+        overflow: hidden;
+       
+           
+    }
+    .chkavail{
+        color:#5F6368;
+        font-size: 12px;
+        padding-left: 2rem;
+        padding-top: 3rem;
+        font-family: "Google Sans","Roboto",Arial,Helvetica,sans-serif;
+        word-break: break-all;
+        font-weight: 600;
+    
+    }
+    .chkavail2{
+        color:#5F6368;
+        font-size: 12px;
+        padding-left: 2rem;
+        margin-top: -1rem;
+        font-family: "Google Sans","Roboto",Arial,Helvetica,sans-serif;
+        font-weight: 600;
+        word-break: break-word;
+    }
+    .explore{
+        color:#616161;
+        font-size: 12px;
+        padding-left: 6rem;
+        padding-top: 3rem;
+        font-family: "Google Sans","Roboto",Arial,Helvetica,sans-serif;
+        font-weight: 600;
+    }
+  
+    .explore5{
+        color:#616161;
+        font-size: 12px;
+        padding-left: 2.5rem;
+        margin-top: -1rem;
+        font-family: "Google Sans","Roboto",Arial,Helvetica,sans-serif;
+        font-weight: 600;
+    }
+    .socialmediaexplore{
+        color:#5F6368;
+        font-size: 12px;
+        padding-left: 14.5rem;
+        margin-top: -10.7rem;
+        font-family: "Google Sans","Roboto",Arial,Helvetica,sans-serif;
+        font-weight: 600;
+    }
+    .socialmediabit{
+        font-family: 'Open Sans', sans-serif;
+        margin-left: 8.3rem;
+        font-size: 14px;
+        color: #616161;
+        opacity: .48;
+        font-weight: 400;
+    }
+    .resident{
+        margin-left: -12.7rem;
+        font-family: "Google Sans","Roboto",Arial,Helvetica,sans-serif;
+        font-size: 14px;
+        color: #616161;
+        opacity: .48;
+        font-weight: 400;
+        cursor: pointer;
+    }
+    .bit{
+        font-family: 'Open Sans', sans-serif;
+        padding-left: 1rem;
+        font-size: 14px;
+        color: #616161;
+        opacity: .48;
+        font-weight: 400;
+    }
+    .aboutbit{
+        font-family: 'Open Sans', sans-serif;
+        margin-left: -3.8rem;
+        font-size: 14px;
+        color: #616161;
+        opacity: .48;
+        font-weight: 400;
+    }
+    #link{
+       color: #616161;
+       text-decoration: none;
+    } 
+    #navbarlink{
+        color:#616161;
+    }
+}
+
+@media screen and (min-width:357px) and (max-width:374px){
+    .signp{
+        color: #5F6368;
+        padding-left: 3rem;
+        margin-top: 2rem;
+        font-size: 14px;
+        font-family: "Roboto"; 
+        font-weight:400;
+        padding-right: 2rem;
+        
+    
+    }
+    .signp4{
+        color: #5F6368;
+        margin-top: -2.3rem;
+        margin-left: 8rem;
+        font-size: 14px;
+        font-family: 'Roboto';
+        font-weight: 400;
+
+    
+    }
+    .signp5{
+        color: #5F6368;
+        padding-top: 0rem;
+        font-size: 14px;
+        font-family: 'Roboto';
+        font-weight: 400;
+        margin-left: 10rem;
+        
+    }
+}
+@media screen and (min-width:372px) and (max-width:374px){
+    .signp5{
+        color: #5F6368;
+        margin-top: -2.4rem;
+        font-size: 14px;
+        font-family: 'Roboto';
+        font-weight: 400;
+        margin-left: 5rem;
+        
+    }
+}
+@media screen and (min-width:340px) and (max-width:353px){
+    .giga3{
+        padding-left: 2.3rem;
+        text-align-last:center ;
+        padding-top: 8rem;
+        font-size: 28px;
+        font-family: 'Google Sans,Roboto,Arial,Helvetica',sans-serif;
+        color: #202124;
+    }
+    .signp{
+        color: #5F6368;
+        padding-left: 9rem;
+        margin-top: 2rem;
+        font-size: 14px;
+        font-family: "Roboto"; 
+        font-weight:400;
+        padding-right: 2rem;
+        
+    
+    }
+    .signp4{
+        color: #5F6368;
+        margin-top: -1rem;
+        margin-left: 7rem;
+        font-size: 14px;
+        font-family: 'Roboto';
+        font-weight: 400;
+
+    
+    }
+    .signp5{
+        color: #5F6368;
+        padding-top: 0rem;
+        font-size: 14px;
+        font-family: 'Roboto';
+        font-weight: 400;
+        margin-left: 5rem;
+        
+    }
+}
+@media screen and (max-width:425px){
+    .Emailheader{
+        padding-left: 1rem;
+        font-size: 20px;
+        padding-top: 2rem;
+        font-family: 'Poppins', sans-serif;
+        color: #616161;
+    }
+}

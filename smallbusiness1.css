@@ -1,0 +1,4289 @@
+@media screen and (min-width:355px) and (max-width:372px){
+    .headersmmbps{
+        color: #fff;
+        margin-left: 6rem;
+        font-size: 22px;
+        font-family: 'Roboto',sans-serif;
+        font-weight: 300;
+        text-align-last: center;
+        padding-right: 2rem;
+     } 
+     .cardpadd{
+        padding-top: 3rem;
+        margin-left: -3rem;
+    }
+    .cardpadd1{
+        padding-top: 3rem;
+        margin-left: -3rem;
+    }
+    .cardpadd2{
+        padding-top: 3rem;
+        margin-left: -3rem;
+    }
+    .cardpadd3{
+        padding-top: 3rem;
+        margin-left: -3rem;
+    }
+    #footer{
+        background-color: #f5f5f5;
+        width :372px;
+        margin-top: 8rem;
+        height: 100vh;
+
+        
+    }
+    .resident{
+        margin-left: 5rem;
+        font-family: "Google Sans","Roboto",Arial,Helvetica,sans-serif;
+        font-size: 14px;
+        color: #616161;
+        opacity: .48;
+        font-weight: 400;
+        cursor: pointer;
+    }
+}
+@media screen and (min-width:376px) and (max-width:382px){
+    .signp{
+        color: #5F6368;
+        padding-left: 3rem;
+        margin-top: 5rem;
+        font-size: 14px;
+        font-family: "Roboto"; 
+        font-weight:400;
+    
+    }
+    .signp2{
+        color: #5F6368;
+        padding-left: 10rem;
+        font-size: 14px;
+    }
+    .signp3{
+        color: #5F6368;
+        padding-left: 34rem;
+    
+    }
+    .signp4{
+        color: #5F6368;
+        margin-top: -1rem;
+        margin-left: 5rem;
+        font-size: 14px;
+        font-family: 'Roboto';
+        font-weight: 400;
+
+    
+    }
+    .signp5{
+        color: #5F6368;
+        margin-top: -3rem;
+        text-align-last: center;
+        font-size: 14px;
+        font-family: 'Roboto';
+        font-weight: 400;
+
+        
+    }
+    
+    }
+
+@media screen and (max-width:392px){
+    .headersm{
+        font-weight: 600;
+        color: #fff;
+        padding-top: 5.5rem;
+        margin-left: -1rem;
+        padding-right: 1rem;
+        font-size: 50px;
+        font-family: 'Google Sans', sans-serif;
+        font-weight: 500;
+        text-align-last: center;
+}
+.headersmmbps{
+    color: #fff;
+    margin-left: -1rem;
+    font-size: 22px;
+    font-family: 'Roboto',sans-serif;
+    font-weight: 300;
+    text-align-last: center;
+    padding-right: 0rem;
+ }   
+ .checksmbtn{
+    margin-left: 2rem;
+    margin-top: 2rem;
+    font-family: 'Open Sans', sans-serif;
+    width: 237.16px;
+    height: 48px;
+    background-color: #3084fc;
+    font-weight: 700;
+    font-size: 16px;
+}
+.plansheader{
+    color: #5F6368;
+    margin-left: -1rem;
+    padding-top: 4rem;
+    font-family: 'Google Sans', sans-serif;
+    font-size: 38px;
+    font-weight: 500;
+    text-align-last: center;
+    padding-right: 3.7rem;        
+}
+.cardpadd{
+    padding-top: 3rem;
+    margin-left: -1rem;
+}
+.cardpadd1{
+    padding-top: 3rem;
+    margin-left: -1rem;
+}
+.cardpadd2{
+    padding-top: 3rem;
+    margin-left: -1rem;
+}
+.cardpadd3{
+    padding-top: 3rem;
+    margin-left: -1rem;
+}
+
+}
+@media screen and (max-width:413px){
+    .headersm{
+        font-weight: 600;
+        color: #fff;
+        padding-top: 5.5rem;
+        padding-left: 3.3rem;
+        padding-right: 2rem;
+        font-size: 50px;
+        font-family: 'Google Sans', sans-serif;
+        font-weight: 500;
+        text-align-last: center;
+    
+    }
+    .headersmmbps{
+       color: #fff;
+       padding-left: 4.7rem;
+       font-size: 22px;
+       font-family: 'Roboto',sans-serif;
+       font-weight: 300;
+       text-align-last: center;
+       padding-right: 2rem;
+    }     
+    .checksmbtn{
+        margin-left: 5.7rem;
+        margin-top: 2rem;
+        font-family: 'Open Sans', sans-serif;
+        width: 237.16px;
+        height: 48px;
+        background-color: #3084fc;
+        font-weight: 700;
+        font-size: 16px;
+    }
+    .smblowheader{
+        padding-top: 4rem;
+        padding-left: 3.3rem;
+        padding-right: 2.5rem;
+        font-size: 38px;
+         color: #536369; 
+         cursor: text;
+         font-family: "Google Sans"sans-serif;
+         font-weight: 400;
+         text-align-last:center;
+         word-spacing: -0.1em;
+    }       
+    .smpheader{
+        color: #536369; 
+        margin-top: 1rem;
+        padding-left: 3.3rem;
+        font-family: 'Roboto', sans-serif;
+        font-size: 18px;
+        padding-right: 1.7rem;
+        text-align-last: center;
+    } 
+    
+    .fbclk{
+        margin-top: 3rem;
+        margin-left: 11.3rem;
+        color: #ed4d1d;
+        cursor: text;
+        width: 395px;
+        height:35px;
+    }
+    .fbhot{
+        margin-top: 3rem;
+        margin-left: 11.3rem;
+        width: 50px;
+        height: 50px;
+        cursor: text;
+    }  
+    .fbstore{
+        margin-top: 3rem;
+        margin-left: 11.3rem;
+        width: 50px;
+        height: 50px;
+        cursor: text;
+    }           
+    .clkcontent{
+        color: #536369;
+        padding-top: 1rem;
+        padding-left: 8rem;
+        font-family: 'Google Sans', sans-serif;
+        font-size: 18px;
+        font-weight: 300;
+    }
+    
+    .clkcontent1{
+        color: #536369;
+        padding-left: 9rem;
+        font-family: 'Google Sans', sans-serif;
+        font-size: 18px;
+        font-weight: 300;
+    }
+    .clkcontent2{
+        color: #536369;
+        padding-left: 2rem;
+        font-family: 'Roboto', sans-serif;
+        font-size: 18px;
+        font-weight: 300;
+    }
+    .clkcontent3{
+        color: #536369;
+        padding-left: 1.5rem;
+        font-family: 'Roboto', sans-serif;
+        font-size: 18px;
+        font-weight: 300;
+    }
+    .clkcontent4{
+        color: #536369;
+        margin-top: -1.7rem;
+        padding-left: 19.9rem;
+        font-family: 'Roboto', sans-serif;
+        font-size: 18px;
+        font-weight: 300;
+    }
+    
+    .clkcontent5{
+        color: #536369;
+        padding-left: 7rem;
+        font-family: 'Google Sans', sans-serif;
+        font-size: 18px;
+        font-weight: 400;
+    }
+    
+    .clkcontent6{
+        color: #536369;
+        padding-left: 8.7rem;
+        font-family: 'Google Sans', sans-serif;
+        font-size: 18px;
+        font-weight: 400;
+    }
+    .clkcontent7{
+        color: #536369;
+        margin-left: 2rem;
+        font-family: 'Roboto', sans-serif;
+        font-size: 18px;
+        font-weight: 300;
+    }
+    .clkcontent8{
+        margin-left: 2rem;
+        color: #536369;
+        font-family: 'Roboto', sans-serif;
+        font-size: 18px;
+        font-weight: 300;
+        margin-top:-1.7rem;
+    }
+    .clkcontent9{
+        color: #536369;
+        padding-left: 7rem;
+        font-family: 'Google Sans', sans-serif;
+        font-size: 18px;
+        font-weight: 400;
+    }
+    
+    .clkcontent10{
+        color: #536369;
+        padding-left: 8.7rem;
+        font-family: 'Google Sans', sans-serif;
+        font-size: 18px;
+        font-weight: 400;
+    }
+    
+   
+    .clkcontent11{
+        color: #536369;
+        font-family: 'Roboto', sans-serif;
+        font-size: 18px;
+        font-weight: 300;
+        padding-left: 1.5rem;
+        margin-left: 3rem;
+    }
+    .clkcontent12{
+        color: #536369;
+        font-family: 'Roboto', sans-serif;
+        font-size: 18px;
+        font-weight: 300;
+        padding-left: 0.5rem;
+        margin-left: 4rem;
+    }
+    
+    .clkcontent13{
+        color: #536369;
+        padding-left: rem;
+        font-family: 'Roboto', sans-serif;
+        font-size: 18px;
+        font-weight: 300;
+        padding-left: 0rem;
+        margin-left: 4rem;
+        margin-top: -1.7rem;
+    }
+    .plansheader{
+        color: #5F6368;
+        padding-left: 5rem;
+        padding-top: 4rem;
+        font-family: 'Google Sans', sans-serif;
+        font-size: 38px;
+        font-weight: 500;
+        text-align-last: center;
+        padding-right: 3.7rem;        
+    }
+    .cardplans{
+        color: #fff;
+        background-color: #03A9F4;   
+    }
+    .cardpadd{
+        padding-top: 3rem;
+        padding-left: 4.3rem;
+    }
+    .cardpadd1{
+        padding-top: 3rem;
+        padding-left: 4.3rem;
+    }
+    .cardpadd2{
+        padding-top: 3rem;
+        padding-left: 4.3rem;
+    }
+    .cardpadd3{
+        padding-top: 3rem;
+        padding-left: 4.3rem;
+    }
+    #cardfooter{
+        background-color: #f5f5f5;
+        width: 425px;
+        margin-top: 4rem;
+        height: 100%;
+     }
+    .sort1{
+        width: 30px;
+        height: 30px;
+    }
+    .sort2{
+        width: 20px;
+        height: 30px;
+    }
+    strong{
+        color: #5F6368;
+        font-size: 13px;
+    }
+    .datacaps{
+      padding-left: 2.5rem;
+      font-size: 13px;
+      color: #5F6368;
+    }
+    .wifi{
+        padding-left: 1rem;
+        font-size: 13px;
+        color: #5F6368;
+      }
+      .wifi1{
+        padding-left: 2.5rem;
+        font-size: 13px;
+        color: #5F6368;
+      }
+    .cardbtnsign{
+        margin-left: 4rem;
+       font-weight: 600;
+       width: 120px;
+       height: 52px;
+       
+    }
+    .rs{
+        text-align: center;
+    }
+    .allplansheader{
+        color: #5F6368;
+        padding-left: 3.5rem;
+        padding-top: 4rem;
+        font-family: 'Google Sans', sans-serif;
+        font-size: 38px;
+        font-weight: 500;
+        padding-right: 4.5rem;
+        text-align-last: center;
+        width: 110%;
+    }
+    .cal{
+        opacity: .58;
+        margin-top: 3rem;
+        color: #5F6368;
+        margin-left:12rem;
+        width: 25px;
+        height: 64px;
+        cursor: text;
+    
+    }
+    .calcontent{
+        color: #536369;
+        padding-top: 1rem;
+        padding-left: 8rem;
+        font-family: 'Google Sans', sans-serif;
+        font-size: 18px;
+        font-weight: 400;
+    }
+    .calcontent2{
+        color: #536369;
+        padding-left: 2.8rem;
+        font-family: 'Roboto', sans-serif;
+        font-size: 18px;
+        font-weight: 300;
+    }
+    .calcontent3{
+        color: #536369;
+        padding-left: 14.6rem;
+        font-family: 'Roboto', sans-serif;
+        font-size: 18px;
+        font-weight: 300;
+        margin-top: -1.7rem;
+    
+    }
+    .calcontent4{
+        color: #536369;
+        padding-top: 1.5rem;
+        padding-left: 10rem;
+        font-family: 'Google Sans', sans-serif;
+        font-size: 18px;
+        font-weight: 400;
+    }
+    .calcontent5{
+        padding-top: 1.5rem;
+        color: #536369;
+         font-family: 'Google Sans', sans-serif;
+        font-size: 18px;
+        font-weight: 400;
+        margin-left: 10rem;
+    }
+    .calcontent6{
+        color: #536369;
+        font-family: 'Roboto', sans-serif;
+        font-size: 18px;
+        font-weight: 300;
+        margin-left: 8rem;
+    
+    }
+    .calcontent7{
+        color: #536369;
+        font-family: 'Roboto', sans-serif;
+        font-size: 18px;
+        font-weight: 300;
+        margin-left: 3rem;
+        margin-right: 5rem;
+        text-align-last:right ;
+       
+    
+    }
+    .cal11{
+        color: #536369;
+        font-family: 'Roboto', sans-serif;
+        font-size: 18px;
+        font-weight: 300;
+        margin-left: 6rem;
+    }
+    .calcontent8{
+        color: #536369;
+        font-family: 'Roboto', sans-serif;
+        font-size: 18px;
+        font-weight: 300;
+        padding-left: 6rem;
+    }
+    .calcontent9{
+        padding-top: 1.5rem;
+        padding-left: 8rem;
+        color: #536369;
+         font-family: 'Google Sans', sans-serif;
+        font-size: 18px;
+        font-weight: 400;
+
+    }
+    .calcontent10{
+        color: #536369;
+        font-family: 'Roboto', sans-serif;
+        font-size: 18px;
+        font-weight: 300;
+        padding-left: 7rem;
+    }
+    
+    .plansort{
+        opacity: .28;
+        margin-top: 3rem;
+        color: #5F6368;
+        margin-left:12rem;
+        width: 40px;
+        height: 40px;
+        cursor: text;
+    }
+    .plannote{
+        margin-left: 13rem;
+        opacity: .48;
+        margin-top: 3rem;
+        color: #5F6368;
+        width: 60px;
+        height: 54px;
+        cursor: text;
+    }
+    .planmessage{
+        margin-left: 12.5rem;
+        opacity: .48;
+        margin-top: 3rem;
+        color: #5F6368;
+        width: 30px;
+        height: 40px;
+        cursor: text;
+    }
+    .tectpartner{
+        margin-top: 6rem;
+        position: relative;
+        height: 510px;
+       background-image: url(Images/16.jpg);
+        background-size: cover;
+       background-position: center;
+       width: 425px;
+    }
+    .techheader{
+        font-weight: 500;
+        color: #fff;
+        padding-top: 6rem;
+        padding-left: 6rem;
+        font-size: 46px;
+        font-family: 'Google Sans', sans-serif;
+        text-align-last: center;
+        padding-right: 5.5rem;
+    }
+    .techpheader{
+        color: #fff;
+        padding-top: 1rem;
+        padding-left: 3rem;
+        font-size: 16px;
+        font-family: 'Roboto',sans-serif;
+        text-align-last:center;
+        padding-right: 2rem;
+    }
+    .techp2header{
+        color: #fff;
+        padding-left: 20rem;
+        font-size: 18px;
+        font-family: 'Open Sans',sans-serif;
+    }
+    .tectpartnerbtn{
+        margin-left: 8rem;
+        margin-top: 0.5rem;
+        font-family: 'Open Sans', sans-serif;
+        width: 177.69px;
+        height: 44px;
+         color: #fff;
+         border-color: #fff;
+        font-weight: 700;
+        font-size: 13px;
+    
+    }
+    .techpartnerit{
+        color: #fff;
+        padding-top: 2rem;
+        padding-left: 6.5rem;
+        font-size: 16px;
+        font-family: 'Roboto',sans-serif;
+        text-align-last:center ;
+    }
+    .becomepartnerit{
+        color: #fff;
+        font-weight: 400;
+        padding-left: 8rem;    
+    }
+    #tectid{
+       color: #fff;
+    }
+    .startedfooter{
+        background-color: #f5f5f5;
+        height: 50vh;
+        width: 425px;
+    }
+    .startedheader{
+        font-weight: 500;
+        color:#5f6368;
+        padding-top: 3.5rem;
+       padding-left: 4rem;
+        font-size: 38px;
+        font-family: 'Google Sans',sans-serif;
+    }
+    .getstartedbtn{
+        margin-left:6rem;
+        margin-top: 2rem;
+        font-family: 'Open Sans', sans-serif;
+        width: 233.16px;
+        height: 48px;
+        background-color: #3084fc;
+        font-weight: 700;
+        font-size: 16px;
+    }
+    .findEmailus{
+        font-weight: 500;
+        font-family: 'Google Sans',sans-serif;
+        font-size: 40px;
+        color: #5f6368;
+    }
+    .findtechpartnerheader{
+        padding-top: 1rem;
+        padding-left: 2rem;
+        font-size: 16px;
+        font-family: 'Google Sans',sans-serif;
+        font-weight: 400;
+    
+    }
+    .findtechpartnerheader:hover{
+        color: blue;
+        cursor: pointer;
+    }
+    .becometechpartnerheader{
+        padding-top: 1rem;
+        text-align: center;
+        font-weight: 500;
+        font-family: 'Google Sans',sans-serif;
+        font-size: 20px;
+        color: #5f6368;
+    }
+    .query{
+        padding-top: 1rem;
+        padding-left: 2rem;
+        font-size: 20px;
+        font-family: 'Google Sans',sans-serif;
+        font-weight: 400;
+    }
+    .touchheader{
+        font-weight: 600;
+        color: #616161;
+        padding-left: 23rem;
+        padding-top: 8rem;
+        font-size: 52px;
+        
+        font-family: 'Open Sans', sans-serif;
+    }
+    .giga3{
+        padding-left: 3rem;
+        padding-top: 8rem;
+        font-size: 28px;
+        font-family: 'Google Sans,Roboto,Arial,Helvetica',sans-serif;
+        color: #202124;
+    }
+    .add{
+        margin-left: 3rem;
+        width: 330px;
+        height:48px;
+    }
+  
+    .btsign{
+       margin-left: 5.8rem;
+       margin-top: 1rem;
+       font-family: 'Open Sans', sans-serif;
+       width: 240px;
+       height: 48px;
+       background-color: #1E8E3E;
+    } 
+    .signp{
+        color: #5F6368;
+        padding-left: 3rem;
+        margin-top: 5rem;
+        font-size: 14px;
+        font-family: "Roboto"; 
+        font-weight:400;
+    
+    }
+    .signp2{
+        color: #5F6368;
+        padding-left: 10rem;
+        font-size: 14px;
+    }
+    .signp3{
+        color: #5F6368;
+        padding-left: 34rem;
+    
+    }
+    .signp4{
+        color: #5F6368;
+        margin-top: -1rem;
+        margin-left: 5rem;
+        font-size: 14px;
+        font-family: 'Roboto';
+        font-weight: 400;
+
+    
+    }
+    .signp5{
+        color: #5F6368;
+        margin-top: -1rem;
+        text-align-last: center;
+        font-size: 14px;
+        font-family: 'Roboto';
+        font-weight: 400;
+
+        
+    }
+    .fbk{
+        color: #fff;
+        background-color: #80868b;
+        border-radius: 50%;
+        cursor: pointer;
+        margin-top: 3.5rem;
+       margin-left: 7.5rem;
+       padding-top: 0.5rem;
+       padding-bottom: 0.5rem;
+       padding-left: 0.5rem;
+       padding-right: 0.5rem;
+       height: 40px;
+       width: 40px;
+    }
+    .fbk:hover{
+      background-color:#2c3e50;
+    }
+    
+    
+    .ut{
+        color: #fff;
+        background-color: #80868b;
+        border-radius: 50%;
+        cursor: pointer;
+       padding-left: 0.5rem;
+       padding-right: 0.5rem;
+       padding-top: 0.5rem;
+      padding-bottom: 0.5rem;
+       height: 40px;
+       width: 40px;
+       margin-top: -20rem;
+        margin-left: 11rem;
+    
+    }
+    .utk{
+        margin-top: -1.4rem;
+    }
+    .fa-facebook-f{
+        transform: scale(1.1,1); 
+    }
+    .fa-youtube 
+    {  
+        transform: scale(0.8,1); 
+    }
+    .ut:hover{
+        background-color: #2c3e50;
+    }
+    .twtter{
+        color: #fff;
+        background-color: #80868b;
+        border-radius: 50%;
+        cursor: pointer;
+       padding-left: 0.5rem;
+       padding-right: 0.5rem;
+       padding-top: 0.5rem;
+      padding-bottom: 0.5rem;
+       height: 40px;
+       width: 40px;
+        
+        margin-top: -9rem;
+        margin-left: 13rem;
+        
+    }
+    .twtter:hover{
+        background-color: #2c3e50;
+    }
+    .insta{
+        margin-left: 0.5rem;
+        margin-top: -1.5rem;
+    }
+    #footer{
+        background-color: #f5f5f5;
+        width :425px;
+        margin-top: 8rem;
+        height: 100%;
+        
+    }
+    .chkavail{
+        color:#5F6368;
+        font-size: 12px;
+        padding-left: 2rem;
+        padding-top: 3rem;
+        font-family: "Google Sans","Roboto",Arial,Helvetica,sans-serif;
+        word-break: break-all;
+        font-weight: 600;
+    
+    }
+    .chkavail2{
+        color:#5F6368;
+        font-size: 12px;
+        padding-left: 2rem;
+        margin-top: -1rem;
+        font-family: "Google Sans","Roboto",Arial,Helvetica,sans-serif;
+        font-weight: 600;
+        word-break: break-word;
+    }
+    .explore{
+        color:#616161;
+        font-size: 12px;
+        padding-top: 3rem;
+        font-family: "Google Sans","Roboto",Arial,Helvetica,sans-serif;
+        font-weight: 600;
+    }
+  
+    .explore5{
+        color:#616161;
+        font-size: 12px;
+        padding-left: 2.5rem;
+        margin-top: -1rem;
+        font-family: "Google Sans","Roboto",Arial,Helvetica,sans-serif;
+        font-weight: 600;
+    }
+    .socialmediaexplore{
+        color:#5F6368;
+        font-size: 12px;
+        padding-left: 16rem;
+        margin-top: -10.7rem;
+        font-family: "Google Sans","Roboto",Arial,Helvetica,sans-serif;
+        font-weight: 600;
+    }
+    .socialmediabit{
+        font-family: 'Open Sans', sans-serif;
+        margin-left: 11rem;
+        font-size: 14px;
+        color: #616161;
+        opacity: .48;
+        font-weight: 400;
+    }
+    .resident{
+        margin-left: -15rem;
+        font-family: "Google Sans","Roboto",Arial,Helvetica,sans-serif;
+        font-size: 14px;
+        color: #616161;
+        opacity: .48;
+        font-weight: 400;
+        cursor: pointer;
+    }
+    .bit{
+        font-family: 'Open Sans', sans-serif;
+        padding-left: 0rem;
+        font-size: 14px;
+        color: #616161;
+        opacity: .48;
+        font-weight: 400;
+    }
+    .aboutbit{
+        font-family: 'Open Sans', sans-serif;
+        margin-left: -2.7rem;
+        font-size: 14px;
+        color: #616161;
+        opacity: .48;
+        font-weight: 400;
+    }
+    #link{
+       color: #616161;
+       text-decoration: none;
+    } 
+    #navbarlink{
+        color:#616161;
+    }
+    .touchbtn{
+        font-weight: 600;
+        margin-left: 34rem;
+        margin-top: 1rem;
+       font-family: 'Open Sans', sans-serif;
+       width: 170px;
+       height: 45px;
+       background-color:  #3084fc;;
+    }
+    .emailclick{
+       padding-left: 23rem;
+       font-family: 'Open Sans', sans-serif;
+       color: #5f6368;
+       
+    }
+    .emailclick1{
+        padding-left: 35rem;
+        font-family: 'Open Sans', sans-serif;
+        color: #5f6368;
+        
+     }
+     .fb1{
+        margin-left: 33rem;
+        margin-top: 3rem;
+        border-radius: 50%;
+    }
+    .utube1{
+        margin-left: 9rem;
+        margin-top: 3rem;
+        border-radius: 50%;
+    }
+    .twtter1{
+        margin-top: 3rem;
+        margin-left: 0.5rem;
+        border-radius: 50%;
+    }
+  
+}
+@media screen and (max-width:425px){
+    
+    .logo{
+        width: 150px;
+        height: 50px;
+        padding-left: 2rem;
+    
+        
+    }
+    
+    .hr2{
+       margin-left: 5rem;
+       color: #616161
+    }
+    .abt{
+        margin-left: 2rem;
+        color: black;
+    }
+    .fnt{
+        font-size: 20px;
+        font-family: "Varela Round",Arial,Helvetica,sans-serif;
+    }
+    .li a{
+        display: inline-block;
+    }
+    .li nav-item dropdown a{
+        display: inline-block;
+    }
+
+    .smallbs{
+        zoom: 100%;
+        position: relative;
+       background-image: url(Images/10.jpg);
+        background-size: cover;
+       background-position: left;
+       width: 425px;
+       height: 495px;
+        
+    }
+    .headersm{
+        font-weight: 600;
+        color: #fff;
+        padding-top: 5.5rem;
+        padding-left: 3.3rem;
+        padding-right: 2rem;
+        font-size: 50px;
+        font-family: 'Google Sans', sans-serif;
+        font-weight: 500;
+        text-align-last: center;
+    
+    }
+    .headersmmbps{
+       color: #fff;
+       padding-left: 4.7rem;
+       font-size: 22px;
+       font-family: 'Roboto',sans-serif;
+       font-weight: 300;
+       text-align-last: center;
+       padding-right: 2rem;
+    }     
+    .checksmbtn{
+        margin-left: 5.7rem;
+        margin-top: 2rem;
+        font-family: 'Open Sans', sans-serif;
+        width: 237.16px;
+        height: 48px;
+        background-color: #3084fc;
+        font-weight: 700;
+        font-size: 16px;
+    }
+    .smblowheader{
+        padding-top: 4rem;
+        padding-left: 3.3rem;
+        padding-right: 2.5rem;
+        font-size: 38px;
+         color: #536369; 
+         cursor: text;
+         font-family: "Google Sans"sans-serif;
+         font-weight: 400;
+         text-align-last:center;
+         word-spacing: -0.1em;
+    }       
+    .smpheader{
+        color: #536369; 
+        margin-top: 1rem;
+        padding-left: 3.3rem;
+        font-family: 'Roboto', sans-serif;
+        font-size: 18px;
+        padding-right: 1.7rem;
+        text-align-last: center;
+    } 
+    
+    .fbclk{
+        margin-top: 3rem;
+        margin-left: 11.3rem;
+        color: #ed4d1d;
+        cursor: text;
+        width: 395px;
+        height:35px;
+    }
+    .fbhot{
+        margin-top: 3rem;
+        margin-left: 11.3rem;
+        width: 50px;
+        height: 50px;
+        cursor: text;
+    }  
+    .fbstore{
+        margin-top: 3rem;
+        margin-left: 11.3rem;
+        width: 50px;
+        height: 50px;
+        cursor: text;
+    }           
+    .clkcontent{
+        color: #536369;
+        padding-top: 1rem;
+        padding-left: 8rem;
+        font-family: 'Google Sans', sans-serif;
+        font-size: 18px;
+        font-weight: 300;
+    }
+    
+    .clkcontent1{
+        color: #536369;
+        padding-left: 9rem;
+        font-family: 'Google Sans', sans-serif;
+        font-size: 18px;
+        font-weight: 300;
+    }
+    .clkcontent2{
+        color: #536369;
+        padding-left: 2rem;
+        font-family: 'Roboto', sans-serif;
+        font-size: 18px;
+        font-weight: 300;
+    }
+    .clkcontent3{
+        color: #536369;
+        padding-left: 1.5rem;
+        font-family: 'Roboto', sans-serif;
+        font-size: 18px;
+        font-weight: 300;
+    }
+    .clkcontent4{
+        color: #536369;
+        margin-top: -1.7rem;
+        padding-left: 19.9rem;
+        font-family: 'Roboto', sans-serif;
+        font-size: 18px;
+        font-weight: 300;
+    }
+    
+    .clkcontent5{
+        color: #536369;
+        padding-left: 7rem;
+        font-family: 'Google Sans', sans-serif;
+        font-size: 18px;
+        font-weight: 400;
+    }
+    
+    .clkcontent6{
+        color: #536369;
+        padding-left: 8.7rem;
+        font-family: 'Google Sans', sans-serif;
+        font-size: 18px;
+        font-weight: 400;
+    }
+    .clkcontent7{
+        color: #536369;
+        margin-left: 2rem;
+        font-family: 'Roboto', sans-serif;
+        font-size: 18px;
+        font-weight: 300;
+    }
+    .clkcontent8{
+        margin-left: 2rem;
+        color: #536369;
+        font-family: 'Roboto', sans-serif;
+        font-size: 18px;
+        font-weight: 300;
+        margin-top:-1.7rem;
+    }
+    .clkcontent9{
+        color: #536369;
+        padding-left: 7rem;
+        font-family: 'Google Sans', sans-serif;
+        font-size: 18px;
+        font-weight: 400;
+    }
+    
+    .clkcontent10{
+        color: #536369;
+        padding-left: 8.7rem;
+        font-family: 'Google Sans', sans-serif;
+        font-size: 18px;
+        font-weight: 400;
+    }
+    
+   
+    .clkcontent11{
+        color: #536369;
+        font-family: 'Roboto', sans-serif;
+        font-size: 18px;
+        font-weight: 300;
+        padding-left: 1.5rem;
+        margin-left: 3rem;
+    }
+    .clkcontent12{
+        color: #536369;
+        font-family: 'Roboto', sans-serif;
+        font-size: 18px;
+        font-weight: 300;
+        padding-left: 0.5rem;
+        margin-left: 4rem;
+    }
+    
+    .clkcontent13{
+        color: #536369;
+        padding-left: rem;
+        font-family: 'Roboto', sans-serif;
+        font-size: 18px;
+        font-weight: 300;
+        padding-left: 0rem;
+        margin-left: 4rem;
+        margin-top: -1.7rem;
+    }
+    .plansheader{
+        color: #5F6368;
+        padding-left: 5rem;
+        padding-top: 4rem;
+        font-family: 'Google Sans', sans-serif;
+        font-size: 38px;
+        font-weight: 500;
+        text-align-last: center;
+        padding-right: 3.7rem;        
+    }
+    .cardplans{
+        color: #fff;
+        background-color: #03A9F4;   
+    }
+    .cardpadd{
+        padding-top: 3rem;
+        padding-left: 4.3rem;
+    }
+    .cardpadd1{
+        padding-top: 3rem;
+        padding-left: 4.3rem;
+    }
+    .cardpadd2{
+        padding-top: 3rem;
+        padding-left: 4.3rem;
+    }
+    .cardpadd3{
+        padding-top: 3rem;
+        padding-left: 4.3rem;
+    }
+    #cardfooter{
+        background-color: #f5f5f5;
+        width: 425px;
+        margin-top: 4rem;
+        height: 100%;
+     }
+    .sort1{
+        width: 30px;
+        height: 30px;
+    }
+    .sort2{
+        width: 20px;
+        height: 30px;
+    }
+    strong{
+        color: #5F6368;
+        font-size: 13px;
+    }
+    .datacaps{
+      padding-left: 2.5rem;
+      font-size: 13px;
+      color: #5F6368;
+    }
+    .wifi{
+        padding-left: 1rem;
+        font-size: 13px;
+        color: #5F6368;
+      }
+      .wifi1{
+        padding-left: 2.5rem;
+        font-size: 13px;
+        color: #5F6368;
+      }
+    .cardbtnsign{
+        margin-left: 4rem;
+       font-weight: 600;
+       width: 120px;
+       height: 52px;
+       
+    }
+    .rs{
+        text-align: center;
+    }
+    .allplansheader{
+        color: #5F6368;
+        padding-left: 3.5rem;
+        padding-top: 4rem;
+        font-family: 'Google Sans', sans-serif;
+        font-size: 38px;
+        font-weight: 500;
+        padding-right: 4.5rem;
+        text-align-last: center;
+        width: 110%;
+    }
+    .cal{
+        opacity: .58;
+        margin-top: 3rem;
+        color: #5F6368;
+        margin-left:12rem;
+        width: 25px;
+        height: 64px;
+        cursor: text;
+    
+    }
+    .calcontent{
+        color: #536369;
+        padding-top: 1rem;
+        padding-left: 8rem;
+        font-family: 'Google Sans', sans-serif;
+        font-size: 18px;
+        font-weight: 400;
+    }
+    .calcontent2{
+        color: #536369;
+        padding-left: 2.8rem;
+        font-family: 'Roboto', sans-serif;
+        font-size: 18px;
+        font-weight: 300;
+    }
+    .calcontent3{
+        color: #536369;
+        padding-left: 14.6rem;
+        font-family: 'Roboto', sans-serif;
+        font-size: 18px;
+        font-weight: 300;
+        margin-top: -1.7rem;
+    
+    }
+    .calcontent4{
+        color: #536369;
+        padding-top: 1.5rem;
+        padding-left: 10rem;
+        font-family: 'Google Sans', sans-serif;
+        font-size: 18px;
+        font-weight: 400;
+    }
+    .calcontent5{
+        padding-top: 1.5rem;
+        color: #536369;
+         font-family: 'Google Sans', sans-serif;
+        font-size: 18px;
+        font-weight: 400;
+        margin-left: 10rem;
+    }
+    .calcontent6{
+        color: #536369;
+        font-family: 'Roboto', sans-serif;
+        font-size: 18px;
+        font-weight: 300;
+        margin-left: 8rem;
+    
+    }
+    .calcontent7{
+        color: #536369;
+        font-family: 'Roboto', sans-serif;
+        font-size: 18px;
+        font-weight: 300;
+        margin-left: 3rem;
+        margin-right: 5rem;
+        text-align-last:right ;
+       
+    
+    }
+    .cal11{
+        color: #536369;
+        font-family: 'Roboto', sans-serif;
+        font-size: 18px;
+        font-weight: 300;
+        margin-left: 6rem;
+    }
+    .calcontent8{
+        color: #536369;
+        font-family: 'Roboto', sans-serif;
+        font-size: 18px;
+        font-weight: 300;
+        padding-left: 6rem;
+    }
+    .calcontent9{
+        padding-top: 1.5rem;
+        padding-left: 8rem;
+        color: #536369;
+         font-family: 'Google Sans', sans-serif;
+        font-size: 18px;
+        font-weight: 400;
+
+    }
+    .calcontent10{
+        color: #536369;
+        font-family: 'Roboto', sans-serif;
+        font-size: 18px;
+        font-weight: 300;
+        padding-left: 7rem;
+    }
+    
+    .plansort{
+        opacity: .28;
+        margin-top: 3rem;
+        color: #5F6368;
+        margin-left:12rem;
+        width: 40px;
+        height: 40px;
+        cursor: text;
+    }
+    .plannote{
+        margin-left: 13rem;
+        opacity: .48;
+        margin-top: 3rem;
+        color: #5F6368;
+        width: 60px;
+        height: 54px;
+        cursor: text;
+    }
+    .planmessage{
+        margin-left: 12.5rem;
+        opacity: .48;
+        margin-top: 3rem;
+        color: #5F6368;
+        width: 30px;
+        height: 40px;
+        cursor: text;
+    }
+    .tectpartner{
+        margin-top: 6rem;
+        position: relative;
+        height: 510px;
+       background-image: url(Images/16.jpg);
+        background-size: cover;
+       background-position: center;
+       width: 425px;
+    }
+    .techheader{
+        font-weight: 500;
+        color: #fff;
+        padding-top: 6rem;
+        padding-left: 6rem;
+        font-size: 46px;
+        font-family: 'Google Sans', sans-serif;
+        text-align-last: center;
+        padding-right: 5.5rem;
+    }
+    .techpheader{
+        color: #fff;
+        padding-top: 1rem;
+        padding-left: 3rem;
+        font-size: 16px;
+        font-family: 'Roboto',sans-serif;
+        text-align-last:center;
+        padding-right: 2rem;
+    }
+    .techp2header{
+        color: #fff;
+        padding-left: 20rem;
+        font-size: 18px;
+        font-family: 'Open Sans',sans-serif;
+    }
+    .tectpartnerbtn{
+        margin-left: 8rem;
+        margin-top: 0.5rem;
+        font-family: 'Open Sans', sans-serif;
+        width: 177.69px;
+        height: 44px;
+         color: #fff;
+         border-color: #fff;
+        font-weight: 700;
+        font-size: 13px;
+    
+    }
+    .techpartnerit{
+        color: #fff;
+        padding-top: 2rem;
+        padding-left: 6.5rem;
+        font-size: 16px;
+        font-family: 'Roboto',sans-serif;
+        text-align-last:center ;
+    }
+    .becomepartnerit{
+        color: #fff;
+        font-weight: 400;
+        padding-left: 8rem;    
+    }
+    #tectid{
+       color: #fff;
+    }
+    .startedfooter{
+        background-color: #f5f5f5;
+        height: 50vh;
+        width: 425px;
+    }
+    .startedheader{
+        font-weight: 500;
+        color:#5f6368;
+        padding-top: 3.5rem;
+       padding-left: 4rem;
+        font-size: 38px;
+        font-family: 'Google Sans',sans-serif;
+    }
+    .getstartedbtn{
+        margin-left:6rem;
+        margin-top: 2rem;
+        font-family: 'Open Sans', sans-serif;
+        width: 233.16px;
+        height: 48px;
+        background-color: #3084fc;
+        font-weight: 700;
+        font-size: 16px;
+    }
+    .findEmailus{
+        font-weight: 500;
+        font-family: 'Google Sans',sans-serif;
+        font-size: 40px;
+        color: #5f6368;
+    }
+    .findtechpartnerheader{
+        padding-top: 1rem;
+        padding-left: 2rem;
+        font-size: 16px;
+        font-family: 'Google Sans',sans-serif;
+        font-weight: 400;
+    
+    }
+    .findtechpartnerheader:hover{
+        color: blue;
+        cursor: pointer;
+    }
+    .becometechpartnerheader{
+        padding-top: 1rem;
+        text-align: center;
+        font-weight: 500;
+        font-family: 'Google Sans',sans-serif;
+        font-size: 20px;
+        color: #5f6368;
+    }
+    .query{
+        padding-top: 1rem;
+        padding-left: 2rem;
+        font-size: 20px;
+        font-family: 'Google Sans',sans-serif;
+        font-weight: 400;
+    }
+    .touchheader{
+        font-weight: 600;
+        color: #616161;
+        padding-left: 23rem;
+        padding-top: 8rem;
+        font-size: 52px;
+        
+        font-family: 'Open Sans', sans-serif;
+    }
+    .giga3{
+        padding-left: 3rem;
+        padding-top: 8rem;
+        font-size: 28px;
+        font-family: 'Google Sans,Roboto,Arial,Helvetica',sans-serif;
+        color: #202124;
+    }
+    .add{
+        margin-left: 3rem;
+        width: 330px;
+        height:48px;
+    }
+  
+    .btsign{
+       margin-left: 5.8rem;
+       margin-top: 1rem;
+       font-family: 'Open Sans', sans-serif;
+       width: 240px;
+       height: 48px;
+       background-color: #1E8E3E;
+    } 
+    .signp{
+        color: #5F6368;
+        padding-left: 3rem;
+        margin-top: 5rem;
+        font-size: 14px;
+        font-family: "Roboto"; 
+        font-weight:400;
+    
+    }
+    .signp2{
+        color: #5F6368;
+        padding-left: 10rem;
+        font-size: 14px;
+    }
+    .signp3{
+        color: #5F6368;
+        padding-left: 34rem;
+    
+    }
+    .signp4{
+        color: #5F6368;
+        margin-top: -1rem;
+        margin-left: 5rem;
+        font-size: 14px;
+        font-family: 'Roboto';
+        font-weight: 400;
+
+    
+    }
+    .signp5{
+        color: #5F6368;
+        margin-top: -1rem;
+        text-align-last: center;
+        font-size: 14px;
+        font-family: 'Roboto';
+        font-weight: 400;
+
+        
+    }
+    .fbk{
+        color: #fff;
+        background-color: #80868b;
+        border-radius: 50%;
+        cursor: pointer;
+        margin-top: 3.5rem;
+       margin-left: 7.5rem;
+       padding-top: 0.5rem;
+       padding-bottom: 0.5rem;
+       padding-left: 0.5rem;
+       padding-right: 0.5rem;
+       height: 40px;
+       width: 40px;
+    }
+    .fbk:hover{
+      background-color:#2c3e50;
+    }
+    
+    
+    .ut{
+        color: #fff;
+        background-color: #80868b;
+        border-radius: 50%;
+        cursor: pointer;
+       padding-left: 0.5rem;
+       padding-right: 0.5rem;
+       padding-top: 0.5rem;
+      padding-bottom: 0.5rem;
+       height: 40px;
+       width: 40px;
+       margin-top: -20rem;
+        margin-left: 11rem;
+    
+    }
+    .utk{
+        margin-top: -1.4rem;
+    }
+    .fa-facebook-f{
+        transform: scale(1.1,1); 
+    }
+    .fa-youtube 
+    {  
+        transform: scale(0.8,1); 
+    }
+    .ut:hover{
+        background-color: #2c3e50;
+    }
+    .twtter{
+        color: #fff;
+        background-color: #80868b;
+        border-radius: 50%;
+        cursor: pointer;
+       padding-left: 0.5rem;
+       padding-right: 0.5rem;
+       padding-top: 0.5rem;
+      padding-bottom: 0.5rem;
+       height: 40px;
+       width: 40px;
+        
+        margin-top: -9rem;
+        margin-left: 13rem;
+        
+    }
+    .twtter:hover{
+        background-color: #2c3e50;
+    }
+    .insta{
+        margin-left: 0.5rem;
+        margin-top: -1.5rem;
+    }
+    #footer{
+        background-color: #f5f5f5;
+        width :425px;
+        margin-top: 8rem;
+        height: 90vh;
+        display: inline-block;
+        display: inherit;
+        
+    }
+    .chkavail{
+        color:#5F6368;
+        font-size: 12px;
+        padding-left: 2rem;
+        padding-top: 3rem;
+        font-family: "Google Sans","Roboto",Arial,Helvetica,sans-serif;
+        word-break: break-all;
+        font-weight: 600;
+    
+    }
+    .chkavail2{
+        color:#5F6368;
+        font-size: 12px;
+        padding-left: 2rem;
+        margin-top: -1rem;
+        font-family: "Google Sans","Roboto",Arial,Helvetica,sans-serif;
+        font-weight: 600;
+        word-break: break-word;
+    }
+    .explore{
+        color:#616161;
+        font-size: 12px;
+        padding-top: 3rem;
+        font-family: "Google Sans","Roboto",Arial,Helvetica,sans-serif;
+        font-weight: 600;
+    }
+  
+    .explore5{
+        color:#616161;
+        font-size: 12px;
+        padding-left: 2.5rem;
+        margin-top: -1rem;
+        font-family: "Google Sans","Roboto",Arial,Helvetica,sans-serif;
+        font-weight: 600;
+    }
+    .socialmediaexplore{
+        color:#5F6368;
+        font-size: 12px;
+        padding-left: 16rem;
+        margin-top: -10.7rem;
+        font-family: "Google Sans","Roboto",Arial,Helvetica,sans-serif;
+        font-weight: 600;
+    }
+    .socialmediabit{
+        font-family: 'Open Sans', sans-serif;
+        margin-left: 11rem;
+        font-size: 14px;
+        color: #616161;
+        opacity: .48;
+        font-weight: 400;
+    }
+    .resident{
+        margin-left: -15rem;
+        font-family: "Google Sans","Roboto",Arial,Helvetica,sans-serif;
+        font-size: 14px;
+        color: #616161;
+        opacity: .48;
+        font-weight: 400;
+        cursor: pointer;
+    }
+    .bit{
+        font-family: 'Open Sans', sans-serif;
+        padding-left: 0rem;
+        font-size: 14px;
+        color: #616161;
+        opacity: .48;
+        font-weight: 400;
+    }
+    .aboutbit{
+        font-family: 'Open Sans', sans-serif;
+        margin-left: -2.7rem;
+        font-size: 14px;
+        color: #616161;
+        opacity: .48;
+        font-weight: 400;
+    }
+    #link{
+       color: #616161;
+       text-decoration: none;
+    } 
+    #navbarlink{
+        color:#616161;
+    }
+    .touchbtn{
+        font-weight: 600;
+        margin-left: 34rem;
+        margin-top: 1rem;
+       font-family: 'Open Sans', sans-serif;
+       width: 170px;
+       height: 45px;
+       background-color:  #3084fc;;
+    }
+    .emailclick{
+       padding-left: 23rem;
+       font-family: 'Open Sans', sans-serif;
+       color: #5f6368;
+       
+    }
+    .emailclick1{
+        padding-left: 35rem;
+        font-family: 'Open Sans', sans-serif;
+        color: #5f6368;
+        
+     }
+     .fb1{
+        margin-left: 33rem;
+        margin-top: 3rem;
+        border-radius: 50%;
+    }
+    .utube1{
+        margin-left: 9rem;
+        margin-top: 3rem;
+        border-radius: 50%;
+    }
+    .twtter1{
+        margin-top: 3rem;
+        margin-left: 0.5rem;
+        border-radius: 50%;
+    }
+    
+}
+@media screen and (max-width:375px){
+
+    .logo{
+        width: 150px;
+        height: 50px;
+        padding-left: 2rem;
+    
+        
+    }
+    
+    .hr2{
+       margin-left: 5rem;
+       color: #616161
+    }
+    .abt{
+        margin-left: 2rem;
+        color: black;
+    }
+    .fnt{
+        font-size: 20px;
+        font-family: "Varela Round",Arial,Helvetica,sans-serif;
+    }
+    .li a{
+        display: inline-block;
+    }
+    .li nav-item dropdown a{
+        display: inline-block;
+    }
+    
+    .icon{
+        width: 55px;
+    }
+    .smallbs{
+
+        position: relative;
+       background-image: url(Images/10.jpg);
+        background-size: cover;
+       background-position: left;
+       width: 375px;
+       height: 470px;
+        
+    }
+    .headersm{
+        font-weight: 600;
+        color: #fff;
+        padding-top: 5.5rem;
+        padding-left: 3rem;
+        font-size: 50px;
+        font-family: 'Google Sans', sans-serif;
+        font-weight: 500;
+        text-align-last: center;
+        padding-right: 1rem;
+    
+    }
+    .headersmmbps{
+       color: #fff;
+       padding-left: 4rem;
+       font-size: 22px;
+       font-family: 'Roboto',sans-serif;
+       font-weight: 300;
+       text-align-last: center;
+       padding-right: 2rem;
+    }     
+    .checksmbtn{
+        margin-left: 4rem;
+        margin-top: 2rem;
+        font-family: 'Open Sans', sans-serif;
+        width: 237.16px;
+        height: 48px;
+        background-color: #3084fc;
+        font-weight: 700;
+        font-size: 16px;
+    }
+    .smblowheader{
+        padding-top: 4rem;
+        padding-left: 4.5rem;
+        padding-right: 5rem;
+        font-size: 38px;
+         color: #536369; 
+         cursor: text;
+         font-family: "Google Sans"sans-serif;
+         font-weight: 400;
+         text-align-last:center;
+         word-spacing: -0.1em;
+         justify-content: center;
+         align-items: center;
+         text-align: center;
+    }       
+    .smpheader{
+        color: #536369; 
+        margin-top: 1rem;
+        margin-left: 0.7rem;
+        font-family: 'Roboto', sans-serif;
+        font-size: 18px;
+        padding-right: 1.7rem;
+        text-align-last: center;
+    } 
+    
+    .fbclk{
+        margin-top: 3rem;
+        margin-left: 10rem;
+        color: #ed4d1d;
+        cursor: text;
+        width: 395px;
+        height:35px;
+    }
+    .fbhot{
+        margin-top: 3rem;
+        margin-left: 10rem;
+        width: 50px;
+        height: 50px;
+        cursor: text;
+    }  
+    .fbstore{
+        margin-top: 3rem;
+        margin-left: 10rem;
+        width: 50px;
+        height: 50px;
+        cursor: text;
+    }           
+    .clkcontent{
+        color: #536369;
+        padding-top: 1rem;
+        padding-left: 6.5rem;
+        font-family: 'Google Sans', sans-serif;
+        font-size: 18px;
+        font-weight: 300;
+    }
+    
+    .clkcontent1{
+        color: #536369;
+        padding-left: 7.5rem;
+        font-family: 'Google Sans', sans-serif;
+        font-size: 18px;
+        font-weight: 300;
+    }
+    .clkcontent2{
+        color: #536369;
+        padding-left: 1.5rem;
+        font-family: 'Roboto', sans-serif;
+        font-size: 18px;
+        font-weight: 300;
+    }
+    .clkcontent3{
+        color: #536369;
+        padding-left: 1.5rem;
+        font-family: 'Roboto', sans-serif;
+        font-size: 18px;
+        font-weight: 300;
+        
+    }
+    .clkcontent4{
+        color: #536369;
+        padding-top: 2rem;
+        padding-left: 10rem;
+        font-family: 'Roboto', sans-serif;
+        font-size: 18px;
+        font-weight: 300;
+    }
+    
+    .clkcontent5{
+        color: #536369;
+        padding-left: 5.5rem;
+        font-family: 'Google Sans', sans-serif;
+        font-size: 18px;
+        font-weight: 400;
+    }
+    
+    .clkcontent6{
+        color: #536369;
+        padding-left: 7.7rem;
+        font-family: 'Google Sans', sans-serif;
+        font-size: 18px;
+        font-weight: 400;
+    }
+    .clkcontent7{
+        color: #536369;
+        margin-left: 1rem;
+        font-family: 'Roboto', sans-serif;
+        font-size: 18px;
+        font-weight: 300;
+    }
+    .clkcontent8{
+        margin-left: 1rem;
+        color: #536369;
+        font-family: 'Roboto', sans-serif;
+        font-size: 18px;
+        font-weight: 300;
+        margin-top: -1.5rem;
+    }
+    .clkcontent9{
+        color: #536369;
+        padding-left: 5.7rem;
+        font-family: 'Google Sans', sans-serif;
+        font-size: 18px;
+        font-weight: 400;
+    }
+    
+    .clkcontent10{
+        color: #536369;
+        padding-left: 7.7rem;
+        font-family: 'Google Sans', sans-serif;
+        font-size: 18px;
+        font-weight: 400;
+    }
+    
+   
+    .clkcontent11{
+        color: #536369;
+        font-family: 'Roboto', sans-serif;
+        font-size: 18px;
+        font-weight: 300;
+        padding-left: 2rem;
+        margin-left: 2rem;
+    }
+    .clkcontent12{
+        color: #536369;
+        font-family: 'Roboto', sans-serif;
+        font-size: 18px;
+        font-weight: 300;
+        padding-left: 1rem;
+        margin-left: 2rem;
+    }
+    
+    .clkcontent13{
+        color: #536369;
+        padding-left: rem;
+        font-family: 'Roboto', sans-serif;
+        font-size: 18px;
+        font-weight: 300;
+        padding-left: 1rem;
+        margin-left: 2.5rem;
+        margin-top: -1.4rem;
+    }
+    .plansheader{
+        color: #5F6368;
+        padding-left: 3.7rem;
+        padding-top: 4rem;
+        font-family: 'Google Sans', sans-serif;
+        font-size: 38px;
+        font-weight: 500;
+        text-align-last: center;
+        padding-right: 3rem;        
+    }
+    .cardplans{
+        color: #fff;
+        background-color: #03A9F4;   
+    }
+    .cardpadd{
+        padding-top: 3rem;
+        padding-left: 3.7rem;
+    }
+    .cardpadd1{
+        padding-top: 3rem;
+        padding-left: 3.7rem;
+    }
+    .cardpadd2{
+        padding-top: 3rem;
+        padding-left: 3.7rem;
+    }
+    .cardpadd3{
+        padding-top: 3rem;
+        padding-left: 3.7rem;
+    }
+    #cardfooter{
+        background-color: #f5f5f5;
+        width: 375px;
+        margin-top: 4rem;
+        height: 100%;
+   
+     }
+    .sort1{
+        width: 30px;
+        height: 30px;
+    }
+    .sort2{
+        width: 20px;
+        height: 30px;
+    }
+    strong{
+        color: #5F6368;
+        font-size: 13px;
+    }
+    .datacaps{
+      padding-left: 2.5rem;
+      font-size: 13px;
+      color: #5F6368;
+    }
+    .wifi{
+        padding-left: 1rem;
+        font-size: 13px;
+        color: #5F6368;
+      }
+      .wifi1{
+        padding-left: 2.5rem;
+        font-size: 13px;
+        color: #5F6368;
+      }
+    .cardbtnsign{
+        margin-left: 4rem;
+       font-weight: 600;
+       width: 120px;
+       height: 52px;
+       
+    }
+    .rs{
+        text-align: center;
+    }
+    .allplansheader{
+        color: #5F6368;
+        padding-left: 3.3rem;
+        padding-top: 4rem;
+        font-family: 'Google Sans', sans-serif;
+        font-size: 38px;
+        font-weight: 500;
+        padding-right: 4rem;
+        text-align-last: center;
+        width: 110%;
+        
+        
+    }
+    .cal{
+        opacity: .58;
+        margin-top: 3rem;
+        color: #5F6368;
+        margin-left:11rem;
+        width: 25px;
+        height: 64px;
+        cursor: text;
+    
+    }
+    .calcontent{
+        color: #536369;
+        padding-top: 1rem;
+        padding-left: 7rem;
+        font-family: 'Google Sans', sans-serif;
+        font-size: 18px;
+        font-weight: 400;
+    }
+    .calcontent2{
+        color: #536369;
+        padding-left: 6rem;
+        font-family: 'Roboto', sans-serif;
+        font-size: 18px;
+        font-weight: 300;
+    }
+    .calcontent3{
+        color: #536369;
+        padding-left: 8rem;
+        font-family: 'Roboto', sans-serif;
+        font-size: 18px;
+        font-weight: 300;
+        margin-top: 0.1rem;
+  
+    }
+    .calcontent4{
+        color: #536369;
+        padding-top: 1.5rem;
+        padding-left: 8.5rem;
+        font-family: 'Google Sans', sans-serif;
+        font-size: 18px;
+        font-weight: 400;
+    }
+    .calcontent5{
+        padding-top: 1.5rem;
+        color: #536369;
+         font-family: 'Google Sans', sans-serif;
+        font-size: 18px;
+        font-weight: 400;
+        margin-left: 8rem;
+    }
+    .calcontent6{
+        color: #536369;
+        font-family: 'Roboto', sans-serif;
+        font-size: 18px;
+        font-weight: 300;
+        margin-left: 6.7rem;
+    
+    }
+    .calcontent7{
+        color: #536369;
+        font-family: 'Roboto', sans-serif;
+        font-size: 18px;
+        font-weight: 300;
+        margin-left: 2rem;
+        padding-right: 0rem;
+        text-align-last:right;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    
+    }
+    .cal11{
+        color: #536369;
+        font-family: 'Roboto', sans-serif;
+        font-size: 18px;
+        font-weight: 300;
+        margin-left: 4rem;
+    }
+    .calcontent8{
+        color: #536369;
+        font-family: 'Roboto', sans-serif;
+        font-size: 18px;
+        font-weight: 300;
+        margin-left: 1rem;
+    }
+    .calcon{
+        color: #536369;
+        font-family: 'Roboto', sans-serif;
+        font-size: 18px;
+        font-weight: 300;
+        margin-left:-2rem;
+    }
+    .calcontent9{
+        padding-top: 1.5rem;
+        padding-left: 6rem;
+        color: #536369;
+         font-family: 'Google Sans', sans-serif;
+        font-size: 18px;
+        font-weight: 400;
+
+    }
+    .calcontent10{
+        color: #536369;
+        font-family: 'Roboto', sans-serif;
+        font-size: 18px;
+        font-weight: 300;
+        padding-left: 5rem;
+    }
+    .plansort{
+        opacity: .28;
+        margin-top: 3rem;
+        color: #5F6368;
+        margin-left:10.7rem;
+        width: 40px;
+        height: 40px;
+        cursor: text;
+    }
+    .plannote{
+        margin-left: 11rem;
+        opacity: .48;
+        margin-top: 3rem;
+        color: #5F6368;
+        width: 60px;
+        height: 54px;
+        cursor: text;
+    }
+    .planmessage{
+        margin-left: 11rem;
+        opacity: .48;
+        margin-top: 3rem;
+        color: #5F6368;
+        width: 30px;
+        height: 40px;
+        cursor: text;
+    }
+    .tectpartner{
+        margin-top: 6rem;
+        position: relative;
+        height: 510px;
+       background-image: url(Images/16.jpg);
+        background-size: cover;
+       background-position: center;
+       width: 375px;
+    }
+    .techheader{
+        font-weight: 500;
+        color: #fff;
+        padding-top: 6rem;
+        padding-left: 4rem;
+        font-size: 46px;
+        font-family: 'Google Sans', sans-serif;
+        text-align-last: center;
+        padding-right:3.5rem;
+    }
+    .techpheader{
+        color: #fff;
+        padding-top: 1rem;
+        padding-left: 2.5rem;
+        font-size: 16px;
+        font-family: 'Roboto',sans-serif;
+        text-align-last:center;
+        padding-right: 2rem;
+    }
+    .techp2header{
+        color: #fff;
+        padding-left: 20rem;
+        font-size: 18px;
+        font-family: 'Open Sans',sans-serif;
+    }
+    .tectpartnerbtn{
+        margin-left: 6rem;
+        margin-top: 0.5rem;
+        font-family: 'Open Sans', sans-serif;
+        width: 177.69px;
+        height: 44px;
+         color: #fff;
+         border-color: #fff;
+        font-weight: 700;
+        font-size: 13px;
+    
+    }
+    .techpartnerit{
+        color: #fff;
+        padding-top: 2rem;
+        padding-left: 5rem;
+        font-size: 16px;
+        font-family: 'Roboto',sans-serif;
+        text-align-last:center ;
+    }
+    .becomepartnerit{
+        color: #fff;
+        font-weight: 400;
+        padding-left: 6.5rem;    
+    }
+    #tectid{
+       color: #fff;
+    }
+    .startedfooter{
+        background-color: #f5f5f5;
+        height: 60vh;
+        width: 375px;
+    }
+    .startedheader{
+        font-weight: 500;
+        color:#5f6368;
+        padding-top: 3.5rem;
+       padding-left: 5.5rem;
+        font-size: 38px;
+        font-family: 'Google Sans',sans-serif;
+        padding-right: 5.5rem;
+        text-align-last:center ;
+    }
+    .getstartedbtn{
+        margin-left:4.5rem;
+        margin-top: 2rem;
+        font-family: 'Open Sans', sans-serif;
+        width: 233.16px;
+        height: 48px;
+        background-color: #3084fc;
+        font-weight: 700;
+        font-size: 16px;
+    }
+    .findEmailus{
+        font-weight: 500;
+        font-family: 'Google Sans',sans-serif;
+        font-size: 40px;
+        color: #5f6368;
+    }
+    .findtechpartnerheader{
+        padding-top: 1rem;
+        padding-left: 2rem;
+        font-size: 16px;
+        font-family: 'Google Sans',sans-serif;
+        font-weight: 400;
+    
+    }
+    .findtechpartnerheader:hover{
+        color: blue;
+        cursor: pointer;
+    }
+    .becometechpartnerheader{
+        padding-top: 1rem;
+        text-align: center;
+        font-weight: 500;
+        font-family: 'Google Sans',sans-serif;
+        font-size: 20px;
+        color: #5f6368;
+    }
+    .query{
+        padding-top: 1rem;
+        padding-left: 2rem;
+        font-size: 20px;
+        font-family: 'Google Sans',sans-serif;
+        font-weight: 400;
+    }
+    .touchheader{
+        font-weight: 600;
+        color: #616161;
+        padding-left: 23rem;
+        padding-top: 8rem;
+        font-size: 52px;
+        
+        font-family: 'Open Sans', sans-serif;
+    }
+    .giga3{
+        padding-left: 1rem;
+        padding-top: 8rem;
+        font-size: 28px;
+        font-family: 'Google Sans,Roboto,Arial,Helvetica',sans-serif;
+        color: #202124;
+    }
+    .add{
+        margin-left: 3rem;
+        width: 330px;
+        height:48px;
+    }
+  
+    .btsign{
+       margin-left: 5.8rem;
+       margin-top: 1rem;
+       font-family: 'Open Sans', sans-serif;
+       width: 240px;
+       height: 48px;
+       background-color: #1E8E3E;
+    } 
+    .signp{
+        color: #5F6368;
+        padding-left: 3rem;
+        margin-top: 5rem;
+        font-size: 14px;
+        font-family: "Roboto"; 
+        font-weight:400;
+    
+    }
+    .signp2{
+        color: #5F6368;
+        padding-left: 10rem;
+        font-size: 14px;
+    }
+    .signp3{
+        color: #5F6368;
+        padding-left: 34rem;
+    
+    }
+    .signp4{
+        color: #5F6368;
+        margin-top: -1rem;
+        margin-left: 5rem;
+        font-size: 14px;
+        font-family: 'Roboto';
+        font-weight: 400;
+
+    
+    }
+    .signp5{
+        color: #5F6368;
+        margin-top: -1rem;
+        text-align-last: center;
+        font-size: 14px;
+        font-family: 'Roboto';
+        font-weight: 400;
+
+        
+    }
+    .fbk{
+        color: #fff;
+        background-color: #80868b;
+        border-radius: 50%;
+        cursor: pointer;
+        margin-top: 3.5rem;
+       margin-left: 7.5rem;
+       padding-top: 0.5rem;
+       padding-bottom: 0.5rem;
+       padding-left: 0.5rem;
+       padding-right: 0.5rem;
+       height: 40px;
+       width: 40px;
+    }
+    .fbk:hover{
+      background-color:#2c3e50;
+    }
+    
+    
+    .ut{
+        color: #fff;
+        background-color: #80868b;
+        border-radius: 50%;
+        cursor: pointer;
+       padding-left: 0.5rem;
+       padding-right: 0.5rem;
+       padding-top: 0.5rem;
+      padding-bottom: 0.5rem;
+       height: 40px;
+       width: 40px;
+       margin-top: -20rem;
+        margin-left: 11rem;
+    
+    }
+    .utk{
+        margin-top: -1.4rem;
+    }
+    .fa-facebook-f{
+        transform: scale(1.1,1); 
+    }
+    .fa-youtube 
+    {  
+        transform: scale(0.8,1); 
+    }
+    .ut:hover{
+        background-color: #2c3e50;
+    }
+    .twtter{
+        color: #fff;
+        background-color: #80868b;
+        border-radius: 50%;
+        cursor: pointer;
+       padding-left: 0.5rem;
+       padding-right: 0.5rem;
+       padding-top: 0.5rem;
+      padding-bottom: 0.5rem;
+       height: 40px;
+       width: 40px;
+        
+        margin-top: -9rem;
+        margin-left: 13rem;
+        
+    }
+    .twtter:hover{
+        background-color: #2c3e50;
+    }
+    .insta{
+        margin-left: 0.5rem;
+        margin-top: -1.5rem;
+    }
+    #footer{
+        background-color: #f5f5f5;
+        width :375px;
+        margin-top: 8rem;
+        height: 100vh;
+        
+    }
+    .chkavail{
+        color:#5F6368;
+        font-size: 12px;
+        padding-left: 2rem;
+        padding-top: 3rem;
+        font-family: "Google Sans","Roboto",Arial,Helvetica,sans-serif;
+        font-weight: 600;
+        word-break: break-word;
+    
+    }
+    .chkavail2{
+        color:#5F6368;
+        font-size: 12px;
+        padding-left: 2rem;
+        margin-top: -1rem;
+        font-family: "Google Sans","Roboto",Arial,Helvetica,sans-serif;
+        font-weight: 600;
+        word-break: break-word;
+    }
+    .explore{
+        color:#616161;
+        font-size: 12px;
+        padding-left: 5rem;
+        padding-top: 3rem;
+        font-family: "Google Sans","Roboto",Arial,Helvetica,sans-serif;
+        font-weight: 600;
+    }
+  
+    .explore5{
+        color:#616161;
+        font-size: 12px;
+        padding-left: 2.5rem;
+        margin-top: -1rem;
+        font-family: "Google Sans","Roboto",Arial,Helvetica,sans-serif;
+        font-weight: 600;
+    }
+    .socialmediaexplore{
+        color:#5F6368;
+        font-size: 12px;
+        padding-left: 10rem;
+        margin-top: -10.7rem;
+        font-family: "Google Sans","Roboto",Arial,Helvetica,sans-serif;
+        font-weight: 600;
+    }
+    .socialmediabit{
+        font-family: 'Open Sans', sans-serif;
+        margin-left: 11rem;
+        font-size: 14px;
+        color: #616161;
+        opacity: .48;
+        font-weight: 400;
+    }
+    .resident{
+        margin-left: -15rem;
+        font-family: "Google Sans","Roboto",Arial,Helvetica,sans-serif;
+        font-size: 14px;
+        color: #616161;
+        opacity: .48;
+        font-weight: 400;
+        cursor: pointer;
+    }
+    .bit{
+        font-family: 'Open Sans', sans-serif;
+        padding-left: 0rem;
+        font-size: 14px;
+        color: #616161;
+        opacity: .48;
+        font-weight: 400;
+    }
+    .aboutbit{
+        font-family: 'Open Sans', sans-serif;
+        margin-left: -2.7rem;
+        font-size: 14px;
+        color: #616161;
+        opacity: .48;
+        font-weight: 400;
+    }
+    #link{
+       color: #616161;
+       text-decoration: none;
+    } 
+    #navbarlink{
+        color:#616161;
+    }
+    .touchbtn{
+        font-weight: 600;
+        margin-left: 34rem;
+        margin-top: 1rem;
+       font-family: 'Open Sans', sans-serif;
+       width: 170px;
+       height: 45px;
+       background-color:  #3084fc;;
+    }
+    .emailclick{
+       padding-left: 23rem;
+       font-family: 'Open Sans', sans-serif;
+       color: #5f6368;
+       
+    }
+    .emailclick1{
+        padding-left: 35rem;
+        font-family: 'Open Sans', sans-serif;
+        color: #5f6368;
+        
+     }
+     .fb1{
+        margin-left: 33rem;
+        margin-top: 3rem;
+        border-radius: 50%;
+    }
+    .utube1{
+        margin-left: 9rem;
+        margin-top: 3rem;
+        border-radius: 50%;
+    }
+    .twtter1{
+        margin-top: 3rem;
+        margin-left: 0.5rem;
+        border-radius: 50%;
+    }
+    
+}
+@media screen and  (max-width:373px){
+    
+    .headersm{
+        font-weight: 600;
+        color: #fff;
+        padding-top: 5.5rem;
+        padding-left: 3rem;
+        font-size: 50px;
+        font-family: 'Google Sans', sans-serif;
+        font-weight: 500;
+        text-align-last: center;
+        padding-right: 1rem;
+    
+    }
+    .headersmmbps{
+       color: #fff;
+       padding-left: 4rem;
+       font-size: 22px;
+       font-family: 'Roboto',sans-serif;
+       font-weight: 300;
+       text-align-last: center;
+       padding-right: 2rem;
+    }     
+    .checksmbtn{
+        margin-left: 4rem;
+        margin-top: 2rem;
+        font-family: 'Open Sans', sans-serif;
+        width: 237.16px;
+        height: 48px;
+        background-color: #3084fc;
+        font-weight: 700;
+        font-size: 16px;
+    }
+    .smblowheader{
+        padding-top: 4rem;
+        padding-left: 2.7rem;
+        padding-right: 3rem;
+        font-size: 38px;
+         color: #536369; 
+         cursor: text;
+         font-family: "Google Sans"sans-serif;
+         font-weight: 400;
+         text-align-last:center;
+         word-spacing: -0.1em;
+         align-items: center;
+         justify-content: center;
+         text-align: center;
+
+    }       
+    .smpheader{
+        color: #536369; 
+        margin-top: 1rem;
+        padding-left: 2rem;
+        font-family: 'Roboto', sans-serif;
+        font-size: 18px;
+        text-align-last: center;
+    } 
+    .clkcontent{
+        color: #536369;
+        padding-top: 2rem;
+        padding-left: 6.7rem;
+        font-family: 'Google Sans', sans-serif;
+        font-size: 18px;
+        font-weight: 300;
+    }
+    
+    .clkcontent1{
+        color: #536369;
+        padding-left: 7.5rem;
+        font-family: 'Google Sans', sans-serif;
+        font-size: 18px;
+        font-weight: 300;
+    }
+    .clkcontent2{
+        color: #536369;
+        padding-left: 1rem;
+        font-family: 'Roboto', sans-serif;
+        font-size: 18px;
+        font-weight: 300;
+       
+    }
+    .clkcontent3{
+        color: #536369;
+        padding-left: 0rem;
+        font-family: 'Roboto', sans-serif;
+        font-size: 18px;
+        font-weight: 300;
+       align-items: center;
+       justify-content: center;
+       text-align: center;
+    }
+    .clkcontent4{
+        color: #536369;
+        padding-left: 10.7rem;
+        font-family: 'Roboto', sans-serif;
+        font-size: 18px;
+        font-weight: 300;
+        margin-top: -1.7rem;
+    }
+    
+    .clkcontent5{
+        color: #536369;
+        padding-left: 5.3rem;
+        font-family: 'Google Sans', sans-serif;
+        font-size: 18px;
+        font-weight: 400;
+    }
+    
+    .clkcontent6{
+        color: #536369;
+        padding-left: 7rem;
+        font-family: 'Google Sans', sans-serif;
+        font-size: 18px;
+        font-weight: 400;
+    }
+    .clkcontent7{
+        color: #536369;
+        margin-left: 2rem;
+        font-family: 'Roboto', sans-serif;
+        font-size: 18px;
+        font-weight: 300;
+        justify-content: center;
+        align-items: center;
+        padding-right: 2rem;
+        
+    }
+    .clkcontent8{
+        margin-left: 2.5rem;
+        color: #536369;
+        font-family: 'Roboto', sans-serif;
+        font-size: 18px;
+        font-weight: 300;
+        margin-top: -3.2rem;
+        text-align-last: center;
+        padding-right: 1rem;
+    }
+    .clkcontent9{
+        color: #536369;
+        padding-left: 5rem;
+        font-family: 'Google Sans', sans-serif;
+        font-size: 18px;
+        font-weight: 400;
+    }
+    
+    .clkcontent10{
+        color: #536369;
+        padding-left: 6.3rem;
+        font-family: 'Google Sans', sans-serif;
+        font-size: 18px;
+        font-weight: 400;
+    }
+    
+   
+    .clkcontent11{
+        color: #536369;
+        font-family: 'Roboto', sans-serif;
+        font-size: 18px;
+        font-weight: 300;
+        padding-left: 1rem;
+        margin-left: 2.7rem;
+    }
+    .clkcontent12{
+        color: #536369;
+        font-family: 'Roboto', sans-serif;
+        font-size: 18px;
+        font-weight: 300;
+        padding-left: 1.7rem;
+        margin-left: 0.5rem;
+    }
+    
+    .clkcontent13{
+        color: #536369;
+        padding-left: rem;
+        font-family: 'Roboto', sans-serif;
+        font-size: 18px;
+        font-weight: 300;
+        padding-left: 1.7rem;
+        margin-left: 1rem;
+        margin-top: -1.4rem;
+    }
+    #footer{
+        background-color: #f5f5f5;
+        width :420px;
+        margin-top: 8rem;
+        height:100vh;
+           
+    }
+    .cardpadd{
+        padding-top: 3rem;
+        margin-left: -1em;
+    }
+    .cardpadd1{
+        padding-top: 3rem;
+        margin-left: -1em;
+    }
+    .cardpadd2{
+        padding-top: 3rem;
+        margin-left: -1em;
+    }
+    .cardpadd3{
+        padding-top: 3rem;
+        margin-left: -1em;
+    }
+    
+    
+   
+}
+
+@media screen and (max-width:320px){
+    .main{
+        border-bottom: -2rem;
+        background-color:#f5f6fa;
+        height: 6vh;
+        width:320px;
+    }
+    .phone{
+        margin-top: -0.8rem;
+        margin-left: -0.5rem;
+        font-size: 10px;
+    }
+    .phone:hover{
+        cursor: pointer;
+        color: red;
+    }
+    .vl{
+        margin-top: -1.3rem;
+        margin-left: 7rem;
+        border-left: 1px solid black;
+        height: 15px;
+    }
+    .phoneimgfav{
+        margin-left: 0.5rem;
+        margin-top: 0.5rem;
+        color: #616161;
+        cursor: pointer;
+    }
+    .emailogo{
+        margin-top: -2.8rem;
+        margin-left: 5rem;
+        color: #616161;
+        width: 25px;
+        cursor: pointer;
+    }
+    .webaddress{
+      margin-top: -2.5rem;
+      margin-left: 13.3rem;
+      cursor: pointer;
+      font-size: 12px;
+    }
+    .webaddress:hover{
+        color: red;
+    }
+    
+    .smallbs{
+
+        position: relative;
+       background-image: url(Images/10.jpg);
+        background-size: cover;
+       background-position: left;
+       width: 320px;
+       height: 470px;
+        
+    }
+    .headersm{
+        font-weight: 600;
+        color: #fff;
+        padding-top: 5.5rem;
+        padding-left: 3.5rem;
+        font-size: 50px;
+        font-family: 'Google Sans', sans-serif;
+        font-weight: 550;
+        text-align-last: center;
+        padding-right: 4.5rem;
+    
+    }
+    .headersmmbps{
+       color: #fff;
+       padding-left: 2rem;
+       font-size: 22px;
+       font-family: 'Roboto',sans-serif;
+       font-weight: 300;
+       text-align-last: center;
+       padding-right: 2rem;
+    }     
+    .checksmbtn{
+        margin-left: 2.5rem;
+        margin-top: 2rem;
+        font-family: 'Open Sans', sans-serif;
+        width: 237.16px;
+        height: 48px;
+        background-color: #3084fc;
+        font-weight: 700;
+        font-size: 16px;
+    }
+    .smblowheader{
+        padding-top: 4rem;
+        padding-left: 2.7rem;
+        padding-right: 3rem;
+        font-size: 38px;
+         color: #536369; 
+         cursor: text;
+         font-family: "Google Sans"sans-serif;
+         font-weight: 400;
+         text-align-last:center;
+         word-spacing: -0.1em;
+         align-items: center;
+         justify-content: center;
+         text-align: center;
+
+    }       
+    .smpheader{
+        color: #536369; 
+        margin-top: 1rem;
+        padding-left: 2rem;
+        font-family: 'Roboto', sans-serif;
+        font-size: 18px;
+        text-align-last: center;
+    } 
+    
+    .fbclk{
+        margin-top: 3rem;
+        margin-left: 8.3rem;
+        color: #ed4d1d;
+        cursor: text;
+        width: 395px;
+        height:35px;
+    }
+    .fbhot{
+        margin-top: 3rem;
+        margin-left: 8.3rem;
+        width: 50px;
+        height: 50px;
+        cursor: text;
+    }  
+    .fbstore{
+        margin-top: 3rem;
+        margin-left: 8.3rem;
+        width: 50px;
+        height: 50px;
+        cursor: text;
+    }           
+    .clkcontent{
+        color: #536369;
+        padding-top: 1rem;
+        padding-left: 5rem;
+        font-family: 'Google Sans', sans-serif;
+        font-size: 18px;
+        font-weight: 300;
+    }
+    
+    .clkcontent1{
+        color: #536369;
+        padding-left: 6rem;
+        font-family: 'Google Sans', sans-serif;
+        font-size: 18px;
+        font-weight: 300;
+    }
+    .clkcontent2{
+        color: #536369;
+        padding-left: 1.5rem;
+        font-family: 'Roboto', sans-serif;
+        font-size: 18px;
+        font-weight: 300;
+        justify-content: center;
+        align-items: center;
+        text-align-last:left;
+    }
+    .clkcontent3{
+        color: #536369;
+        padding-left: 3rem;
+        font-family: 'Roboto', sans-serif;
+        font-size: 18px;
+        font-weight: 300;
+        margin-top: -1.7rem;
+       
+    }
+    .clkcontent4{
+        color: #536369;
+        padding-left: 11rem;
+        font-family: 'Roboto', sans-serif;
+        font-size: 18px;
+        font-weight: 300;
+        margin-top: -3.7rem;
+    }
+    
+    .clkcontent5{
+        color: #536369;
+        padding-left: 4rem;
+        font-family: 'Google Sans', sans-serif;
+        font-size: 18px;
+        font-weight: 400;
+    }
+    
+    .clkcontent6{
+        color: #536369;
+        padding-left: 6rem;
+        font-family: 'Google Sans', sans-serif;
+        font-size: 18px;
+        font-weight: 400;
+    }
+    .clkcontent7{
+        color: #536369;
+        margin-left: 1.3rem;
+        font-family: 'Roboto', sans-serif;
+        font-size: 18px;
+        font-weight: 300;
+        justify-content: center;
+        align-items: center;
+        text-align-last:left;
+        padding-right: 2rem;
+        
+    }
+    .clkcontent8{
+        margin-left: 2.1rem;
+        color: #536369;
+        font-family: 'Roboto', sans-serif;
+        font-size: 18px;
+        font-weight: 300;
+        margin-top: -3.2rem;
+        text-align-last: center;
+        padding-right: 1.7rem;
+    }
+    .clkcontent9{
+        color: #536369;
+        padding-left: 4rem;
+        font-family: 'Google Sans', sans-serif;
+        font-size: 18px;
+        font-weight: 400;
+    }
+    
+    .clkcontent10{
+        color: #536369;
+        padding-left: 6rem;
+        font-family: 'Google Sans', sans-serif;
+        font-size: 18px;
+        font-weight: 400;
+    }
+    
+   
+    .clkcontent11{
+        color: #536369;
+        font-family: 'Roboto', sans-serif;
+        font-size: 18px;
+        font-weight: 300;
+        padding-left: 1rem;
+        margin-left: 2rem;
+    }
+    .clkcontent12{
+        color: #536369;
+        font-family: 'Roboto', sans-serif;
+        font-size: 18px;
+        font-weight: 300;
+        padding-left: 1rem;
+        margin-left: 0.5rem;
+    }
+    
+    .clkcontent13{
+        color: #536369;
+        padding-left: rem;
+        font-family: 'Roboto', sans-serif;
+        font-size: 18px;
+        font-weight: 300;
+        padding-left: 1rem;
+        margin-left: 1rem;
+        margin-top: -1.4rem;
+    }
+    .plansheader{
+        color: #5F6368;
+        padding-left: 2rem;
+        padding-top: 4rem;
+        font-family: 'Google Sans', sans-serif;
+        font-size: 38px;
+        font-weight: 500;
+        text-align-last: center;
+        padding-right: 5rem;        
+    }
+    .cardplans{
+        color: #fff;
+        background-color: #03A9F4;   
+    }
+    .cardpadd{
+      
+        padding-top: 3rem;
+        padding-left: 1rem;
+    }
+    .cardpadd1{
+        padding-top: 3rem;
+        padding-left: 1rem;
+    }
+    .cardpadd2{
+        padding-top: 3rem;
+        padding-left: 1rem;
+    }
+    .cardpadd3{
+        padding-top: 3rem;
+        padding-left: 1rem;
+    }
+    #cardfooter{
+        background-color: #f5f5f5;
+        width: 375px;
+        margin-top: 4rem;
+        height: 100%;
+        display: inline-block;
+        display: inherit;
+     }
+    .sort1{
+        width: 30px;
+        height: 30px;
+    }
+    .sort2{
+        width: 20px;
+        height: 30px;
+    }
+    strong{
+        color: #5F6368;
+        font-size: 13px;
+    }
+    .datacaps{
+      padding-left: 2.5rem;
+      font-size: 13px;
+      color: #5F6368;
+    }
+    .wifi{
+        padding-left: 1rem;
+        font-size: 13px;
+        color: #5F6368;
+      }
+      .wifi1{
+        padding-left: 2.5rem;
+        font-size: 13px;
+        color: #5F6368;
+      }
+    .cardbtnsign{
+        margin-left: 4rem;
+       font-weight: 600;
+       width: 120px;
+       height: 52px;
+       
+    }
+    .rs{
+        text-align: center;
+    }
+    .allplansheader{
+        color: #5F6368;
+        padding-left: 3rem;
+        padding-top: 4rem;
+        font-family: 'Google Sans', sans-serif;
+        font-size: 38px;
+        font-weight: 500;
+        padding-right: 5rem;
+        text-align-last: center;
+        width: 110%;
+        justify-content: center;
+        text-align: center;
+        
+        
+    }
+    .cal{
+        opacity: .58;
+        margin-top: 3rem;
+        color: #5F6368;
+        margin-left:9rem;
+        width: 25px;
+        height: 64px;
+        cursor: text;
+    
+    }
+    .calcontent{
+        color: #536369;
+        padding-top: 1rem;
+        padding-left: 4.8rem;
+        font-family: 'Google Sans', sans-serif;
+        font-size: 18px;
+        font-weight: 400;
+    }
+    .calcontent2{
+        color: #536369;
+        padding-left: 4rem;
+        font-family: 'Roboto', sans-serif;
+        font-size: 18px;
+        font-weight: 300;
+    }
+    .calcontent3{
+        color: #536369;
+        padding-left: 5.7rem;
+        font-family: 'Roboto', sans-serif;
+        font-size: 18px;
+        font-weight: 300;
+        margin-top: 0.1rem;
+  
+    }
+    .calcontent4{
+        color: #536369;
+        padding-top: 1.5rem;
+        padding-left: 6.5rem;
+        font-family: 'Google Sans', sans-serif;
+        font-size: 18px;
+        font-weight: 400;
+    }
+    .calcontent5{
+        padding-top: 1.5rem;
+        color: #536369;
+         font-family: 'Google Sans', sans-serif;
+        font-size: 18px;
+        font-weight: 400;
+        margin-left: 6.5rem;
+    }
+    .calcontent6{
+        color: #536369;
+        font-family: 'Roboto', sans-serif;
+        font-size: 18px;
+        font-weight: 300;
+        margin-left: 4rem;
+    
+    }
+    .calcontent7{
+        color: #536369;
+        font-family: 'Roboto', sans-serif;
+        font-size: 18px;
+        font-weight: 300;
+        margin-left: 1rem;
+        padding-right: 1rem;
+        text-align-last:center ;
+    
+    }
+    .cal11{
+        color: #536369;
+        font-family: 'Roboto', sans-serif;
+        font-size: 18px;
+        font-weight: 300;
+        margin-left: 2rem;
+    }
+    .calcontent8{
+        color: #536369;
+        font-family: 'Roboto', sans-serif;
+        font-size: 18px;
+        font-weight: 300;
+        margin-left: -3rem;
+    }
+    .calcon{
+        color: #536369;
+        font-family: 'Roboto', sans-serif;
+        font-size: 18px;
+        font-weight: 300;
+        margin-left:-1rem;
+    }
+    .calcontent9{
+        padding-top: 1.5rem;
+        padding-left: 4rem;
+        color: #536369;
+         font-family: 'Google Sans', sans-serif;
+        font-size: 18px;
+        font-weight: 400;
+
+    }
+    .calcontent10{
+        color: #536369;
+        font-family: 'Roboto', sans-serif;
+        font-size: 18px;
+        font-weight: 300;
+        padding-left: 3rem;
+    }
+    .plansort{
+        opacity: .28;
+        margin-top: 3rem;
+        color: #5F6368;
+        margin-left:8.7rem;
+        width: 40px;
+        height: 40px;
+        cursor: text;
+    }
+    .plannote{
+        margin-left: 9.5rem;
+        opacity: .48;
+        margin-top: 3rem;
+        color: #5F6368;
+        width: 60px;
+        height: 54px;
+        cursor: text;
+    }
+    .planmessage{
+        margin-left: 9.5rem;
+        opacity: .48;
+        margin-top: 3rem;
+        color: #5F6368;
+        width: 30px;
+        height: 40px;
+        cursor: text;
+    }
+    .tectpartner{
+        margin-top: 6rem;
+        position: relative;
+        height: 600px;
+       background-image: url(Images/16.jpg);
+        background-size: cover;
+       background-position: center;
+       width: 320px;
+    }
+    .techheader{
+        font-weight: 500;
+        color: #fff;
+        padding-top: 6rem;
+        padding-left: 2.3rem;
+        font-size: 46px;
+        font-family: 'Google Sans', sans-serif;
+        text-align-last: center;
+        padding-right:2rem;
+    }
+    .techpheader{
+        color: #fff;
+        padding-top: 1rem;
+        padding-left: 2.5rem;
+        font-size: 16px;
+        font-family: 'Roboto',sans-serif;
+        text-align-last:center;
+        padding-right: 2rem;
+    }
+    .techp2header{
+        color: #fff;
+        padding-left: 20rem;
+        font-size: 18px;
+        font-family: 'Open Sans',sans-serif;
+    }
+    .tectpartnerbtn{
+        margin-left: 4.5rem;
+        margin-top: 0.5rem;
+        font-family: 'Open Sans', sans-serif;
+        width: 177.69px;
+        height: 44px;
+         color: #fff;
+         border-color: #fff;
+        font-weight: 700;
+        font-size: 13px;
+    
+    }
+    .techpartnerit{
+        color: #fff;
+        padding-top: 2rem;
+        padding-left: 3rem;
+        font-size: 16px;
+        font-family: 'Roboto',sans-serif;
+        text-align-last:center ;
+    }
+    .becomepartnerit{
+        color: #fff;
+        font-weight: 400;
+        padding-left: 4.5rem;    
+    }
+    #tectid{
+       color: #fff;
+    }
+    .startedfooter{
+        background-color: #f5f5f5;
+        height: 100%;
+        width: 375px;
+        
+    }
+    .startedheader{
+        font-weight: 500;
+        color:#5f6368;
+        padding-top: 3.5rem;
+       padding-left: 4rem;
+        font-size: 38px;
+        font-family: 'Google Sans',sans-serif;
+        padding-right: 7rem;
+        text-align-last:center ;
+    }
+    .getstartedbtn{
+        margin-left:2.7rem;
+        margin-top: 2rem;
+        font-family: 'Open Sans', sans-serif;
+        width: 233.16px;
+        height: 48px;
+        background-color: #3084fc;
+        font-weight: 700;
+        font-size: 16px;
+    }
+    .findEmailus{
+        font-weight: 500;
+        font-family: 'Google Sans',sans-serif;
+        font-size: 40px;
+        color: #5f6368;
+    }
+    .findtechpartnerheader{
+        padding-top: 1rem;
+        padding-left: 2rem;
+        font-size: 16px;
+        font-family: 'Google Sans',sans-serif;
+        font-weight: 400;
+    
+    }
+    .findtechpartnerheader:hover{
+        color: blue;
+        cursor: pointer;
+    }
+    .becometechpartnerheader{
+        padding-top: 1rem;
+        text-align: center;
+        font-weight: 500;
+        font-family: 'Google Sans',sans-serif;
+        font-size: 20px;
+        color: #5f6368;
+    }
+    .query{
+        padding-top: 1rem;
+        padding-left: 2rem;
+        font-size: 20px;
+        font-family: 'Google Sans',sans-serif;
+        font-weight: 400;
+    }
+    .touchheader{
+        font-weight: 600;
+        color: #616161;
+        padding-left: 23rem;
+        padding-top: 8rem;
+        font-size: 52px;
+        
+        font-family: 'Open Sans', sans-serif;
+    }
+    .giga3{
+        padding-left: 0rem;
+        padding-top: 8rem;
+        font-size: 28px;
+        font-family: 'Google Sans,Roboto,Arial,Helvetica',sans-serif;
+        color: #202124;
+    }
+    .add{
+        margin-left: 3rem;
+        width: 330px;
+        height:48px;
+    }
+  
+    .btsign{
+       margin-left: 5.8rem;
+       margin-top: 1rem;
+       font-family: 'Open Sans', sans-serif;
+       width: 240px;
+       height: 48px;
+       background-color: #1E8E3E;
+    } 
+    .signp{
+        color: #5F6368;
+        padding-left: 3rem;
+        margin-top: 5rem;
+        font-size: 14px;
+        font-family: "Roboto"; 
+        font-weight:400;
+    
+    }
+    .signp2{
+        color: #5F6368;
+        padding-left: 10rem;
+        font-size: 14px;
+    }
+    .signp3{
+        color: #5F6368;
+        padding-left: 34rem;
+    
+    }
+    .signp4{
+        color: #5F6368;
+        margin-top: -1rem;
+        margin-left: 5rem;
+        font-size: 14px;
+        font-family: 'Roboto';
+        font-weight: 400;
+
+    
+    }
+    .signp5{
+        color: #5F6368;
+        margin-top: -1rem;
+        text-align-last: center;
+        font-size: 14px;
+        font-family: 'Roboto';
+        font-weight: 400;
+
+        
+    }
+    .fbk{
+        color: #fff;
+        background-color: #80868b;
+        border-radius: 50%;
+        cursor: pointer;
+        margin-top: 3.5rem;
+       margin-left: 7.5rem;
+       padding-top: 0.5rem;
+       padding-bottom: 0.5rem;
+       padding-left: 0.5rem;
+       padding-right: 0.5rem;
+       height: 40px;
+       width: 40px;
+    }
+    .fbk:hover{
+      background-color:#2c3e50;
+    }
+    
+    
+    .ut{
+        color: #fff;
+        background-color: #80868b;
+        border-radius: 50%;
+        cursor: pointer;
+       padding-left: 0.5rem;
+       padding-right: 0.5rem;
+       padding-top: 0.5rem;
+      padding-bottom: 0.5rem;
+       height: 40px;
+       width: 40px;
+       margin-top: -20rem;
+        margin-left: 11rem;
+    
+    }
+    .utk{
+        margin-top: -1.4rem;
+    }
+    .fa-facebook-f{
+        transform: scale(1.1,1); 
+    }
+    .fa-youtube 
+    {  
+        transform: scale(0.8,1); 
+    }
+    .ut:hover{
+        background-color: #2c3e50;
+    }
+    .twtter{
+        color: #fff;
+        background-color: #80868b;
+        border-radius: 50%;
+        cursor: pointer;
+       padding-left: 0.5rem;
+       padding-right: 0.5rem;
+       padding-top: 0.5rem;
+      padding-bottom: 0.5rem;
+       height: 40px;
+       width: 40px;
+        
+        margin-top: -9rem;
+        margin-left: 13rem;
+        
+    }
+    .twtter:hover{
+        background-color: #2c3e50;
+    }
+    .insta{
+        margin-left: 0.5rem;
+        margin-top: -1.5rem;
+    }
+    #footer{
+        background-color: #f5f5f5;
+        width :375px;
+        margin-top: 8rem;
+        height: 100vh;
+        
+    }
+    .chkavail{
+        color:#5F6368;
+        font-size: 12px;
+        padding-left: 2rem;
+        padding-top: 3rem;
+        font-family: "Google Sans","Roboto",Arial,Helvetica,sans-serif;
+        font-weight: 600;
+        word-break: break-word;
+    
+    }
+    .chkavail2{
+        color:#5F6368;
+        font-size: 12px;
+        padding-left: 2rem;
+        margin-top: -1rem;
+        font-family: "Google Sans","Roboto",Arial,Helvetica,sans-serif;
+        font-weight: 600;
+        word-break: break-word;
+    }
+    .explore{
+        color:#616161;
+        font-size: 12px;
+        padding-left: 5rem;
+        padding-top: 3rem;
+        font-family: "Google Sans","Roboto",Arial,Helvetica,sans-serif;
+        font-weight: 600;
+    }
+  
+    .explore5{
+        color:#616161;
+        font-size: 12px;
+        padding-left: 2.5rem;
+        margin-top: -1rem;
+        font-family: "Google Sans","Roboto",Arial,Helvetica,sans-serif;
+        font-weight: 600;
+    }
+    .socialmediaexplore{
+        color:#5F6368;
+        font-size: 12px;
+        padding-left: 10rem;
+        margin-top: -10.7rem;
+        font-family: "Google Sans","Roboto",Arial,Helvetica,sans-serif;
+        font-weight: 600;
+    }
+    .socialmediabit{
+        font-family: 'Open Sans', sans-serif;
+        margin-left: 11rem;
+        font-size: 14px;
+        color: #616161;
+        opacity: .48;
+        font-weight: 400;
+    }
+    .resident{
+        margin-left: -15rem;
+        font-family: "Google Sans","Roboto",Arial,Helvetica,sans-serif;
+        font-size: 14px;
+        color: #616161;
+        opacity: .48;
+        font-weight: 400;
+        cursor: pointer;
+    }
+    .bit{
+        font-family: 'Open Sans', sans-serif;
+        padding-left: 0rem;
+        font-size: 14px;
+        color: #616161;
+        opacity: .48;
+        font-weight: 400;
+    }
+    .aboutbit{
+        font-family: 'Open Sans', sans-serif;
+        margin-left: -2.7rem;
+        font-size: 14px;
+        color: #616161;
+        opacity: .48;
+        font-weight: 400;
+    }
+    #link{
+       color: #616161;
+       text-decoration: none;
+    } 
+    #navbarlink{
+        color:#616161;
+    }
+    .touchbtn{
+        font-weight: 600;
+        margin-left: 34rem;
+        margin-top: 1rem;
+       font-family: 'Open Sans', sans-serif;
+       width: 170px;
+       height: 45px;
+       background-color:  #3084fc;;
+    }
+    .emailclick{
+       padding-left: 23rem;
+       font-family: 'Open Sans', sans-serif;
+       color: #5f6368;
+       
+    }
+    .emailclick1{
+        padding-left: 35rem;
+        font-family: 'Open Sans', sans-serif;
+        color: #5f6368;
+        
+     }
+     .fb1{
+        margin-left: 33rem;
+        margin-top: 3rem;
+        border-radius: 50%;
+    }
+    .utube1{
+        margin-left: 9rem;
+        margin-top: 3rem;
+        border-radius: 50%;
+    }
+    .twtter1{
+        margin-top: 3rem;
+        margin-left: 0.5rem;
+        border-radius: 50%;
+    }
+    
+}
+@media screen and (min-width:376px) and (max-width:382px){
+    .headersm{
+        font-weight: 600;
+        color: #fff;
+        padding-top: 5.5rem;
+        padding-left: 3rem;
+        font-size: 50px;
+        font-family: 'Google Sans', sans-serif;
+        font-weight: 500;
+        text-align-last: center;
+        padding-right: 1rem;
+    
+    }
+    .headersmmbps{
+       color: #fff;
+       padding-left: 4rem;
+       font-size: 22px;
+       font-family: 'Roboto',sans-serif;
+       font-weight: 300;
+       text-align-last: center;
+       padding-right: 2rem;
+    }     
+    .checksmbtn{
+        margin-left: 4rem;
+        margin-top: 2rem;
+        font-family: 'Open Sans', sans-serif;
+        width: 237.16px;
+        height: 48px;
+        background-color: #3084fc;
+        font-weight: 700;
+        font-size: 16px;
+    }
+    .smblowheader{
+        padding-top: 4rem;
+        padding-left: 2.7rem;
+        padding-right: 3rem;
+        font-size: 38px;
+         color: #536369; 
+         cursor: text;
+         font-family: "Google Sans"sans-serif;
+         font-weight: 400;
+         text-align-last:center;
+         word-spacing: -0.1em;
+         align-items: center;
+         justify-content: center;
+         text-align: center;
+
+    }       
+    .smpheader{
+        color: #536369; 
+        margin-top: 1rem;
+        padding-left: 2rem;
+        font-family: 'Roboto', sans-serif;
+        font-size: 18px;
+        text-align-last: center;
+    } 
+    .fbclk{
+        margin-top: 3rem;
+        margin-left: 10rem;
+        color: #ed4d1d;
+        cursor: text;
+        width: 395px;
+        height:35px;
+    }
+    .fbhot{
+        margin-top: 3rem;
+        margin-left: 10rem;
+        width: 50px;
+        height: 50px;
+        cursor: text;
+    }  
+    .fbstore{
+        margin-top: 3rem;
+        margin-left: 10rem;
+        width: 50px;
+        height: 50px;
+        cursor: text;
+    }           
+   
+    .clkcontent{
+        color: #536369;
+        padding-top: 2rem;
+        padding-left: 6.7rem;
+        font-family: 'Google Sans', sans-serif;
+        font-size: 18px;
+        font-weight: 300;
+    }
+    
+    .clkcontent1{
+        color: #536369;
+        padding-left: 7.5rem;
+        font-family: 'Google Sans', sans-serif;
+        font-size: 18px;
+        font-weight: 300;
+    }
+    .clkcontent2{
+        color: #536369;
+        padding-left: 1rem;
+        font-family: 'Roboto', sans-serif;
+        font-size: 18px;
+        font-weight: 300;
+       
+    }
+    .clkcontent3{
+        color: #536369;
+        margin-left: -0.5rem;
+        font-family: 'Roboto', sans-serif;
+        font-size: 18px;
+        font-weight: 300;
+       
+    }
+    .clkcontent4{
+        color: #536369;
+        padding-left: 10.7rem;
+        font-family: 'Roboto', sans-serif;
+        font-size: 18px;
+        font-weight: 300;
+        margin-top: -0rem;
+    }
+    
+    .clkcontent5{
+        color: #536369;
+        padding-left: 5.3rem;
+        font-family: 'Google Sans', sans-serif;
+        font-size: 18px;
+        font-weight: 400;
+    }
+    
+    .clkcontent6{
+        color: #536369;
+        padding-left: 7rem;
+        font-family: 'Google Sans', sans-serif;
+        font-size: 18px;
+        font-weight: 400;
+    }
+    .clkcontent7{
+        color: #536369;
+        margin-left: 2rem;
+        font-family: 'Roboto', sans-serif;
+        font-size: 18px;
+        font-weight: 300;
+        justify-content: center;
+        align-items: center;
+        padding-right: 2rem;
+        
+    }
+    .clkcontent8{
+        margin-left: 2.3rem;
+        color: #536369;
+        font-family: 'Roboto', sans-serif;
+        font-size: 18px;
+        font-weight: 300;
+        margin-top: -3.2rem;
+        text-align-last: center;
+        padding-right: 1rem;
+    }
+    .clkcontent9{
+        color: #536369;
+        padding-left: 5rem;
+        font-family: 'Google Sans', sans-serif;
+        font-size: 18px;
+        font-weight: 400;
+    }
+    
+    .clkcontent10{
+        color: #536369;
+        padding-left: 6.3rem;
+        font-family: 'Google Sans', sans-serif;
+        font-size: 18px;
+        font-weight: 400;
+    }
+    
+   
+    .clkcontent11{
+        color: #536369;
+        font-family: 'Roboto', sans-serif;
+        font-size: 18px;
+        font-weight: 300;
+        padding-left: 1rem;
+        margin-left: 3.5rem;
+    }
+    .clkcontent12{
+        color: #536369;
+        font-family: 'Roboto', sans-serif;
+        font-size: 18px;
+        font-weight: 300;
+        padding-left: 2.5rem;
+        margin-left: 0.5rem;
+    }
+    
+    .clkcontent13{
+        color: #536369;
+        padding-left: rem;
+        font-family: 'Roboto', sans-serif;
+        font-size: 18px;
+        font-weight: 300;
+        padding-left: 2.5rem;
+        margin-left: 1rem;
+        margin-top: -1.4rem;
+    }
+    #footer{
+        background-color: #f5f5f5;
+        width :383px;
+        margin-top: 8rem;
+        height:80vh;
+           
+    }
+    .cardpadd{
+        padding-top: 3rem;
+        margin-left: -1em;
+    }
+    .cardpadd1{
+        padding-top: 3rem;
+        margin-left: -1em;
+    }
+    .cardpadd2{
+        padding-top: 3rem;
+        margin-left: -1em;
+    }
+    .cardpadd3{
+        padding-top: 3rem;
+        margin-left: -1em;
+    }
+    #cardfooter{
+        background-color: #f5f5f5;
+        width: 383px;
+        margin-top: 4rem;
+        height: 100%;
+     }
+    .sort1{
+        width: 30px;
+        height: 30px;
+    }
+    .sort2{
+        width: 20px;
+        height: 30px;
+    }
+    strong{
+        color: #5F6368;
+        font-size: 13px;
+    }
+    .datacaps{
+      padding-left: 2.5rem;
+      font-size: 13px;
+      color: #5F6368;
+    }
+    .wifi{
+        padding-left: 1rem;
+        font-size: 13px;
+        color: #5F6368;
+      }
+      .wifi1{
+        padding-left: 2.5rem;
+        font-size: 13px;
+        color: #5F6368;
+      }
+    .cardbtnsign{
+        margin-left: 4rem;
+       font-weight: 600;
+       width: 120px;
+       height: 52px;
+       
+    }
+    .rs{
+        text-align: center;
+    }
+    .allplansheader{
+        color: #5F6368;
+        padding-left: 2rem;
+        padding-top: 4rem;
+        font-family: 'Google Sans', sans-serif;
+        font-size: 38px;
+        font-weight: 500;
+        padding-right: 2rem;
+        text-align-last: center;
+        width: 110%;
+        
+        
+    }
+    .cal{
+        opacity: .58;
+        margin-top: 3rem;
+        color: #5F6368;
+        margin-left:11rem;
+        width: 25px;
+        height: 64px;
+        cursor: text;
+    
+    }
+    .calcontent{
+        color: #536369;
+        padding-top: 1rem;
+        padding-left: 7rem;
+        font-family: 'Google Sans', sans-serif;
+        font-size: 18px;
+        font-weight: 400;
+    }
+    .calcontent2{
+        color: #536369;
+        padding-left: 6rem;
+        font-family: 'Roboto', sans-serif;
+        font-size: 18px;
+        font-weight: 300;
+    }
+    .calcontent3{
+        color: #536369;
+        padding-left: 8rem;
+        font-family: 'Roboto', sans-serif;
+        font-size: 18px;
+        font-weight: 300;
+        margin-top: 0.1rem;
+  
+    }
+    .calcontent4{
+        color: #536369;
+        padding-top: 1.5rem;
+        padding-left: 8.5rem;
+        font-family: 'Google Sans', sans-serif;
+        font-size: 18px;
+        font-weight: 400;
+    }
+    .calcontent5{
+        padding-top: 1.5rem;
+        color: #536369;
+         font-family: 'Google Sans', sans-serif;
+        font-size: 18px;
+        font-weight: 400;
+        margin-left: 8rem;
+    }
+    .calcontent6{
+        color: #536369;
+        font-family: 'Roboto', sans-serif;
+        font-size: 18px;
+        font-weight: 300;
+        margin-left: 6rem;
+    
+    }
+    .calcontent7{
+        color: #536369;
+        font-family: 'Roboto', sans-serif;
+        font-size: 18px;
+        font-weight: 300;
+        margin-left: 2rem;
+        margin-right:4.1rem;
+        text-align-last:right ;
+       
+    
+    }
+  .cal11{
+        color: #536369;
+        font-family: 'Roboto', sans-serif;
+        font-size: 18px;
+        font-weight: 300;
+        margin-left: 4rem;
+    }
+    .calcontent8{
+        color: #536369;
+        font-family: 'Roboto', sans-serif;
+        font-size: 18px;
+        font-weight: 300;
+        margin-left: 1rem;
+    }
+    .calcon{
+        color: #536369;
+        font-family: 'Roboto', sans-serif;
+        font-size: 18px;
+        font-weight: 300;
+        margin-left:-2rem;
+    }
+    .calcontent9{
+        padding-top: 1.5rem;
+        padding-left: 6rem;
+        color: #536369;
+         font-family: 'Google Sans', sans-serif;
+        font-size: 18px;
+        font-weight: 400;
+
+    }
+    .calcontent10{
+        color: #536369;
+        font-family: 'Roboto', sans-serif;
+        font-size: 18px;
+        font-weight: 300;
+        padding-left: 5rem;
+    }
+    .plansort{
+        opacity: .28;
+        margin-top: 3rem;
+        color: #5F6368;
+        margin-left:10.7rem;
+        width: 40px;
+        height: 40px;
+        cursor: text;
+    }
+    .plannote{
+        margin-left: 11rem;
+        opacity: .48;
+        margin-top: 3rem;
+        color: #5F6368;
+        width: 60px;
+        height: 54px;
+        cursor: text;
+    }
+    .planmessage{
+        margin-left: 11rem;
+        opacity: .48;
+        margin-top: 3rem;
+        color: #5F6368;
+        width: 30px;
+        height: 40px;
+        cursor: text;
+    }
+    .tectpartner{
+        margin-top: 6rem;
+        position: relative;
+        height: 510px;
+       background-image: url(Images/16.jpg);
+        background-size: cover;
+       background-position: center;
+       width: 375px;
+    }
+    .techheader{
+        font-weight: 500;
+        color: #fff;
+        padding-top: 6rem;
+        padding-left: 4rem;
+        font-size: 46px;
+        font-family: 'Google Sans', sans-serif;
+        text-align-last: center;
+        padding-right:3.5rem;
+    }
+    .techpheader{
+        color: #fff;
+        padding-top: 1rem;
+        padding-left: 2.5rem;
+        font-size: 16px;
+        font-family: 'Roboto',sans-serif;
+        text-align-last:center;
+        padding-right: 2rem;
+    }
+    .techp2header{
+        color: #fff;
+        padding-left: 20rem;
+        font-size: 18px;
+        font-family: 'Open Sans',sans-serif;
+    }
+    .tectpartnerbtn{
+        margin-left: 6rem;
+        margin-top: 0.5rem;
+        font-family: 'Open Sans', sans-serif;
+        width: 177.69px;
+        height: 44px;
+         color: #fff;
+         border-color: #fff;
+        font-weight: 700;
+        font-size: 13px;
+    
+    }
+    .techpartnerit{
+        color: #fff;
+        padding-top: 2rem;
+        padding-left: 5rem;
+        font-size: 16px;
+        font-family: 'Roboto',sans-serif;
+        text-align-last:center ;
+    }
+    .becomepartnerit{
+        color: #fff;
+        font-weight: 400;
+        padding-left: 6.5rem;    
+    }
+    .startedfooter{
+        background-color: #f5f5f5;
+        height: 60vh;
+        width: 383px;
+        height: 130%;
+    }
+    .startedheader{
+        font-weight: 500;
+        color:#5f6368;
+        padding-top: 3.5rem;
+       padding-left: 5.5rem;
+        font-size: 38px;
+        font-family: 'Google Sans',sans-serif;
+        padding-right: 5.5rem;
+        text-align-last:center ;
+    }
+    .getstartedbtn{
+        margin-left:4.5rem;
+        margin-top: 2rem;
+        font-family: 'Open Sans', sans-serif;
+        width: 233.16px;
+        height: 48px;
+        background-color: #3084fc;
+        font-weight: 700;
+        font-size: 16px;
+    }
+    .findEmailus{
+        font-weight: 500;
+        font-family: 'Google Sans',sans-serif;
+        font-size: 40px;
+        color: #5f6368;
+    }
+    .findtechpartnerheader{
+        padding-top: 1rem;
+        padding-left: 2rem;
+        font-size: 16px;
+        font-family: 'Google Sans',sans-serif;
+        font-weight: 400;
+    
+    }
+    .findtechpartnerheader:hover{
+        color: blue;
+        cursor: pointer;
+    }
+    .becometechpartnerheader{
+        padding-top: 1rem;
+        text-align: center;
+        font-weight: 500;
+        font-family: 'Google Sans',sans-serif;
+        font-size: 20px;
+        color: #5f6368;
+    }
+    .query{
+        padding-top: 1rem;
+        padding-left: 2rem;
+        font-size: 20px;
+        font-family: 'Google Sans',sans-serif;
+        font-weight: 400;
+    }
+    .touchheader{
+        font-weight: 600;
+        color: #616161;
+        padding-left: 23rem;
+        padding-top: 8rem;
+        font-size: 52px;
+        
+        font-family: 'Open Sans', sans-serif;
+    }
+    .giga3{
+        padding-left: -2rem;
+        padding-top: 8rem;
+        font-size: 28px;
+        font-family: 'Google Sans,Roboto,Arial,Helvetica',sans-serif;
+        color: #202124;
+    }
+    .add{
+        margin-left: 3rem;
+        width: 330px;
+        height:48px;
+    }
+  
+    .btsign{
+       margin-left: 5.8rem;
+       margin-top: 1rem;
+       font-family: 'Open Sans', sans-serif;
+       width: 240px;
+       height: 48px;
+       background-color: #1E8E3E;
+    } 
+    .signp{
+        color: #5F6368;
+        padding-left: 3rem;
+        margin-top: 5rem;
+        font-size: 14px;
+        font-family: "Roboto"; 
+        font-weight:400;
+    
+    }
+    .signp2{
+        color: #5F6368;
+        padding-left: 10rem;
+        font-size: 14px;
+    }
+    .signp3{
+        color: #5F6368;
+        padding-left: 34rem;
+    
+    }
+    .signp4{
+        color: #5F6368;
+        margin-top: -1rem;
+        margin-left: 5rem;
+        font-size: 14px;
+        font-family: 'Roboto';
+        font-weight: 400;
+
+    
+    }
+    .signp5{
+        color: #5F6368;
+        margin-top: -1rem;
+        text-align-last: center;
+        font-size: 14px;
+        font-family: 'Roboto';
+        font-weight: 400;
+
+        
+    }
+     
+   
+}
+@media screen and (min-width:340px) and (max-width:353px){
+    .giga3{
+        padding-left: 8rem;
+        padding-top: 8rem;
+        font-size: 28px;
+        font-family: 'Google Sans,Roboto,Arial,Helvetica',sans-serif;
+        color: #202124;
+    }
+}
